@@ -1,5 +1,12 @@
+url: http://coda.caseykuhlman.com
+
+source:      .
+plugins:     ./_plugins
+
 safe: true
-source: https://github.com/compleatang/compleatang.github.com.git
 lsi: false
+
 pygments: true
+paginate: false
+
 permalink: /entries/:year/:title.html
