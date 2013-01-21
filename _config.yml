@@ -1,0 +1,4 @@
+safe: true
+source: https://github.com/compleatang/compleatang.github.com.git
+lsi: false
+pygments: true
