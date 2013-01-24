@@ -1,12 +1,8 @@
+name: The Legal Coda
+description: "Processes and Thoughts on Coding the Law & Treating the Law as Code"
 url: http://coda.caseykuhlman.com
-
-source:      .
-plugins:     ./_plugins
-
 safe: true
 lsi: false
-
 pygments: true
-paginate: false
-
+pagination: 10
 permalink: /entries/:year/:title.html
