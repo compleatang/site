@@ -1,8 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
 name: The Legal Coda
+subtitle: hacking the law
 description: "Processes and Thoughts on Coding the Law & Treating the Law as Code"
 url: http://coda.caseykuhlman.com
+author: Casey Kuhlman
+
+# TODO: reroute this to feedburner
+subscribe_rss: /atom.xml
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+root: /
+permalink: /entries/:year/:title.html
 safe: true
 lsi: false
 pygments: true
 pagination: 10
-permalink: /entries/:year/:title.html
+markdown: maruku
+category_dir: entries/category
+excerpt_link: "Read more &rarr;"
+titlecase: true
+
+# ----------------------- #
+#      Personalized       #
+# ----------------------- #
+
