@@ -4,7 +4,8 @@ layout: posts
 title: Pandoc for Legal Documents
 published: true
 category: legal markdown
-tags: legal markdown, thoughts
+tags: [legal markdown, thoughts]
+excerpt: "Lately, I have been writing a lot in markdown. It is a freeing way to write documents because you focus more on the words than the tools around you in the wordprocessing interface. You pick your favorite environment to write -- for me it is Sublime Text -- and then you write. But, clients and courts do not read Github Flavored Markdown."
 
 ---
 
