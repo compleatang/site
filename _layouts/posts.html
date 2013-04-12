@@ -38,20 +38,11 @@
       </p>
     </article>
       {% if page.comments %}
-        <section class="comments">
-          <script type="text/javascript">
-            var disqus_shortname = 'codalegalcoding';
-            /* * * DON'T EDIT BELOW THIS LINE * * */
-            (function() {
-                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
-          </script>
-        </section><!-- .comments -->
+        {% include comments.html %}
       {% endif %}
   </div><!-- .single-post-container -->
 <aside class="sidebar">
   {% include sidebar.html %}
 </aside>
 {% include footer.html %}
+{% include analytics.html %}
