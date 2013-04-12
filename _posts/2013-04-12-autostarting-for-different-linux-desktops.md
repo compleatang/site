@@ -6,6 +6,7 @@ published: true
 category:  linux for lawyers
 tags:      [linux, gnome, unity]
 excerpt:   "One of the most obvious appeals of Linux to me is the insane levels of customization you can achieve. I mainly use Gnome Shell as my desktop environment, but since I use Ubuntu I keep Unity on my machine. This is how I start different programs when logging into different desktops."
+comments:  true
 
 ---
 
