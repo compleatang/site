@@ -6,7 +6,12 @@ name: The Legal Coda
 subtitle: hacking the law
 description: "Processes and Thoughts on Coding the Law & Treating the Law as Code"
 url: http://coda.caseykuhlman.com
-author: Casey Kuhlman
+author :
+  name : Casey Kuhlman
+  email : caseykuhlman@watershedlegal.com
+  github : compleatang
+  twitter : compleatang
+exclude: [".ruby-version", ".ruby-gemset", "README.md", "Rakefile"]
 
 # TODO: reroute this to feedburner
 subscribe_rss: /atom.xml
@@ -22,7 +27,8 @@ lsi: false
 pygments: true
 pagination: 10
 markdown: maruku
-category_dir: entries/category
+category_path: entries/category
+atom_path: /atom.xml
 excerpt_link: "Read more &rarr;"
 titlecase: true
 
@@ -33,3 +39,20 @@ titlecase: true
 images_dir: "/assets/images"
 scripts_dir: "/assets/scripts"
 styles_dir: "/assets/styles"
+
+
+# ----------------------- #
+#        Comments         #
+# ----------------------- #
+comments :
+  provider : disqus
+  disqus :
+    short_name : codalegalcoding
+
+# ----------------------- #
+#       Analytics         #
+# ----------------------- #
+analytics :
+  provider : getclicky
+  getclicky : 
+    site_id : 66416567
