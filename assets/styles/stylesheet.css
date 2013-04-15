@@ -5,15 +5,32 @@ body {
   color: #eaeaea;
   font: 16px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family:'Habibi', serif;
 }
 
 /* General & 'Reset' Stuff */
 
 .container {
   width: 90%;
-  max-width: 600px;
+  /*max-width: 600px;*/
   margin: 0 auto;
+}
+
+header {
+  width: 70%;
+  margin: auto;
+}
+
+aside.sidebar {
+  position: fixed;
+  width: 10%;
+  right: 0;
+  top: 10%;
+}
+
+article {
+  width:  60%;
+  margin: auto;
 }
 
 section {
@@ -21,12 +38,26 @@ section {
   margin: 0 0 20px 0;
 }
 
+footer {
+  width: 40%;
+  margin: 2.8em auto;
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px;
 }
 
 li {
-  line-height: 1.4 ;
+  line-height: 1.4em;
+}
+
+/* Links
+   a, a:hover, a:visited
+*/
+
+a {
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.2);
 }
 
 /* Header, <header>
@@ -37,18 +68,17 @@ li {
 
 header {
   background: rgba(0, 0, 0, 0.1);
-  width: 100%;
   border-bottom: 1px dashed #b5e853;
   padding: 20px 0;
-  margin: 0 0 40px 0;
+  margin-bottom: 2.8em;
 }
 
 header h1 {
   font-size: 30px;
   line-height: 1.5;
-  margin: 0 0 0 -40px;
+  margin: 0 0 0 -20px;
   font-weight: bold;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: 'Happy Monkey', cursive;
   color: #b5e853;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -58,11 +88,12 @@ header h1 {
 }
 
 header h1:before {
-  content: "./ ";
+  content: "> ";
   font-size: 24px;
 }
 
 header h2 {
+  font-family: 'Happy Monkey', cursive;
   font-size: 18px;
   font-weight: 300;
   color: #666;
@@ -87,7 +118,7 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: 'Happy Monkey', cursive;
   color: #b5e853;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
@@ -135,7 +166,6 @@ ul li {
 
 ul li:before {
   content: ">>";
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 13px;
   color: #b5e853;
   margin-left: -37px;
@@ -150,6 +180,7 @@ blockquote {
 }
 
 pre {
+  font-family: 'Bitstream Vera Sans Mono', 'PT Mono', Terminal, monospace;
   background: rgba(0, 0, 0, 0.9);
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
@@ -185,8 +216,15 @@ hr {
   color: #b5e853;
 }
 
-/* Buttons
-*/
+/* SideBar */
+
+aside.sidebar .gravatar {
+  float: right;
+  margin-right: 16px;
+  border: 3px inset rgba(181, 232, 83,0.65);
+}
+
+/* Buttons */
 
 .btn {
   display: inline-block;
@@ -220,15 +258,6 @@ hr {
 .btn-github .icon {
   opacity: 0.6;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
-}
-
-/* Links
-   a, a:hover, a:visited
-*/
-
-a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
 /* Clearfix */
