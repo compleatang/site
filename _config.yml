@@ -2,48 +2,49 @@
 #      Main Configs       #
 # ----------------------- #
 
-name: The Legal Coda
-subtitle: hacking the law
+name:        The Legal Coda
+subtitle:    hacking the law
 description: "Processes and Thoughts on Coding the Law & Treating the Law as Code"
-url: http://coda.caseykuhlman.com
-author :
-  name : Casey Kuhlman
-  email : caseykuhlman@watershedlegal.com
-  github : compleatang
-  twitter : compleatang
+url:         http://coda.caseykuhlman.com
+author:      
+  name:    Casey Kuhlman
+  email:   caseykuhlman@watershedlegal.com
+  github:  compleatang
+  twitter: compleatang
 exclude: [".ruby-version", ".ruby-gemset", "README.md", "Rakefile"]
 
 # TODO: reroute this to feedburner
-subscribe_rss: /atom.xml
+subscribe_rss: /rss.xml
 
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
 
-root: /
-permalink: /entries/:year/:title.html
-safe: true
-lsi: false
-pygments: true
-pagination: 10
-markdown: maruku
-category_path: entries/category
-atom_path: /atom.xml
-excerpt_link: "Read more &rarr;"
-titlecase: true
+root:            "/home/coda/sites/coda/_site/"
+permalink:       "entries/:year/:title.html"
+safe:            true
+lsi:             false
+pygments:        true
+pagination:      10
+markdown:        maruku
+categories_path: "categories.html"
+atom_path:       /atom.xml
+excerpt_link:    "Read more &rarr;"
+titlecase:       true
 
 # ----------------------- #
 #      Personalized       #
 # ----------------------- #
 
-images_dir: "/assets/images"
+images_dir:  "/assets/images"
 scripts_dir: "/assets/scripts"
-styles_dir: "/assets/styles"
+styles_dir:  "/assets/styles"
 
 
 # ----------------------- #
 #        Comments         #
 # ----------------------- #
+
 comments :
   provider : disqus
   disqus :
@@ -52,6 +53,7 @@ comments :
 # ----------------------- #
 #       Analytics         #
 # ----------------------- #
+
 analytics :
   provider : getclicky
   getclicky : 
