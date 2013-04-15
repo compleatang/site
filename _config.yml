@@ -13,8 +13,10 @@ author:
   twitter: compleatang
 exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile"]
 
-subscribe_rss: /rss.xml
+subscribe_rss:  /rss.xml
 subscribe_atom: /atom.xml
+atom_path:      /atom.xml
+rss_path:       /atom.xml
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -28,7 +30,6 @@ pygments:        true
 pagination:      10
 markdown:        maruku
 categories_path: "categories.html"
-atom_path:       /atom.xml
 excerpt_link:    "Read more &rarr;"
 titlecase:       true
 
