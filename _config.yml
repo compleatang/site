@@ -11,10 +11,10 @@ author:
   email:   caseykuhlman@watershedlegal.com
   github:  compleatang
   twitter: compleatang
-exclude: [".ruby-version", ".ruby-gemset", "README.md", "Rakefile"]
+exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile"]
 
-# TODO: reroute this to feedburner
 subscribe_rss: /rss.xml
+subscribe_atom: /atom.xml
 
 # ----------------------- #
 #    Jekyll & Plugins     #
