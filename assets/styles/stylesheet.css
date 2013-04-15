@@ -45,7 +45,8 @@ section {
 }
 footer {
   width: 40%;
-  margin: 2.8em auto;
+  margin: auto;
+  margin-top: 4.2em;
 }
 
 h1, h2, h3, h4, h5, h6 {
