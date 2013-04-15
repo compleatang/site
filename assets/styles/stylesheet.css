@@ -185,6 +185,21 @@ blockquote {
   border-left: 1px dotted #666;
 }
 
+/* Code */
+code{
+  font-family: 'Bitstream Vera Sans Mono', 'PT Mono', Terminal, monospace;
+  background: rgba(20, 20, 20, .15);
+  border: 2px inset rgba(225, 225, 225, .15);
+  font-size: 14px;
+  color: #b5e853;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  text-wrap: normal;
+  overflow: auto;
+  overflow-y: hidden;
+}
+
 pre {
   font-family: 'Bitstream Vera Sans Mono', 'PT Mono', Terminal, monospace;
   background: rgba(0, 0, 0, 0.9);
@@ -200,6 +215,9 @@ pre {
   overflow-y: hidden;
 }
 
+pre code {
+  border: none;
+}
 table {
   width: 100%;
   margin: 0 0 20px 0;
@@ -268,21 +286,6 @@ aside.sidebar a /h4 {
 .btn-github .icon {
   opacity: 0.6;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
-}
-
-/* Code */
-code{
-  font-family: 'Bitstream Vera Sans Mono', 'PT Mono', Terminal, monospace;
-  background: rgba(20, 20, 20, .15);
-  border: 2px inset rgba(225, 225, 225, .15);
-  font-size: 14px;
-  color: #b5e853;
-  border-radius: 2px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  text-wrap: normal;
-  overflow: auto;
-  overflow-y: hidden;
 }
 
 /* Clearfix */
