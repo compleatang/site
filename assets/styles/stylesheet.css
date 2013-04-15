@@ -247,6 +247,13 @@ hr {
   color: #b5e853;
 }
 
+a.prev-entry {
+  float: left;
+}
+
+a.next-entry {
+  float: right;
+}
 /* SideBar */
 
 aside.sidebar .gravatar {
