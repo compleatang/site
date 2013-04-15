@@ -58,6 +58,7 @@ li {
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.2);
+  text-decoration: none;
 }
 
 /* Header, <header>
@@ -224,9 +225,9 @@ aside.sidebar .gravatar {
   border: 3px inset rgba(181, 232, 83,0.65);
 }
 
-aside.sidebar a h4 {
+aside.sidebar a /h4 {
   text-decoration: none;
-  margin-top: 1.4em;
+  margin-top: 1.2em;
 }
 /* Buttons */
 
