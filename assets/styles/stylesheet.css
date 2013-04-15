@@ -44,7 +44,8 @@ section {
 
 .comments {
   width: 60%;
-  margin: auto
+  margin: auto;
+  max-width: 800px;
 }
 
 footer {
