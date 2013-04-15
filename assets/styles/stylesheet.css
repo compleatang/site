@@ -224,6 +224,10 @@ aside.sidebar .gravatar {
   border: 3px inset rgba(181, 232, 83,0.65);
 }
 
+aside.sidebar a h4 {
+  text-decoration: none;
+  margin-top: 1.4em;
+}
 /* Buttons */
 
 .btn {
