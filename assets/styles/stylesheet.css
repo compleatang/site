@@ -38,6 +38,10 @@ section {
   margin: 0 0 20px 0;
 }
 
+.comments {
+  width: 60%;
+  margin: auto
+}
 footer {
   width: 40%;
   margin: 2.8em auto;
