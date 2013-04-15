@@ -19,6 +19,7 @@ body {
 header {
   width: 70%;
   margin: auto;
+  display: block;
 }
 
 aside.sidebar {
@@ -267,6 +268,22 @@ aside.sidebar a /h4 {
 .btn-github .icon {
   opacity: 0.6;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
+}
+
+/* Code */
+code{
+  font-family: 'Bitstream Vera Sans Mono', 'PT Mono', Terminal, monospace;
+  background: rgba(20, 20, 20, .15);
+  border: 2px inset rgba(225, 225, 225, .15);
+  padding: 10px;
+  font-size: 14px;
+  color: #b5e853;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  text-wrap: normal;
+  overflow: auto;
+  overflow-y: hidden;
 }
 
 /* Clearfix */
