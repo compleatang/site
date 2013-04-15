@@ -1,11 +1,12 @@
 ---
 
-layout: posts
-title: My (Current) Transactional Documents Work Flow
+layout:    posts
+title:     My (Current) Transactional Documents Work Flow
 published: true
-category: legal markdown
-tags: [legal markdown, thoughts]
-excerpt: "This is an outline of my basic workflow, as of the date of this article and mostly for posterity's sake. There isn't much to it really, but it greatly depends on if I'm writing a memo or building a contract (my, and probably every other transactional attorney's, most frequent tasks). This post will cover my basic workflow when I'm building contracts."
+category:  legal markdown
+tags:      [legal markdown, thoughts]
+excerpt:   "This is an outline of my basic workflow, as of the date of this article and mostly for posterity's sake. There isn't much to it really, but it greatly depends on if I'm writing a memo or building a contract (my, and probably every other transactional attorney's, most frequent tasks). This post will cover my basic workflow when I'm building contracts."
+comments:  true
 
 ---
 
