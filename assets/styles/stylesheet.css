@@ -46,6 +46,7 @@ section {
 footer {
   width: 40%;
   margin: auto;
+  clear: both;
   margin-top: 4.2em;
 }
 
