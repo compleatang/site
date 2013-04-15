@@ -2,22 +2,22 @@ body {
   margin: 0;
   padding: 0;
   background: #151515 url("../images/bkg.png") 0 0;
-  color: #eaeaea;
+  color: #ddd;
   font: 16px;
   line-height: 1.5;
-  font-family:'Habibi', serif;
+  font-family: 'Habibi', 'Minion Web', serif;
 }
 
-/* General & 'Reset' Stuff */
-
+/* Structural Elements */
 .container {
-  width: 90%;
-  /*max-width: 600px;*/
+  width: 80%;
+  /*max-width: 800px;*/
   margin: 0 auto;
 }
 
 header {
   width: 70%;
+  max-width: 900px;
   margin: auto;
   display: block;
 }
@@ -27,11 +27,14 @@ aside.sidebar {
   width: 10%;
   right: 0;
   top: 10%;
+  text-align: justify;
+  margin-right: 18px;
 }
 
 article {
   width:  60%;
   margin: auto;
+  max-width: 800px;
 }
 
 section {
@@ -43,6 +46,7 @@ section {
   width: 60%;
   margin: auto
 }
+
 footer {
   width: 40%;
   margin: auto;
@@ -50,6 +54,7 @@ footer {
   margin-top: 4.2em;
 }
 
+/* Main Elements */
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px;
 }
@@ -58,27 +63,20 @@ li {
   line-height: 1.4em;
 }
 
-/* Links
-   a, a:hover, a:visited
-*/
-
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.2);
   text-decoration: none;
 }
 
-/* Header, <header>
-   header   - container
-   h1       - project name
-   h2       - project description
-*/
-
+/* Header */
 header {
   background: rgba(0, 0, 0, 0.1);
   border-bottom: 1px dashed #b5e853;
   padding: 20px 0;
   margin-bottom: 2.8em;
+  font-family: 'Happy Monkey', cursive;
+  -webkit-font-smoothing: antialiased;
 }
 
 header h1 {
@@ -86,13 +84,11 @@ header h1 {
   line-height: 1.5;
   margin: 0 0 0 -20px;
   font-weight: bold;
-  font-family: 'Happy Monkey', cursive;
   color: #b5e853;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
-  -webkit-font-smoothing: antialiased;
 }
 
 header h1:before {
@@ -100,26 +96,13 @@ header h1:before {
   font-size: 24px;
 }
 
-header h1.entry-title {
-  width: 100%;
-}
-
 header h2 {
-  font-family: 'Happy Monkey', cursive;
   font-size: 18px;
   font-weight: 300;
   color: #666;
 }
 
-#downloads .btn {
-  display: inline-block;
-  text-align: center;
-  margin: 0;
-}
-
-/* Main Content
-*/
-
+/* Main Content */
 #main_content {
   width: 100%;
   -webkit-font-smoothing: antialiased;
@@ -188,7 +171,10 @@ ul li:before {
 blockquote {
   color: #aaa;
   padding-left: 10px;
+  padding-right: 10px;
   border-left: 1px dotted #666;
+  border-right: 1px dotted #666;
+  text-align: justify;
 }
 
 /* Code */
@@ -227,6 +213,7 @@ pre code {
   padding: none;
 }
 
+/* Tables & Other Elements */
 table {
   width: 100%;
   margin: 0 0 20px 0;
@@ -249,15 +236,37 @@ hr {
   color: #b5e853;
 }
 
-a.prev-entry {
+/* Meta */
+.entry-meta {
+  background: rgba(50, 50, 50, 0.6);
+  border: 2px inset rgba(255, 255, 255, 0.15);
+  padding: 1.2em;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  text-wrap: normal;
+  overflow: auto;
+}
+
+.entry-meta .entry-info {
+  text-align: center;
+  margin-top: 0;
+}
+
+.entry-meta hr {
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.15);
+  color: rgba(255, 255, 255, 0.15);
+}
+
+.entry-meta a.prev-entry {
   float: left;
 }
 
-a.next-entry {
+.entry-meta a.next-entry {
   float: right;
 }
-/* SideBar */
 
+/* SideBar */
 aside.sidebar .gravatar {
   float: right;
   margin-right: 16px;
@@ -268,8 +277,8 @@ aside.sidebar a /h4 {
   text-decoration: none;
   margin-top: 1.2em;
 }
-/* Buttons */
 
+/* Buttons */
 .btn {
   display: inline-block;
   background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.3), rgba(35, 35, 35, 0.3) 50%, rgba(10, 10, 10, 0.3) 50%, rgba(0, 0, 0, 0.3));
@@ -304,8 +313,13 @@ aside.sidebar a /h4 {
   background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
-/* Clearfix */
+#downloads .btn {
+  display: inline-block;
+  text-align: center;
+  margin: 0;
+}
 
+/* Clearfix */
 .cf:before, .cf:after {
   content:"";
   display:table;
