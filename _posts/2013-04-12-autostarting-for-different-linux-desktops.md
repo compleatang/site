@@ -10,8 +10,6 @@ comments:  true
 
 ---
 
-# Autostarting Different Programs in Different Desktops
-
 One of the most obvious appeals of Linux to me is the insane levels of customization you can achieve. I mainly use Gnome Shell as my desktop environment, but since I use Ubuntu I keep Unity on my machine. I'm not a hater of Unity or Gnome as many Linux users (who can be quite vitriolic in their statements as to desktop environments). I *mostly* use Gnome, but since Ubuntu has some interesting things going on with Unity sometimes I like to drop into Unity to see what I'm missing.
 
 There is a problem at least in Ubuntu 12.10 running both desktops. To use Gnome Shell one *should* install the `gdm` package in order to get the full Gnome desktop experience - including the Gnome lock screen which is beautiful. GDM stands for Gnome Desktop Manager. It is an alternative to `lightdm` which Ubuntu installs by default and which Unity uses. When you switch to gdm I found out that just after installing it you should logout of Unity before restarting your machine. But I didn't do that.
