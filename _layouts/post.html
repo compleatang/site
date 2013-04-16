@@ -1,12 +1,12 @@
 {% include header.html %}
 {% unless page.no_header %}
   <header>
-    <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+    <h1>{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
   </header>
 {% endunless %}
-<article class="entry">
-  <div class="entry-content">{{ content }}</div>        
-  {% include entry_meta.html %}
+<article>
+  {{ content }}        
+  {% include meta.html %}
 </article>
 <br />
 {% if page.comments %}
