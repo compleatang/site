@@ -1,46 +1,22 @@
 ---
 title: 'Do You Feel Safer Now: Reflections on the Ten Year Anniversary of Iraqi Invasion'
 author: Casey Kuhlman
-excerpt: |
-  >
+excerpt: 
     We are looking at ten years since America invaded. Here are my thoughts on that
     topic.
 layout: post
-permalink: >
-  /entry/do-you-feel-safer-now-reflections-on-the-ten-year-anniversary-of-iraqi-invasion
-st_cached:
-  - '<ul class="socialize-this"><li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fblog.caseykuhlman.com%2Fentry%2Fdo-you-feel-safer-now-reflections-on-the-ten-year-anniversary-of-iraqi-invasion&title=Do+You+Feel+Safer+Now%3A+Reflections+on+the+Ten+Year+Anniversary+of+Iraqi+Invasion" target="_blank" title="Upvote on Reddit" class="reddit cuteset">Upvote</a></li><li><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fblog.caseykuhlman.com%2Fentry%2Fdo-you-feel-safer-now-reflections-on-the-ten-year-anniversary-of-iraqi-invasion&t=Do+You+Feel+Safer+Now%3A+Reflections+on+the+Ten+Year+Anniversary+of+Iraqi+Invasion" target="_blank" title="Share on Facebook" class="facebook cuteset">Share</a></li><li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblog.caseykuhlman.com%2Fentry%2Fdo-you-feel-safer-now-reflections-on-the-ten-year-anniversary-of-iraqi-invasion&title=Do+You+Feel+Safer+Now%3A+Reflections+on+the+Ten+Year+Anniversary+of+Iraqi+Invasion" target="_blank" title="Upvote on StumbleUpon" class="stumbleupon cuteset">Upvote</a></li><li><a href="http://twitter.com/home?status=Currently Reading http%3A%2F%2Fis.gd%2FNvZcFp"  target="_blank" title="Retweet on Twitter" class="twitter cuteset">Tweet</a></li></ul>'
-st_tiny_url:
-  - http://is.gd/NvZcFp
-st_twitter:
-  - 2
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365805266
-st_cached_time:
-  - 1363800882
-st_facebook:
-  - 1
-st_googleplusones:
-  - 0
-categories:
-  - living
+category: living
 tags:
   - conflict v. peace
   - iraq
   - life
 ---
-# 
 
-[![Peace or V for Victory by yater @ flickr][2]][2]
-Peace or V for Victory by yater @ flickr
+[![Peace or V for Victory by yater @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/2013/237347393_5b0a2f1121_z.jpg "Peace or V for Victory by yater @ flickr")][pict1]
 
 On a day, of which the tenth anniversary is fast approaching, I was standing on a roundabout watching a bunch of people I knew and a machine I was familiar with rip down a statute. It was a day seared into my memory as I was thoroughly convinced that I was in the midst of an iconic moment. In some ways that belief was correct. Only it was just not the type of icon I was thinking it would be.
 
- []: http://www.flickr.com/photos/yatesaustin/237347393/
+[pict1]: http://www.flickr.com/photos/yatesaustin/237347393/
 
 ## Baghdad, Early, 2003
 
