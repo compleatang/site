@@ -11,7 +11,6 @@ body {
 /* Structural Elements */
 .container {
   width: 80%;
-  /*max-width: 800px;*/
   margin: 0 auto;
 }
 
@@ -19,16 +18,13 @@ header {
   width: 70%;
   max-width: 900px;
   margin: auto;
-  display: block;
 }
 
-aside.sidebar {
+.sidebar {
   position: fixed;
-  width: 10%;
+  width: 12%;
   right: 0;
   top: 10%;
-  text-align: justify;
-  margin-right: 18px;
 }
 
 article {
@@ -50,6 +46,7 @@ section {
 
 footer {
   width: 40%;
+  text-align: center;
   margin: auto;
   clear: both;
   margin-top: 4.2em;
@@ -201,7 +198,6 @@ pre {
   border-radius: 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
-  text-wrap: normal;
   overflow: auto;
   white-space: pre;
   overflow-y: hidden;
@@ -266,18 +262,22 @@ hr {
 }
 
 /* SideBar */
+aside.sidebar {
+  margin-right: 18px;
+}
+
 aside.sidebar .gravatar {
   float: right;
   margin-right: 0;
   margin-left: 8px;
   border: 3px inset rgba(181, 232, 83,0.65);
-  width: 80px;
-  height: 80px;
+  width: 50%;
+  max-width: 60px;
 }
 
-aside.sidebar a /h4 {
+aside.sidebar a h4 {
   text-decoration: none;
-  margin-top: 1.2em;
+  text-align: center;
 }
 
 /* Buttons */
@@ -333,4 +333,71 @@ aside.sidebar a /h4 {
 
 .cf {
   zoom:1;
+}
+
+@media only screen and (max-width: 1250px) and (min-width: 901px) {
+  .container {
+    width: 80%;
+  }
+
+  header {
+    width: 80%;
+  }
+
+  .sidebar {
+    width: 10%;
+  }
+
+  article {
+    width: 80%;
+  }
+
+  .comments {
+    width: 80%;
+  }
+
+  footer {
+    width: 80%;
+  }
+
+  .sidebar .gravatar {
+    float: none;
+    margin: 0 25% 0.8em 25%;
+    border: 3px inset rgba(181, 232, 83,0.65);
+    width: 50%;
+    max-width: 60px;
+  }
+
+}
+
+@media only screen and (max-width: 900px) {
+  .container {
+    width: 100%;
+  }
+
+  header {
+    width: 90%;
+  }
+
+  .sidebar {
+    margin: 4.2em auto 0 auto;
+    position: static;
+    width: 90%;
+  }
+
+  article {
+    width:  90%;
+  }
+
+  .comments {
+    width: 90%;
+  }
+
+  footer {
+    width: 90%;
+  }
+
+  .sidebar .gravatar {
+    display: none;
+  }
 }
