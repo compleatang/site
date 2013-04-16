@@ -115,9 +115,6 @@ header h2 {
   width: 100%;
   -webkit-font-smoothing: antialiased;
 }
-section img {
-  max-width: 100%
-}
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
@@ -156,6 +153,16 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   color: #999;
   margin: 0 0 5px 0;
+}
+
+section img {
+  max-width: 50%
+}
+
+.content img {
+  max-width: 65%;
+  float: left;
+  padding: 1.2em 1.2em 1.2em 0;
 }
 
 dt {
@@ -476,5 +483,11 @@ aside.sidebar a h4 {
     border-radius: 0;
     -moz-border-radius: 0;
     -webkit-border-radius: 0;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  img {
+    display: none;
   }
 }
