@@ -12,10 +12,10 @@ author:
   twitter: compleatang
 exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile"]
 
-subscribe_rss:  /rss.xml
-subscribe_atom: /atom.xml
-atom_path:      /atom.xml
-rss_path:       /rss.xml
+subscribe_rss:  ./rss.xml
+subscribe_atom: ./atom.xml
+atom_path:      ./atom.xml
+rss_path:       ./rss.xml
 
 # ----------------------- #
 #    Jekyll & Plugins     #
