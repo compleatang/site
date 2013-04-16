@@ -9,11 +9,11 @@
   {% include entry_meta.html %}
 </article>
 <br />
-<div class="comments">
-  {% if page.comments %}
+{% if page.comments %}
+  <div class="comments">
     {% include comments.html %}
-  {% endif %}
-</div><!-- .comments -->
+  </div><!-- .comments -->
+{% endif %}
 {% include sidebar.html %}
 {% include footer.html %}
 {% include analytics.html %}
