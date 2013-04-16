@@ -1,15 +1,12 @@
 <aside class="sidebar">
-  <a  href="{{ site.root }}index.html"><img src="http://www.gravatar.com/avatar/e6fe763e00e4d97b0e418aef3ab852ab.png" class="gravatar"/>
+  <a  href="{{ site.root }}index.html"><img src="{{ site.root }}{{ site.images_dir }}/gravatar.png" class="gravatar"/>
   <h4>Casey Kuhlman</h4></a>
   <p>I am a co-founder of <a href="http://watershedlegal.com">Watershed Legal Services</a>. More generally, I am a lawyer and a social entrepreneur working in Somaliland. This is my legal coding blog. Otherwise I am <a href="http://caseykuhlman.com">around</a>.</p>
   <hr />
   <ul class="tag_box inline">
     <li><a href="{{ site.root }}index.html">Home || ~/</a></li>
-    <!-- {% assign categories_list =  %} -->
     {% for category in site.categories %} 
-      <li><a href="{{ site.root }}{{ site.categories_path }}#{{ category[0] }}-ref">
-        {{ category[0] }} <!-- <span>{{ category[1].size }}</span> -->
-      </a></li>
+      <li><a href="{{ site.root }}{{ site.categories_path }}#{{ category[0] }}-ref">{{ category[0] }}</a></li>
     {% endfor %}
   </ul>
 </aside>

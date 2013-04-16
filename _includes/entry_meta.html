@@ -7,15 +7,11 @@
         <span class="byline vcard">Posted on 
       {% endif %}
       {{ page.date | date: "%d %h %Y" }} </span> | in
-      {% capture category %}{% if post %}{{ post.categories | category_links | size }}{% else %}{{ page.categories | category_links | size }}{% endif %}{% endcapture %}
+      {% capture category %}{{ page.categories | category_links | size }}{% endcapture %}
       {% unless category == '0' %}
-      <span class="categories">
-        {% if post %}
-          {{ post.categories | category_links }}
-        {% else %}
-          {{ page.categories | category_links }}
-        {% endif %}
-      </span>
+        <span class="categories">
+          <a href="{{ site.root }}{{ site.categories_path }}#{{ category[0] }}-ref">{{ page.categories | category_links }}</a>
+        </span>
       {% endunless %}
     </p>
   {% endif %}
