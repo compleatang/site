@@ -21,7 +21,7 @@ rss_path:       /rss.xml
 #    Jekyll & Plugins     #
 # ----------------------- #
 
-root:            "home/coda/sites/udb/_site/"
+root:            "home/coda/sites/csk/udb/_site/"
 # root:            /
 permalink:       "entries/:year/:title.html"
 safe:            true
