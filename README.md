@@ -1,9 +1,9 @@
-# Casey Kuhlman's Legal Coding Blog
+# Casey Kuhlman's Normal Blog
 
 Source files for site
 
 ## License
-The following directories and their contents are Copyright CC-By-SA Casey Kuhlman. You may not reuse anything therein without my permission:
+The following directories and their contents are Copyright CC-By-SA Casey Kuhlman.
 
 * _posts/
 * images/

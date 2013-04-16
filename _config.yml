@@ -2,14 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-name:        The Legal Coda
-subtitle:    hacking the law
-description: "Processes and Thoughts on Coding the Law & Treating the Law as Code"
-# url:         http://coda.caseykuhlman.com
+name:        underWater desert Blogging
+# url:         http://blog.caseykuhlman.com
 url:         /
 author:      
   name:    Casey Kuhlman
-  email:   caseykuhlman@watershedlegal.com
+  email:   caseykuhlman@gmail.com
   github:  compleatang
   twitter: compleatang
 exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile"]
@@ -17,13 +15,13 @@ exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile"
 subscribe_rss:  /rss.xml
 subscribe_atom: /atom.xml
 atom_path:      /atom.xml
-rss_path:       /atom.xml
+rss_path:       /rss.xml
 
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
 
-root:            "home/coda/sites/coda/_site/"
+root:            "home/coda/sites/udb/_site/"
 # root:            /
 permalink:       "entries/:year/:title.html"
 safe:            true
@@ -51,7 +49,7 @@ styles_dir:  "assets/styles"
 comments :
   provider : disqus
   disqus :
-    short_name : codalegalcoding
+    short_name : caseykuhlman
 
 # ----------------------- #
 #       Analytics         #
