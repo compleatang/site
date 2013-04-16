@@ -1,14 +1,14 @@
 <aside class="sidebar">
-  <a  href="{{ site.root }}index.html">
+  <a  href="{{ site.url }}{{ site.root }}index.html">
     <h4>Casey Kuhlman</h4>
-    <img src="{{ site.root }}{{ site.images_dir }}/gravatar.png" class="gravatar"/>
+    <img src="{{ site.url }}{{ site.root }}{{ site.images_dir }}/gravatar.png" class="gravatar"/>
   </a>
   <p>Founder of <a href="http://watershedlegal.com">Watershed Legal Services</a>. More generally, I am a lawyer and a social entrepreneur working in Somaliland. This is my legal coding blog. Otherwise I am <a href="http://caseykuhlman.com">around</a>.</p>
   <hr />
   <ul class="tag_box inline">
-    <li><a href="{{ site.root }}index.html">Home || ~/</a></li>
+    <li><a href="{{ site.url }}{{ site.root }}index.html">Home || ~/</a></li>
     {% for category in site.categories %} 
-      <li><a href="{{ site.root }}{{ site.categories_path }}#{{ category[0] }}-ref">{{ category[0] }}</a></li>
+      <li><a href="{{ site.url }}{{ site.root }}{{ site.categories_path }}#{{ category[0] }}-ref">{{ category[0] }}</a></li>
     {% endfor %}
   </ul>
 </aside>
