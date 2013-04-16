@@ -23,14 +23,16 @@ This is helpful for showing or hiding certain programs/scripts in your menus in 
 
 This is very powerful as you usually want Gnome Shell and Unity to load the different sugar packages such as applets, indicators, etc., that help you define the environment you are working in. This is reason 7 million why Linux is awesome. In any event, here's the script I use to reload the Unity desktop after I log into Unity.
 
-    [Desktop Entry]
-    Type=Application
-    Exec=unity
-    Hidden=false
-    NoDisplay=false
-    X-GNOME-Autostart-enabled=true
-    Name=Unity-Reset
-    NotShowIn=GNOME;
+{% highlight bash %}
+[Desktop Entry]
+Type=Application
+Exec=unity
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Unity-Reset
+NotShowIn=GNOME;
+{% endhighlight %}
 
 I saved that in ~/.config/autostart and voila all (mostly) working as it should. 
 
