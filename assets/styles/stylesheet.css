@@ -10,21 +10,31 @@ body {
 
 /* Structural Elements */
 .container {
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
+}
+
+nav {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  padding: 0 1.2em 0 1.2em;
+  background: rgba(100, 100, 100, .5);
+  border: 2px inset rgba(50, 50, 50, .5);
 }
 
 header {
   width: 70%;
   max-width: 900px;
   margin: auto;
+  margin-top: 2.4em;
 }
 
 .sidebar {
   position: fixed;
   width: 12%;
   right: 0;
-  top: 10%;
+  top: 8em;
 }
 
 article {
@@ -101,7 +111,7 @@ header h2 {
 }
 
 /* Main Content */
-#main_content {
+.content {
   width: 100%;
   -webkit-font-smoothing: antialiased;
 }
@@ -119,29 +129,29 @@ h1, h2, h3, h4, h5, h6 {
                0 0 10px rgba(181, 232, 83, 0.1);
 }
 
-#main_content h1 {
+.content h1 {
   font-size: 30px;
 }
 
-#main_content h2 {
+.content h2 {
   font-size: 24px;
 }
 
-#main_content h3 {
+.content h3 {
   font-size: 18px;
 }
 
-#main_content h4 {
+.content h4 {
   font-size: 14px;
 }
 
-#main_content h5 {
+.content h5 {
   font-size: 12px;
   text-transform: uppercase;
   margin: 0 0 5px 0;
 }
 
-#main_content h6 {
+.content h6 {
   font-size: 12px;
   text-transform: uppercase;
   color: #999;
@@ -175,8 +185,38 @@ blockquote {
   text-align: justify;
 }
 
+/* Nav */
+nav ul {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+nav ul li:before {
+  margin: 0;
+  content: "";
+}
+
+nav ul li {
+  display: block;
+  float: left;
+  list-style: none;
+  margin: 0 0.8em 0 0;
+  padding: 0.6em 0.8em 0.6em 0;
+  border-right: 1px dashed gray;
+}
+
+nav ul li:first {
+  border-left: 1px dashed gray;  
+  padding-left: 0.8em;
+}
+
+nav ul li ul {
+  display: none;
+}
+
 /* Code */
-code{
+code {
   font-family: 'Bitstream Vera Sans Mono', 'PT Mono', Terminal, monospace;
   background: rgba(20, 20, 20, .15);
   border: 2px inset rgba(225, 225, 225, .15);
@@ -233,8 +273,8 @@ hr {
 
 /* Meta */
 .entry-meta {
-  background: rgba(50, 50, 50, 0.6);
-  border: 2px inset rgba(255, 255, 255, 0.15);
+  background: rgba(100, 100, 100, .25);
+  border: 2px inset rgba(50, 50, 50, .75);
   padding: 1.2em;
   border-radius: 10px;
   -moz-border-radius: 10px;
@@ -335,13 +375,13 @@ aside.sidebar a h4 {
   zoom:1;
 }
 
-@media only screen and (max-width: 1250px) and (min-width: 901px) {
-  .container {
-    width: 80%;
+@media only screen and (max-width: 1320px) and (min-width: 901px) {
+  nav {
+    background: rgba(100, 100, 100, .99);
   }
 
   header {
-    width: 80%;
+    width: 70%;
   }
 
   .sidebar {
@@ -349,7 +389,11 @@ aside.sidebar a h4 {
   }
 
   article {
-    width: 80%;
+    width: 70%;
+  }
+
+  .content {
+    width: 70%;
   }
 
   .comments {
@@ -376,16 +420,30 @@ aside.sidebar a h4 {
   }
 
   header {
+    margin-top: 0;
     width: 90%;
   }
 
+  nav {
+    width: 90%;
+    position: static;
+    padding: 0;
+    background: transparent;
+    border: none;
+    margin: 2.4em 5% 0 5%;
+  }
+
   .sidebar {
-    margin: 4.2em auto 0 auto;
+    margin: 2.4em 5% 0 5%;
     position: static;
     width: 90%;
   }
 
   article {
+    width:  90%;
+  }
+
+  .content {
     width:  90%;
   }
 
@@ -399,5 +457,24 @@ aside.sidebar a h4 {
 
   .sidebar .gravatar {
     display: none;
+  }
+
+  nav ul li {
+    width: 100%;
+    display: block;
+    float: none;
+    list-style: none;
+    margin: 0;
+    padding: 0.6em 0 0.6em 0;
+    border: 2px inset rgba(50, 50, 50, .75);
+    background: rgba(100, 100, 100, .25);
+    text-align: center;
+  }
+
+  .entry-meta {
+    margin-top: 2.4em;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
   }
 }
