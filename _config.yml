@@ -30,7 +30,7 @@ safe:            true
 lsi:             false
 pygments:        true
 paginate:        10
-markdown:        maruku
+markdown:        redcarpet
 categories_path: "categories.html"
 excerpt_link:    "Read more &rarr;"
 titlecase:       true
