@@ -1,46 +1,20 @@
 ---
-title: 'My America Band: Wax Fang'
-author: Casey Kuhlman
-layout: post
-permalink: /entry/my-america-band
-dsq_thread_id:
-  - 741410148
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/HKhQfO
-        
-st_twitter:
-  - 1
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365552563
-st_cached_time:
-  - 1333313107
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - music
-tags:
-  - america
-  - music
-  - rock
----
-# 
 
-[![Wax Fang at the Basement 31.03.12 by Casey Kuhlman][2]][2]
-Wax Fang at the Basement 31.03.12 by Casey Kuhlman
+layout: post
+title: My America Band: Wax Fang
+published: true
+comments: true
+meta: true
+category: music
+tags: ["america", "music", "rock"]
+excerpt: "When you sit with people from other countries, it is important to have some fall back, standardized way to explain where you are from. Of course we all have these icons, these posters, these fleeting images that remind ourselves of where we came from and are readily recalled by our frontal cortex when asked to explain ourselves. When we trust the person and we know that the question is meant because the other conversant(s) truly does want to understand us, then we are more easily able to open up and to tell the truth."
+
+---
+
+[![Wax Fang at the Basement 31.03.12 by Casey Kuhlman]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/IMAG0237.jpg)][http://blog.caseykuhlman.com/wp-content/blogs.dir/4/files/2012/04/IMAG0237.jpg]
 
 When you sit with people from other countries, it is important to have some fall back, standardized way to explain where you are from. Of course we all have these icons, these posters, these fleeting images that remind ourselves of where we came from and are readily recalled by our frontal cortex when asked to explain ourselves. When we trust the person and we know that the question is meant because the other conversant(s) truly does want to understand us, then we are more easily able to open up and to tell the truth.
 
- []: http://blog.caseykuhlman.com/wp-content/blogs.dir/4/files/2012/04/IMAG0237.jpg
 
 When I want to explain American rock music, and in a little bit the America that I know and love, to people who only know of America from what their news and Hollywood tells them I have a go to band. My icon for all that is great and wonderful about American rock music. Wax Fang.
 

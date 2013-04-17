@@ -1,33 +1,14 @@
 ---
-title: 'Tonight the Following Occured&#8230;'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/tonight-the-following-occured
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365944942
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330453023
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/yYMdfa
-        
-categories:
-  - africa
+title: Tonight the Following Occured&#8230;
+published: true
+comments: true
+meta: true
+category: unclassified
+excerpt: "A Masai Bush Pilot attempted to convince me that rural Sudanese women were so turned on by engine noise from his craft that they would masturbate in front of him.  But only when the engines were running."
+
 ---
-# 
 
 *   A Masai Bush Pilot attempted to convince me that rural Sudanese women were so turned on by engine noise from his craft that they would masturbate in front of him.  But only when the engines were running.
 *   I became strangely choked up by the words of a departing Haitian whom I barely know.

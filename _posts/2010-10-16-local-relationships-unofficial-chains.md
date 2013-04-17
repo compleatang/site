@@ -1,54 +1,21 @@
 ---
-title: 'On Going Local: Relationships'
-author: Casey Kuhlman
-excerpt: >
-  On Going Local is a (short) series that I’m running which will attempt to look
-  at my life from an objective perspective as I transition from and NGO worker
-  into an entrepreneur here in the developing world. This post is about
-  relationships.
+
 layout: post
-permalink: /entry/local-relationships-unofficial-chains
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/y6DyFT
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/7246760674";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365855207
-st_cached_time:
-  - 1330163176
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - living
-tags:
-  - on going local
-  - relational thinking
-  - social networks
-  - traditional leaders
+title: On Going Local: Relationships
+published: true
+comments: true
+meta: true
+category: living
+tags: ["on going local", "relational thinking", "social networks", "traditional leaders"]
+excerpt: "On Going Local is a (short) series that I’m running which will attempt to look at my life from an objective perspective as I transition from and NGO worker into an entrepreneur here in the developing world. This post is about relationships."
+
 ---
-# 
 
 *On Going Local is a (short) series that I’m running which will attempt to look at my life from an objective perspective as I transition from and NGO worker into an entrepreneur here in the developing world.*
 
-[![PeyoteLeaderCheyenne1927 by Medicinehorse7 @ flickr][2]][2]
-PeyoteLeaderCheyenne1927 by Medicinehorse7 @ flickr
 
 Relationships here in Somaliland are odd, to say the least.  There are two main identifiable cultural divergences.
 
- []: http://www.flickr.com/photos/medicinehorse7/3226148438/
 
 The first is that many relationships are deeper here in Somaliland than similar relationships would be back home.  Deeper in the sense that they are more utilized, more cherished, and more complicated than a similar set of relationships would be in America.  (I will return to these themes, but let me finish my introduction first.  Don’t be in such a hurry!)
 

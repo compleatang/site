@@ -1,22 +1,15 @@
 ---
-title: 'On Marines and Krulak&#8217;s Three Blocks'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/on-marines-and-krulaks-three-blocks
-dsq_thread_id:
-  - 848446137
-st_cached:
-  - '<ul class="socialize-this"><li><a href="" target="_blank" title="Upvote on Reddit" class="reddit cuteset">Upvote</a></li><li><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fblog.caseykuhlman.com%2Fentry%2Fon-marines-and-krulaks-three-blocks&t=On+Marines+and+Krulak%27s+Three+Blocks" target="_blank" title="Share on Facebook" class="facebook cuteset">Share</a></li><li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblog.caseykuhlman.com%2Fentry%2Fon-marines-and-krulaks-three-blocks&title=On+Marines+and+Krulak%27s+Three+Blocks" target="_blank" title="Upvote on StumbleUpon" class="stumbleupon cuteset">Upvote</a></li><li><a href="http://twitter.com/home?status=Currently Reading http%3A%2F%2Fblog.caseykuhlman.com%2Fentry%2Fon-marines-and-krulaks-three-blocks"  target="_blank" title="Retweet on Twitter" class="twitter cuteset">Tweet</a></li></ul>'
-st_cached_time:
-  - 1358211610
-categories:
-  - politics
-tags:
-  - Libya
-  - three block war
-  - USMC
+title: On Marines and Krulak&#8217;s Three Blocks
+published: true
+comments: true
+meta: true
+category: politics
+tags: ["Libya", "three block war", "USMC"]
+excerpt: "Someone emailed me tonight asking what I thought about the attack on the consulate in Benghazi. Being that I was a Marine officer once upon a moon, this person asked whether my blood was up about them passing away and what I thought about the President putting our people in danger like that. Their words. Yes, of course my blood was up. I felt deeply for their families and for the poor souls who had to notice their families and for the entire situation."
+
 ---
-# 
 
 Someone emailed me tonight asking what I thought about the attack on the consulate in Benghazi. Being that I was a Marine officer once upon a moon, this person asked whether my blood was up about them passing away and what I thought about the President putting our people in danger like that. Their words. Yes, of course my blood was up. I felt deeply for their families and for the poor souls who had to notice their families and for the entire situation. 
 

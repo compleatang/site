@@ -1,48 +1,19 @@
 ---
-title: 'Perspectives on Africa -&gt; Its all about the lens'
-author: Casey Kuhlman
-excerpt: 'The collective cultural lens which reflects some important baseline assumptions about "the state of Africa" are slowly beginning to change.  The evidence is in economic publications, in NGO marketing documents, and in artistic memes.  This is an important predicate for enabling the accountability mechanisms which will solidify progress to be triggered.  '
-layout: post
-permalink: /entry/perspectives-africa-lens
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/xAbtom
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/7249272130";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365851356
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330593009
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - africa
-tags:
-  - africa
-  - perspectives
-  - photography
-  - thought experiment
----
-# 
 
-[![Facial Scarification in Africa in the early 1940s via gbaku @ flickr][2]][2]
-Facial Scarification in Africa in the early 1940s via gbaku @ flickr
+layout: post
+title: Perspectives on Africa -&gt; Its all about the lens
+published: true
+comments: true
+meta: true
+category: africa
+tags: ["africa", "perspectives", "photography", "thought experiment"]
+excerpt: "The collective cultural lens which reflects some important baseline assumptions about 'the state of Africa' are slowly beginning to change.  The evidence is in economic publications, in NGO marketing documents, and in artistic memes.  This is an important predicate for enabling the accountability mechanisms which will solidify progress to be triggered."
+
+---
+
 
 When you look at this picture what do you see?  I see a man who is satisfied with his situation.  Sure there are the tribal markings, the blanket over the shoulder, the bleakness of the background and the stuff on the back of the man’s neck.  But what really jumps out, to me at least, is the satisfied look that his eyes and his mouth convey.
 
- []: http://www.caseykuhlman.com/?attachment_id=620
 
 Two development pundit bloggers have discussed recently the cultural meme which the photos that are chosen to accompany NGO marketing campaigns, news articles on Africa, etc. convey. [ Jennifer Lentfer][2] who runs [how-matters.org][3] and [Glenna Gordon][4] who runs [ScarlettLion.com][5], among other sites, [both][6] [posted][7] on this issue yesterday.
 

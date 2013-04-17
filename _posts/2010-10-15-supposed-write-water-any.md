@@ -1,48 +1,19 @@
 ---
-title: 'I&#8217;m Supposed to Write on Water, but I Don&#8217;t Have Any&#8230;'
-author: Casey Kuhlman
-excerpt: "Today the Interweb Gods have deemed is World Blog about water day.  Or likely more accurately, the brilliant charity:Water marketers have deemed today as world blog about water:Day.  I haven't read every post I have seen come across my various Twitter wires, but the ones I've read talk about the need for us to have water.  Seems pretty self-evident and so the rhetoric can turn into a polemic rather quickly.  I thought about writing a love post to water, but then I realized that I'm annoyed at water."
-layout: post
-permalink: /entry/supposed-write-water-any
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/ADhVcj
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/7141674216";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365859011
-st_cached_time:
-  - 1330111698
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - africa
-tags:
-  - africa
-  - going local
-  - somaliland
-  - water
----
-# 
 
-[![Broken Pipe via Starbuck Powersurge @ flickr][2]][2]
-Broken Pipe via Starbuck Powersurge @ flickr
+layout: post
+title: I&#8217;m Supposed to Write on Water, but I Don&#8217;t Have Any&#8230;
+published: true
+comments: true
+meta: true
+category: africa
+tags: ["africa", "going local", "somaliland", "water"]
+excerpt: "Today the Interweb Gods have deemed is World Blog about water day.  Or likely more accurately, the brilliant charityWater marketers have deemed today as world blog about waterDay.  I haven't read every post I have seen come across my various Twitter wires, but the ones I've read talk about the need for us to have water.  Seems pretty self-evident and so the rhetoric can turn into a polemic rather quickly.  I thought about writing a love post to water, but then I realized that I'm annoyed at water."
+
+---
+
 
 Today the Interweb Gods have deemed is World Blog about water day.  Or likely more accurately, the brilliant [change.org][2] marketers have deemed today as world blog about water:Day.  I haven’t read every post I have seen come across my various Twitter wires, but the ones I’ve read talk about the need for us to have water.  Seems pretty self-evident and so the rhetoric can turn into a polemic rather quickly.  I thought about writing a love post to water, but then I realized that I’m annoyed at water.  We fell out with each other a couple of weeks ago, which by the way was the last time water came through my pipes.
 
- []: http://www.flickr.com/photos/starbuck_powersurge/262341270/
  [2]: http://blogactionday.change.org/
 
 The water system in Hargeisa is over stretched, under maintained, now badly managed network, under funded cluster of an organization.  It makes money so the government doesn’t want to privatize it.  And that is likely the right move considering the power system is privatized and is a mess.  It is all the rage to claim that the private sector is going to save Africa, and I while I believe that I’m not a complete free marketer.  The private sector can be just as lazy and dumb as a public sector can be.  The presence of competition does not necessitate innovation and good economic behavior in and of itself.  But that is a different story and before I go down that road, let me tell you about my pipe problem.

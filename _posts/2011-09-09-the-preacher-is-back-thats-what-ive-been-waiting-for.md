@@ -1,50 +1,20 @@
 ---
-title: 'The Preacher is Back. That&#8217;s What I&#8217;ve Been Waiting For.'
-author: Casey Kuhlman
-excerpt: "I just finished watching Obama's job speech, I haven't read or listened to any of the punditry and here's what I think. I'm happy because FINALLY the human I hoped I was voting for is emerging. "
-layout: post
-permalink: /entry/the-preacher-is-back-thats-what-ive-been-waiting-for
-dsq_thread_id:
-  - 746838177
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330365867
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/A6R2ns
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/7194822676";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365819405
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - politics
-tags:
-  - jobs
-  - obama
-  - politics
-  - preaching
----
-# 
 
-[![obama postcard by Mr. Wright @ Flickr][2]][2]
-obama postcard by Mr. Wright @ Flickr
+layout: post
+title: The Preacher is Back. That&#8217;s What I&#8217;ve Been Waiting For.
+published: true
+comments: true
+meta: true
+category: politics
+tags: ["jobs", "obama", "politics", "preaching"]
+excerpt: "I just finished watching Obama's job speech, I haven't read or listened to any of the punditry and here's what I think. I'm happy because FINALLY the human I hoped I was voting for is emerging."
+
+---
+
+[![obama postcard by Mr. Wright @ Flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/2795798382_9996813e74.jpg)][http://www.caseykuhlman.com/entry/the-preacher-is-back-thats-what-ive-been-waiting-for/2795798382_9996813e74]
 
 I just finished watching the jobs speech and my first thought was “were have you been”? The historian-poet-preacher in him which I fell in love with in the Yes We Can and Race speeches (collectively rather than individually) had found his groove tonight.
 
- []: http://www.caseykuhlman.com/entry/the-preacher-is-back-thats-what-ive-been-waiting-for/2795798382_9996813e74
 
 Every artist struggles with finding their artistic voice, but for me, at this moment, this was balm to my soul. Someone, somewhere, does actually get it. But before I get to what I liked about the speech let me take a small detour and talk about how I think about my relationship between me and my government.
 

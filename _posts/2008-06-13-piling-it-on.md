@@ -1,33 +1,14 @@
 ---
-title: Piling it On.
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/piling-it-on
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365963323
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1331971467
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zHIUIU
-        
-categories:
-  - otherwise
+title: Piling it On.
+published: true
+comments: true
+meta: true
+category: unclassified
+excerpt: "Consider me another addition!  From [Ben Smith][1] "
+
 ---
-# 
 
 Consider me another addition!  From [Ben Smith][1]:  
 

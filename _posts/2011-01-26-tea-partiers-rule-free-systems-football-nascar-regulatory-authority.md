@@ -1,50 +1,21 @@
 ---
-title: 'On Tea Partiers &amp; Rule-Free Systems: Football, NASCAR &amp; Regulatory Authority'
-author: Casey Kuhlman
-excerpt: 'I know I am generalizing, but since many that I know and love subscribe to many of these philosophies maybe I do have a small bit of perspective here.  Let me take a look at the Free Market system and rules.  Many have argued that rules are inherrently anti-market.  That the opposite of capitalism is rule-making by regulators.  Maybe that is right in some areas, but I would argue that it depends on the specific area in mind.'
+
 layout: post
-permalink: /entry/tea-partiers-rule-free-systems-football-nascar-regulatory-authority
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zXUvht
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/3853432497";s:9:"url_count";i:1;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365837420
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330090322
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - politics
-tags:
-  - politics
-  - regulatory authority
-  - revolution
-  - sports
+title: On Tea Partiers &amp; Rule-Free Systems: Football, NASCAR &amp; Regulatory Authority
+published: true
+comments: true
+meta: true
+category: politics
+tags: ["politics", "regulatory authority", "revolution", "sports"]
+excerpt: "I know I am generalizing, but since many that I know and love subscribe to many of these philosophies maybe I do have a small bit of perspective here.  Let me take a look at the Free Market system and rules.  Many have argued that rules are inherrently anti-market.  That the opposite of capitalism is rule-making by regulators.  Maybe that is right in some areas, but I would argue that it depends on the specific area in mind."
+
 ---
-# 
 
 > “An association of men who will not quarrel with one another is a thing which has never yet existed, from the greatest confederacy of nations down to a town meeting or a vestry.” ~ Thomas Jefferson
 
-[![Tea partiers by jkarsh @ Flickr][2]][2]
-Think these guys watch NASCAR? - Tea partiers by jkarsh @ Flickr
 
 I know I am generalizing, but since many that I know and love subscribe to many of these philosophies maybe I do have a small bit of perspective here.  Let me take a look at the Free Market system and rules.  Many have argued that rules are inherrently anti-market.  That the opposite of capitalism is rule-making by regulators.  Maybe that is right in some areas, but I would argue that it depends on the specific area in mind.
 
- []: http://www.flickr.com/photos/jkarsh/4607302277/
 
 > “The big-government crowd is drawn to the compulsory nature of centralized authority. They can’t imagine an undirected social order. Someone needs to be in charge—someone who knows better. Big government is audacious and conceited. By definition, government is the means by which citizens are forced to do that which they would not do voluntarily. Like pay high taxes. Or redistribute tax dollars to bail out the broken, bloated pension systems of state government employees. Or purchase, by federal mandate, a government-defined health-insurance plan that is unaffordable, unnecessary or unwanted. For the left, and for today’s Democratic Party, every solution to every perceived problem involves more government—top-down dictates from bureaucrats presumed to know better what you need. Tea partiers reject this nanny state philosophy of redistribution and control because it is bankrupting our country.” ~Dick Armey & Matt Kibbe @ [WSJ][2].
 

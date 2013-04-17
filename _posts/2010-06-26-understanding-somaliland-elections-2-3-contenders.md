@@ -1,56 +1,21 @@
 ---
-title: 'Understanding the Somaliland Elections (2 of 3): The Contenders'
-author: Casey Kuhlman
-excerpt: >
-  Today Somaliland is holding its Presidential elections. To understand the
-  significance of this event, one must understand the road that it has taken the
-  Somalilanders to get to this point. This election has been delayed for over two
-  years. This entry contains a small background on the three men on the ballot.
+
 layout: post
-permalink: /entry/understanding-somaliland-elections-2-3-contenders
-dsq_thread_id:
-  - 754573168
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365866217
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zukqkI
-        
-wordbooker_options:
-  - 'a:12:{s:18:"wordbook_noncename";s:10:"484fa02b9f";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:19:"wordbook_thumb_only";s:2:"on";s:20:"wordbook_use_excerpt";s:2:"on";s:18:"wordbook_attribute";s:32:"New on UDB.net: %title% - %link%";s:29:"wordbooker_status_update_text";s:32:"New on UDB.net: %title% - %link%";s:20:"wordbook_comment_get";s:2:"on";}'
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330356638
-  - 1330356638
-categories:
-  - somaliland/somalia
-tags:
-  - election
-  - somaliland
+title: Understanding the Somaliland Elections (2 of 3): The Contenders
+published: true
+comments: true
+meta: true
+category: somaliland/somalia
+tags: ["election", "somaliland"]
+excerpt: "Today Somaliland is holding its Presidential elections. To understand the significance of this event, one must understand the road that it has taken the Somalilanders to get to this point. This election has been delayed for over two years. This entry contains a small background on the three men on the ballot."
+
 ---
-# 
 
 *Today Somaliland is holding its Presidential elections. To understand the significance of this event, one must understand the road that it has taken the Somalilanders to get to this point. This election has been delayed for over two years. This entry contains a small background on the three men on the ballot.*
 
-[![UCID Chairman Faisal Ali Warabe via Sallaxleynews @ flickr][2]][2]
-UCID Chairman Faisal Ali Warabe via Sallaxleynews @ flickr
 
 ## Contender A: Faisal Ali “Warabe” Chairman UCID Party
 
- []: http://www.flickr.com/photos/50572373@N03/4642912266/
 
 Faisal and his [UCID party][2] have long been seen as the also rans in Somaliland politics.  But UCID seems to have found some resonance in its argument this term and seems to have a growing cadre of supporters.
 
@@ -75,12 +40,9 @@ These two items (their relatively small size and their geographical position bet
 *   **Not one of the major players.** UCID’s outsider status is also their major weakness.  They have a difficult time capitalizing on the winds which blow through the Somaliland deserts because it is difficult for many to visualize their party in power.  They have difficulty dominating any news cycles or forging forward with their own spin on a given situation.
 *   **Wishy-Washy.** Faisal is seen as wishy-washy by the Somaliland electorate.  I must say that while I understand where they are coming from, I think personally much of this comes from Faisal’s position in between the other two major players.  He is forced into a difficult position where he is required to mediate likely more than he would prefer due to his “third party” status.  This centrist positioning comes across as wishy-washy.  It is unfortunate.
 
-[![UDUB Chairman and Incumbent President of Somaliland, Dahir Kahin Riyale via Swiatoslaw Wojtkowiak @ flickr][4]][4]
-UDUB Chairman and Incumbent President of Somaliland, Dahir Kahin Riyale via Swiatoslaw Wojtkowiak @ flickr
 
 ## Contender B: Dahir Kahin Riyale, Chairman UDUB Party, Incumbent President
 
- []: http://www.flickr.com/photos/nygus/3332926105/
 
 Riyale and his [UDUB party][4] have been in power, more or less, since Somaliland declared its independence from Mogadishu and handed over power to a civilian government in the early 1990′s.
 
@@ -105,12 +67,9 @@ Many other Isaaq’s feel that having a non-Isaaq President has given too much p
 *   **Background & Baggage.** Riyale is a former intelligence officer for Siad Barre.  He was not aligned with the SNM, and he sometimes has had to distinguish aside these two arguments.  His response has oscillated between the extremes of hiring lots of SNM veterans and by trying to marginalize the SNM veterans.
 *   **Engagement Level. **Many question Riyale’s engagement within Somaliland.  Since his wife mostly lives in Paris with their children rather than in Somaliland, lots of voters that I have spoken with have wondered how much Riyale genuinely cares about Somaliland.  He has had to simultaneously deflect attacks that ironically have sought to portray his administration as (1) autocratic, and (2) blind.  While I have seen the evidence pointed to by opposition members in this regard, it is Africa and there will always be some conflating of a Presidential seat vested in institutions with a Kingdom vested in the personality.
 
-[![Kulmiye Chairman, Ahmed Mohamed Mohamud "Silanyo" via Berberanews.com @ flickr][7]][7]
-Kulmiye Chairman, Ahmed Mohamed Mohamud "Silanyo" via Berberanews.com @ flickr
 
 ## Contender C: Ahmed Mohamed Mohamud “Silanyo” Chairman of the Kulmiye Party
 
- []: http://www.flickr.com/photos/mdscm10/4724841072/
 
 Silanyo and his [Kulmiye party][7] are largely seen as the primary rivals for the Presidency against Riyale. In the last Presidential election Silanyo lost to Riyale by 80 votes.
 

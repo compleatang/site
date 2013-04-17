@@ -1,33 +1,14 @@
 ---
-title: Sick Around the World, and Random Settled Thoughts.
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/sick-around-the-world-and-random-settled-thoughts
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365145733
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1332209836
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zu5SQe
-        
-categories:
-  - sci-tech
+title: Sick Around the World, and Random Settled Thoughts.
+published: true
+comments: true
+meta: true
+category: unclassified
+excerpt: "In case you missed it, I've posted the first YouTube link to the very excellent PBS Frontline special 'Sick Around the World.' A Washington Post reporter went to six industrialized nations and asked how they've been able to ensure universal healthcare at a much lower cost than the US has been able to figure out."
+
 ---
-# 
 
 In case you missed it, I've posted the first YouTube link to the very excellent PBS Frontline special "Sick Around the World."  A Washington Post reporter went to six industrialized nations and asked how they've been able to ensure universal healthcare at a much lower cost than the US has been able to figure out.  
 

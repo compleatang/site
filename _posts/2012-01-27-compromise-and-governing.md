@@ -1,48 +1,19 @@
 ---
-title: 'Compromise &amp; Governing: On Reading @ryanlizza&#8217;s The Obama Memos'
-author: Casey Kuhlman
-excerpt: "Ryan Lizza has again written a marvelous piece on Obama and his team. Just as he did with his watershed piece on the Obama campaign, he has written a long and worthwhile piece on Obama's first term to date. If you want to understand the fundamental contradictions that come with governing, and if you want to learn what you elect a President to truly do, read it - after you read my thoughts."
-layout: post
-permalink: /entry/compromise-and-governing
-dsq_thread_id:
-  - 816136082
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/wKaLat
-        
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365743414
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330081062
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - politics
-tags:
-  - campaigns
-  - elections
-  - politics
-  - president
----
-# 
 
-[![Obama Barn by Barack Obama @ flickr][2]][2]
-Obama Barn by Barack Obama @ flickr
+layout: post
+title: Compromise &amp; Governing: On Reading @ryanlizza&#8217;s The Obama Memos
+published: true
+comments: true
+meta: true
+category: politics
+tags: ["campaigns", "elections", "politics", "president"]
+excerpt: "Ryan Lizza has again written a marvelous piece on Obama and his team. Just as he did with his watershed piece on the Obama campaign, he has written a long and worthwhile piece on Obama's first term to date. If you want to understand the fundamental contradictions that come with governing, and if you want to learn what you elect a President to truly do, read it - after you read my thoughts."
+
+---
+
 
 When I was in college my friend Dave and I would often fall asleep at some point during our millionth screening of Braveheart. We would often put the film on after the bars had closed and we had grabbed our drunken treat of the night and were not yet ready for bed. At the time we were training to be Marine officers and very interested in learning what it took to be a good leader. Near the beginning of the film there was a quote which I often thought about (at still think about):
 
- []: http://www.flickr.com/photos/barackobamadotcom/2913035652/
 
 > You admire this man, this William Wallace. Uncompromising men are easy to admire. He has courage; so does a dog. But it is exactly the ability to *compromise* that makes a man noble. And understand this: Edward Longshanks is the most ruthless king ever to sit on the throne of England. And none of us, and nothing of Scotland will remain, unless *we* are as ruthless. Give ear to our nobles. Knowing their minds is the key to the throne.
 

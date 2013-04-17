@@ -1,33 +1,14 @@
 ---
-title: HRC Showing Some Class, still a bit late
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/hrc-showing-some-class-still-a-bit-late
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365138537
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1332217712
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/xkeaWg
-        
-categories:
-  - politics
+title: HRC Showing Some Class, still a bit late
+published: true
+comments: true
+meta: true
+category: unclassified
+excerpt: "I have been question what her game is for weeks now.  I have been questioning why the DNC elites don't shut her down.  I have been questioning why there isn't droves and droves of supers to him after the election in a show of party unity.  Some of this has begun.  But why now?  What has changed between yesterday and today that HRC only *now* is 'suspending' her campaign.  Further, suspending?  Come on.  Drop out, if something catastrophic were to happen (knocking furiously on wood) then she could still be elected at the convention."
+
 ---
-# 
 
 I have been question what her game is for weeks now.  I have been questioning why the DNC elites don't shut her down.  I have been questioning why there isn't droves and droves of supers to him after the election in a show of party unity.  Some of this has begun.  But why now?  What has changed between yesterday and today that HRC only *now* is "suspending" her campaign.  Further, suspending?  Come on.  Drop out, if something catastrophic were to happen (knocking furiously on wood) then she could still be elected at the convention.  
 

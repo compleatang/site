@@ -1,35 +1,14 @@
 ---
-title: Trail of the Octopus
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/trail-of-the-octopus
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365905441
-dsq_thread_id:
-  - 979887481
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330346402
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/z4pT4G
-        
-categories:
-  - politics
+title: Trail of the Octopus
+published: true
+comments: true
+meta: true
+category: unclassified
+excerpt: "Last night we were drinking some wine.  I say this because my consumption of alcohol has decreased drastically over the past few years.  Living in a dry country helps!"
+
 ---
-# 
 
 Last night we were drinking some wine.  I say this because my consumption of alcohol has decreased drastically over the past few years.  Living in a dry country helps!
 

@@ -1,47 +1,15 @@
 ---
-title: '#1millionshirts is a Fantastic Fiasco'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/1millionshirts-fantastic-fiasco
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365880113
-GentleSourceShortURL:
-  - http://bit.ly/daHE8E
-aktt_notify_twitter:
-  - no
-  - no
-thumbnail:
-  - >
-    http://3.bp.blogspot.com/_VKBR-b9Srp4/SlPGE2LmR8I/AAAAAAAAAzA/GLQNZg3OLpA/s400/iwearyourshirt.com+American+Dream.jpg
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/xm6XjH
-        
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330246536
-categories:
-  - development
-tags:
-  - aid theory
+title: 
+published: true
+comments: true
+meta: true
+category: unclassified
+tags: ["aid theory"]
+excerpt: "So dude wears shirts for a living.  I guess there are less useful careers, but at any rate, dude wants to “do some good.”  Dude tells the world to send him your old shirts and he’ll ship them to Africa to put on the backs of naked villagers (or something to that effect)."
+
 ---
-# 
-
-[![][2]][2]The twit-verse and blog-osphere have lit up this week (at least in the circles which I tend to troll) with the news of a new project called 1 million shirts.
-
- []: http://ldasiaclothing.blogspot.com/2009/07/its-my-birthday-ldasia-on.html
 
 The dude in the picture has somehow made a business of wearing other people’s shirts.  The guerrilla marketers’ wet dream, perhaps.  All I’ll say about his business model is this: this this the apogee of an economy based on circular illusions; when will we begin to realize that this is a house of cards and what we produce / create / add to the world is an important economic metric.  OK, back to the story.
 

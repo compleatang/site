@@ -1,50 +1,19 @@
 ---
-title: 'On Going Local: Water'
-author: Casey Kuhlman
-excerpt: "On Going Local is a new (short) series that I'll be running which will attempt to look at my life from an objective perspective as I transition from and NGO worker into an entrepreneur here in the developing world. The first entry dives into the intricacies of getting water into your house."
+
 layout: post
-permalink: /entry/local-water
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365873017
-wordbooker_options:
-  - 'a:12:{s:18:"wordbook_noncename";s:10:"cc1bb4af49";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:19:"wordbook_thumb_only";s:2:"on";s:20:"wordbook_use_excerpt";s:2:"on";s:18:"wordbook_attribute";s:29:"New on blog: %title% - %link%";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";s:20:"wordbook_comment_get";s:2:"on";}'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/wKIBia
-        
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330286624
-dsq_thread_id:
-  - 154782635
-categories:
-  - living
-tags:
-  - going local
-  - water
+title: On Going Local: Water
+published: true
+comments: true
+meta: true
+category: living
+tags: ["going local", "water"]
+excerpt: "On Going Local is a new (short) series that I'll be running which will attempt to look at my life from an objective perspective as I transition from and NGO worker into an entrepreneur here in the developing world. The first entry dives into the intricacies of getting water into your house."
+
 ---
-# 
 
 *On Going Local is a new (short) series that I’ll be running which will attempt to look at my life from an objective perspective as I transition from and NGO worker into an entrepreneur here in the developing world.*
 
-[![Washing Hands][2]][2]
-via dougni @ flickr
-
 When I first arrived here in S’land, and I would go out to eat, I would use the minimum amount of water possible to wash my hands before and after eating with them.  It is desert afterall.  But later, towards the end I realized that I had adapted and was using more water – letting the water run as I was soaping, washing my face also.  It was never a conscious decision, I just started using more water.
-
- []: http://www.flickr.com/photos/dougni/4610058219/
 
 But here at the house, I have always remained conscious of how much water we are using – primarily because at the house we have to pay for the water and it is EXPENSIVE. It is desert afterall.
 

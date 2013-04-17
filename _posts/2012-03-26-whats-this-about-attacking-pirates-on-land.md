@@ -1,40 +1,15 @@
 ---
-title: 'What&#8217;s this about attacking pirates on land?'
-author: Casey Kuhlman
-excerpt: 'On Friday, I was hearing chatter about how the EU issued a new directive authorizing the EUNAVFOR to attack land targets. This is an awful idea that will have strategic and operational consequences - all of which that will be negative. In addition I have serious concerns as to the legality of the application of violence on land as a solution to the so called Piracy Problem. '
+
 layout: post
-permalink: /entry/whats-this-about-attacking-pirates-on-land
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/GURLfv
-        
-st_twitter:
-  - 3
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365606516
-st_cached_time:
-  - 1332782153
-st_facebook:
-  - 0
-st_googleplusones:
-  - 1
-dsq_thread_id:
-  - 792362842
-categories:
-  - somaliland/somalia
-tags:
-  - piracy
-  - somalia
-  - understanding somalis
+title: What&#8217;s this about attacking pirates on land?
+published: true
+comments: true
+meta: true
+category: somaliland/somalia
+tags: ["piracy", "somalia", "understanding somalis"]
+excerpt: "On Friday, I was hearing chatter about how the EU issued a new directive authorizing the EUNAVFOR to attack land targets. This is an awful idea that will have strategic and operational consequences - all of which that will be negative. In addition I have serious concerns as to the legality of the application of violence on land as a solution to the so called Piracy Problem."
+
 ---
-# 
 
 So there was some chatter Friday on my Twitter feed about how EU NAVFOR (the EU’s Naval Forces) would be authorized to attack on land. For example:
 
@@ -47,8 +22,6 @@ So there was some chatter Friday on my Twitter feed about how EU NAVFOR (the EU�
 
 My thoughts were quickly to escalation. Escalation is important not only for reasons that *anyone* who feels attacked or invaded would be willing to increase the violence to protect their stuff, but also because Somalis feel incredibly threatened right now. With four other countries operating uninvited in their country along with a bunch of other global jihadists who have very little – but not non-negligible – constituencies within Somali areas. If ever there was a time to beat the hornet’s nest, when they already are upset is not the time.
 
-[![Brain-meltingly hot weather by RAWRZ! @ flickr][6]][6]
-Brain-meltingly hot weather by RAWRZ! @ flickr
 
 Apparently this chatter was due to a press release by the EU which is available [here][6] (title: EU Extends Counter Piracy Mission Off Coast of Somalia). Their complete release (my emphasis):
 

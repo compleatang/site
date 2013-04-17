@@ -1,35 +1,14 @@
 ---
-title: Is This the Day the World Changes?
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/is-this-the-day-the-world-changes
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365937727
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330439294
-dsq_thread_id:
-  - 154782376
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zh6ebX
-        
-categories:
-  - politics
+title: Is This the Day the World Changes?
+published: true
+comments: true
+meta: true
+category: unclassified
+excerpt: "Maybe that is a bit provocative.  Maybe it is ipso facto.  I don't know.  And we'll have to see."
+
 ---
-# 
 
 Maybe that is a bit provocative.  Maybe it is ipso facto.  I don't know.  And we'll have to see.
 

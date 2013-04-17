@@ -1,33 +1,14 @@
 ---
-title: AFRICOM and WAPO
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/africom-and-wapo
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365142443
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330448011
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zexHCY
-        
-categories:
-  - africa
+title: AFRICOM and WAPO
+published: true
+comments: true
+meta: true
+category: unclassified
+excerpt: "I have been fascinated to watch how AFRICOM develops. Washington Post has a very interesting article the other day about how AFRICOM has been received on the continent.  The gist of the article contains two interrelated theorems (1) that Bush's rhetorical fascination with terrorism has pigeon-holed his foreign policy measures that have little to do with terrorism; (2) that African leaders and American policy makers are like Somali Pirates and French Sailors passing each other quietly in the night with little understanding of the other."
+
 ---
-# 
 
 I have been fascinated to watch how AFRICOM develops.  [Washington Post][1] has a very interesting article the other day about how AFRICOM has been received on the continent.  The gist of the article contains two interrelated theorems: (1) that Bush's rhetorical fascination with terrorism has pigeon-holed his foreign policy measures that have little to do with terrorism; (2) that African leaders and American policy makers are like Somali Pirates and French Sailors passing each other quietly in the night with little understanding of the other.
 

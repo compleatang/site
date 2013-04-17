@@ -1,34 +1,14 @@
 ---
-title: FP gets it semi-correct on Somalia
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/fp-gets-it-semi-correct-on-somalia
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365919825
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330419361
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/AvSSPf
-        
-categories:
-  - africa
-  - law
+title: FP gets it semi-correct on Somalia
+published: true
+comments: true
+meta: true
+category: unclassified
+excerpt: "FP usually does really good analysis, but I am concerned by a couple of blog posts they have published recently.  The first is [here][1].  While I understand that they are trying to simplify a very complex issue, this is just lazy.  Especially for a group of mostly informed readers.  While I agree with their analysis that Shabaab is running a parallel government (to some extent), it is no where near as pervasive as, for instance, Greater Liberia was.  Shabaab have not issued their own currency, do not enforce “borders” in the same manner, etc. etc. "
+
 ---
-# 
 
 FP usually does really good analysis, but I am concerned by a couple of blog posts they have published recently.  The first is [here][1].  While I understand that they are trying to simplify a very complex issue, this is just lazy.  Especially for a group of mostly informed readers.  While I agree with their analysis that Shabaab is running a parallel government (to some extent), it is no where near as pervasive as, for instance, Greater Liberia was.  Shabaab have not issued their own currency, do not enforce “borders” in the same manner, etc. etc.  
 

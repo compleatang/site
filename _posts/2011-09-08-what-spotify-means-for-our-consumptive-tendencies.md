@@ -1,50 +1,18 @@
 ---
-title: What Spotify Means for our Consumptive Tendencies
-author: Casey Kuhlman
-excerpt: "I have been using Spotify for only a couple of days but already it seems that it is supporting rather than detracting from the way the world is going. These days it is less about what you've bought and more about what you've created. It's a great time to be alive."
-layout: post
-permalink: /entry/what-spotify-means-for-our-consumptive-tendencies
-dsq_thread_id:
-  - 747740466
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330604192
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/A6gtMn
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/7212557257";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365823392
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - music
-tags:
-  - clouds
-  - consumption
-  - modern living
-  - music
----
-# 
 
-[![Spotify on HTC Desire Android by babyben @ flickr][2]][2]
-Spotify on HTC Desire Android by babyben @ flickr
+layout: post
+title: What Spotify Means for our Consumptive Tendencies
+published: true
+comments: true
+meta: true
+category: music
+tags: ["clouds", "consumption", "modern living", "music"]
+excerpt: "I have been using Spotify for only a couple of days but already it seems that it is supporting rather than detracting from the way the world is going. These days it is less about what you've bought and more about what you've created. It's a great time to be alive."
+
+---
+
 
 I walked to work this morning. While I was getting ready for work my phone was streaming an album which I found last night to be ultra-enjoyable. My headphones were with me; so, I plugged them into the phone and started walking. Got to work; sat down at my desk computer to type this; the album is still playing. Seamlessly it has flown to my ears via 4G wireless and .11n wireless. I have not purchased this album, but I’m going to see the band in about 10 days if I’m able.
-
- []: http://www.flickr.com/photos/babyben/4756710633/
 
 This is our wonderful, vibrant, modern world. Where pop music is crowd-sourced and GOOD. No more do we need to rely on corporate people with obvious biases and conflicting inclinations, torn between their artistic roots and boardroom future, who push out to the masses bubblegum crap. These days bubblegum crap still does OK, but nothing like it did in the 90′s. These days, if you don’t have a real soul, if you lack authenticity, you are less likely to “make” it than in the past. I listened to a Moth podcast by one of the Milli Vanilli guys earlier this week who was talking about how things went down for them. I cannot even imagine that happening. Even the corporate music world (I think) understands that it takes more than a pretty face, great hair, and an ability to dance to make it. Unless you want to be a dancer – which you can. I love it.
 

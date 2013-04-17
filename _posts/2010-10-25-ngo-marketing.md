@@ -1,47 +1,19 @@
 ---
-title: On NGO Marketing
-author: Casey Kuhlman
-excerpt: 'Last week our business wanted to set up a booth at the Hargesia Trade Fair but the booths were sold out when we applied.  When we visited the fair, however, what we found was mostly NGOs.  So what is the point of NGOs marketing here in Hargeisa?'
-layout: post
-permalink: /entry/ngo-marketing
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/AEpQnC
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/7204300146";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365851357
-st_cached_time:
-  - 1330489551
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - development
-tags:
-  - development 2.0
-  - development policy
-  - ngos
----
-# 
 
-[![Meeting via jcolman @ flickr][2]][2]
-Meeting via jcolman @ flickr
+layout: post
+title: On NGO Marketing
+published: true
+comments: true
+meta: true
+category: development
+tags: ["development 2.0", "development policy", "ngos"]
+excerpt: "Last week our business wanted to set up a booth at the Hargesia Trade Fair but the booths were sold out when we applied.  When we visited the fair, however, what we found was mostly NGOs.  So what is the point of NGOs marketing here in Hargeisa?"
+
+---
+
 
 Last week was the Hargeisa Trade Fair.  Our business wanted a booth to network and develop further relationships with clients.  You know, the type of thing that happens at conventions all around the world every day.
 
- []: http://www.flickr.com/photos/jcolman/2325118043/
 
 But the Hargeisa Trade Fair was a bit different.  First off, they didn’t have that many booths.  Granted we were a bit late to the game, but it was still fairly annoying that we were unable to secure a booth.
 

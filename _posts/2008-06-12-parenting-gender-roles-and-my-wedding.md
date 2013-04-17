@@ -1,33 +1,14 @@
 ---
-title: Parenting, Gender Roles and My Wedding
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/parenting-gender-roles-and-my-wedding
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365966896
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330430325
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zbJfuO
-        
-categories:
-  - living
+title: Parenting, Gender Roles and My Wedding
+published: true
+comments: true
+meta: true
+category: unclassified
+excerpt: "As I clicked the category for this posting it occurred to me that for much of the first two years of this blog all I wrote about was categorized as 'living' but that for the past three years or so that has decrescendoed to almost a non-existent situation.  Maybe I have spent much more time looking outward and not so much time looking inward, or maybe I have become a bit reticent to write about 'me' as I embark on something akin to being a professional."
+
 ---
-# 
 
 As I clicked the category for this posting it occurred to me that for much of the first two years of this blog all I wrote about was categorized as "living" but that for the past three years or so that has decrescendoed to almost a non-existent situation.  Maybe I have spent much more time looking outward and not so much time looking inward, or maybe I have become a bit reticent to write about "me" as I embark on something akin to being a professional.
 

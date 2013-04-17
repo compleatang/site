@@ -1,47 +1,19 @@
 ---
-title: 'Leaked Wikis, #Cablegate, and Little Else'
-author: Casey Kuhlman
-excerpt: 'There has been tons of interesting commentary and analysis surrounding cablegate.  I have been interested and have read quite a few of the original cables, especially the ones about Somalia as well as much of the journalistic coverage of the story and the analysis (punditry) side of the story.  The main thing I was struck upon reading the entirety of this article is that this entire deal is quite anticlimatic. '
-layout: post
-permalink: /entry/leaked-wikis-cablegate
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/ywSHFI
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/7133056920";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365844112
-st_cached_time:
-  - 1330118372
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - politics
-tags:
-  - cablegate
-  - diplomacy
-  - privacy
----
-# 
 
-[![does your roof leak? by nuanc @ flickr][2]][2]
-does your roof leak? by nuanc @ flickr
+layout: post
+title: Leaked Wikis, #Cablegate, and Little Else
+published: true
+comments: true
+meta: true
+category: politics
+tags: ["cablegate", "diplomacy", "privacy"]
+excerpt: "There has been tons of interesting commentary and analysis surrounding cablegate.  I have been interested and have read quite a few of the original cables, especially the ones about Somalia as well as much of the journalistic coverage of the story and the analysis (punditry) side of the story.  The main thing I was struck upon reading the entirety of this article is that this entire deal is quite anticlimatic."
+
+---
+
 
 There has been tons of interesting commentary and analysis surrounding cablegate.  I have been interested and have read quite a few of the original cables, especially the ones about Somalia as well as much of the journalistic coverage of the story and the analysis (punditry) side of the story.  I do not think I can add much to the really interesting and relevant commentary, from the punditry side, found in the below articles so I’ll just link to them. (list in semi-chronological order)
 
- []: http://www.flickr.com/photos/nuanc/90753362/
 
 *   Drezner: [There are no Big Lies in the latest Wikileaks data dump][2]
 *   Rothkopf: [WikiLeaks: How the world is really run][3]

@@ -1,55 +1,19 @@
 ---
-title: 'On The Somali Famine: A Thought Collage'
-author: Casey Kuhlman
-excerpt: >
-  This post is a compilation of sources, commentary and thought. It is a collage
-  on the famine in the South of Somalia, the media storm which is surrounding it,
-  and possible things to do.
-layout: post
-permalink: /entry/somali-famine-collage
-dsq_thread_id:
-  - 587625113
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/xs3dau
-        
-st_tweetmeme:
-  - 's:42:"a:2:{s:7:"tm_link";N;s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365823393
-st_cached_time:
-  - 1330081188
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - somaliland/somalia
-tags:
-  - drought
-  - famine
-  - politics
-  - shabaab
-  - somalia
-  - somaliland
----
-# 
 
-[![New arrivals wait to get processed original via Oxfam East Africa @ Flickr][2]][2]
-New arrivals wait to get processed original via Oxfam East Africa @ Flickr
+layout: post
+title: On The Somali Famine: A Thought Collage
+published: true
+comments: true
+meta: true
+category: somaliland/somalia
+tags: ["drought", "famine", "politics", "shabaab", "somalia", "somaliland"]
+excerpt: "This post is a compilation of sources, commentary and thought. It is a collage on the famine in the South of Somalia, the media storm which is surrounding it, and possible things to do."
+
+---
+
 
 *The original photo is [here][2], my alteration is [here][3]. If I had to title the alteration, I would call it An Homage to Motherhood*.
 
- []: http://www.flickr.com/photos/oxfameastafrica/5974209957/in/photostream/
  [2]: http://www.flickr.com/photos/oxfameastafrica/5974209957/in/photostream/ "Original via Oxffam East Africa @ Flickr"
  [3]: http://blog.caseykuhlman.com/wp-content/blogs.dir/4/files/2011/07/5974209957_75f686bf8b_o-e1312029321201.jpg "My alteration"
 

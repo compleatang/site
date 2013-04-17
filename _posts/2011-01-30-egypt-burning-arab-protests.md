@@ -1,51 +1,17 @@
 ---
-title: 'Egypt is Burning: On Arab Protests'
-author: Casey Kuhlman
-excerpt: 'The Arab world is only starting.  This will be fascinating and its public exposure is going to be studied for generations.  Or Not.  Hard to tell at this point.  '
-layout: post
-permalink: /entry/egypt-burning-arab-protests
-dsq_thread_id:
-  - 843267007
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/xfLi5L
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/3892896555";s:9:"url_count";i:1;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365837419
-st_cached_time:
-  - 1330351131
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - politics
-tags:
-  - activism
-  - autocracy
-  - democracy
-  - freedom
-  - protests
----
-# 
 
-[![THIS COULD HAVE BEEN STRAIGHT OUT OF A MOVIE! #jan25 #egypt via Farrah3m @ Twitpic][2]][2]
-"THIS COULD HAVE BEEN STRAIGHT OUT OF A MOVIE! #jan25 #egypt" via Farrah3m @ Twitpic
+layout: post
+title: Egypt is Burning: On Arab Protests
+published: true
+comments: true
+meta: true
+category: politics
+tags: ["activism", "autocracy", "democracy", "freedom", "protests"]
+excerpt: "The Arab world is only starting.  This will be fascinating and its public exposure is going to be studied for generations.  Or Not.  Hard to tell at this point."
+
+---
 
 Two days ago, my father asked me for my thoughts on the protests throughout the Arab world. I wanted to compose my thoughts, to let the situation develop a bit further before I said anything.  Now is the time to say something.
-
- []: http://twitpic.com/3us0oz
 
 This is utterly fascinating to watch.  Al Jazeera is very much killing it with fantastic shots – news hasn’t captivated me in this same way since watching CNN from the Palestine Hotel in Baghdad in 1991.  On Friday I was sitting with my friends and we watched the following sequence unfold in real time: reports of police sending reinforcements into streets, video of police apcs flooding streets, video of protesters stopping one vehicle, video of  police scrambling and fighting their way out of back of vehicle protesters beating the driver, video of protesters trying and failing to tip apc over and “throw” into nile, reprieve, reports of army being called onto streets, video of apc being lit on fire, and for the next three hours they would every once in a while cut back to the same burning apc.  It was magical, riveting, unbelievable tv.
 
@@ -58,8 +24,6 @@ The story aside, what is my chat on this topic?  Three things strike me: (1) th
 ## Pan-Arab Movement
 
 Yes, all of these are connected.  The Tunis protests, and their subsequent victories, beget the Egyptian protests, and as they say: as Egypt goes, so goes the Arab world.  But look at what I pulled just a few minutes off of Twitter:
-
-[![][4]][4]
 
  []: http://www.caseykuhlman.com/entry/egypt-burning-arab-protests/scr
 

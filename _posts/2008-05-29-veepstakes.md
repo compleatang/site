@@ -1,33 +1,14 @@
 ---
-title: VeepStakes
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/veepstakes
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365142444
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330459664
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zuQVtF
-        
-categories:
-  - politics
+title: VeepStakes
+published: true
+comments: true
+meta: true
+category: unclassified
+excerpt: "One of my favorite pundit-ers is [Marc Ambinder][1] who writes for the Atlantic."
+
 ---
-# 
 
 One of my favorite pundit-ers is [Marc Ambinder][1] who writes for the Atlantic.
 

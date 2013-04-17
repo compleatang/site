@@ -1,50 +1,19 @@
 ---
-title: 'On Transparency &amp; Openness in Organizational Behavior'
-author: Casey Kuhlman
-excerpt: |
-  I have been a technophile for a long time; indeed, as long as I can remember I've had a computer and used it extensively.  Many of my "mentors" for creating an organization are companies which are currently operating in the technology sector rather than in the legal sector, because being open is more efficient than being closed.  Openness is well and good, but there are a few tensions which any organization must navigate in this area.
-layout: post
-permalink: /entry/transparency-openness-organizational-behavior
-dsq_thread_id:
-  - 587625288
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zdkUIr
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/7254381014";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365847734
-st_cached_time:
-  - 1330081200
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - learning
-tags:
-  - openness
-  - organizational behavior
-  - transparency
----
-# 
 
-[![She left the Door open via h.koppdelaney @ flickr][2]][2]
-She left the Door open via h.koppdelaney @ flickr
+layout: post
+title: On Transparency &amp; Openness in Organizational Behavior
+published: true
+comments: true
+meta: true
+category: learning
+tags: ["openness", "organizational behavior", "transparency"]
+excerpt: "I have been a technophile for a long time; indeed, as long as I can remember I've had a computer and used it extensively.  Many of my 'mentors' for creating an organization are companies which are currently operating in the technology sector rather than in the legal sector, because being open is more efficient than being closed.  Openness is well and good, but there are a few tensions which any organization must navigate in this area."
+
+---
+
 
 I run a law firm in Somaliland, or what National Geographic’s map section probably calls Somalia (northern section).  I have been a technophile for a long time; indeed, as long as I can remember I’ve had a computer and used it extensively.  To me at least, many of my “mentors” for creating an organization are companies which are currently operating in the technology sector rather than in the legal sector.  These tech companies seem to have organizational philosophies that excite me.  Although one can never know for sure without having a deeper glimpse inside the company than what they allow one to glimpse from the outside, many of these companies give customers and potential customers an opportunity to view them deeper than we have likely ever seen before for corporate behavior.
 
- []: http://www.flickr.com/photos/h-k-d/3746675779/
 
 There is a huge part of me which appreciates this from a consumer point of view.  It makes it easier to do your task management when you “feel” as if you “like” the program you are using and even better when you feel as if you “know” something about those who made it, where they are trying to go with it, etc.  It enables a feeling of community and communal interest even though I’m here in Somaliland and they may be thousands of miles away.  This interactivity is powerful when applied to corporate behavior as it allows companies to leverage the increased loyalty and interactivity found in small community-based businesses with the scales of economy found in large MNC’s.
 

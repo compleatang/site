@@ -1,37 +1,14 @@
 ---
-title: My Own Private Pirate Expedition
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/my-own-private-pirate-expedition
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365923803
-dsq_thread_id:
-  - 803126593
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330423866
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/y1Z7pk
-        
-categories:
-  - africa
-  - environment
-  - living
+title: My Own Private Pirate Expedition
+published: true
+comments: true
+meta: true
+category: unclassified
+excerpt: "I am trying to return to some modicum of consistency with respect to the exhibitionist nature of this activity."
+
 ---
-# 
 
 I am trying to return to some modicum of consistency with respect to the exhibitionist nature of this activity.
 
