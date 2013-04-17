@@ -3,8 +3,8 @@
 # ----------------------- #
 
 name:        underWater desert Blogging
-# url:         http://blog.caseykuhlman.com
-url:         /
+url:         http://blog.caseykuhlman.com
+# url:         /
 author:      
   name:    Casey Kuhlman
   email:   caseykuhlman@watershedlegal.com
@@ -23,8 +23,8 @@ rss_path:       ./rss.xml
 #    Jekyll & Plugins     #
 # ----------------------- #
 
-root:            "home/coda/sites/csk/udb/_site/"
-# root:            /
+# root:            "home/coda/sites/csk/udb/_site/"
+root:            /
 permalink:       "entries/:year/:title.html"
 safe:            true
 lsi:             false
