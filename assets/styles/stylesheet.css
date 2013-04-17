@@ -327,6 +327,22 @@ aside.sidebar a h4 {
   text-align: center;
 }
 
+aside.sidebar .follow-me {
+  margin: .8em auto .2em auto;
+  padding: 0;
+  text-align: center;
+}
+
+aside.sidebar .follow-me a {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+aside.sidebar .follow-me a img {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
 /* Buttons */
 .btn {
   display: inline-block;

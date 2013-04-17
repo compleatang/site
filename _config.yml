@@ -7,9 +7,11 @@ name:        underWater desert Blogging
 url:         /
 author:      
   name:    Casey Kuhlman
-  email:   caseykuhlman@gmail.com
+  email:   caseykuhlman@watershedlegal.com
   github:  compleatang
+  tumblr:  compleatang
   twitter: compleatang
+  lastfm:  compleatang
 exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile", "_drats"]
 
 subscribe_rss:  ./rss.xml
