@@ -25,6 +25,7 @@ rss_path:       ./rss.xml
 
 # root:            "home/coda/sites/csk/udb/_site/"
 root:            /
+destination:     "_site/htdocs"
 permalink:       "entries/:year/:title.html"
 safe:            true
 lsi:             false
