@@ -11,7 +11,7 @@ excerpt: "I just finished watching Obama's job speech, I haven't read or listene
 
 ---
 
-[![obama postcard by Mr. Wright @ Flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/2795798382_9996813e74.jpg)][http://www.caseykuhlman.com/entry/the-preacher-is-back-thats-what-ive-been-waiting-for/2795798382_9996813e74]
+[![obama postcard by Mr. Wright @ Flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/2795798382_9996813e74.jpg)](http://www.caseykuhlman.com/entry/the-preacher-is-back-thats-what-ive-been-waiting-for/2795798382_9996813e74)
 
 I just finished watching the jobs speech and my first thought was “were have you been”? The historian-poet-preacher in him which I fell in love with in the Yes We Can and Race speeches (collectively rather than individually) had found his groove tonight.
 

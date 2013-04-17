@@ -13,7 +13,7 @@ excerpt: "On Going Local is a new (short) series that I’ll be running which wi
 
 *On Going Local is a new (short) series that I’ll be running which will attempt to look at my life from an objective perspective as I transition from and NGO worker into an entrepreneur here in the developing world.*
 
-[![My Happy Place via Lady_k @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4431206216_8eacda9a75_z.jpg)][http://www.flickr.com/photos/krista_g/4431206216/]
+[![My Happy Place via Lady_k @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4431206216_8eacda9a75_z.jpg)](http://www.flickr.com/photos/krista_g/4431206216/)
 Photo via Lady_k @ flickr
 
 I’ve been here in Somaliland now for around two and a half years now.  It has been a wonderful time, and I’ve enjoyed every minute of it.

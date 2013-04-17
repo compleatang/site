@@ -11,7 +11,7 @@ excerpt: "There has been tons of interesting commentary and analysis surrounding
 
 ---
 
-[![does your roof leak? by nuanc @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/90753362_9e747069b7.jpg)][http://www.flickr.com/photos/nuanc/90753362/]
+[![does your roof leak? by nuanc @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/90753362_9e747069b7.jpg)](http://www.flickr.com/photos/nuanc/90753362/)
 does your roof leak? by nuanc @ flickr
 
 There has been tons of interesting commentary and analysis surrounding cablegate.  I have been interested and have read quite a few of the original cables, especially the ones about Somalia as well as much of the journalistic coverage of the story and the analysis (punditry) side of the story.  I do not think I can add much to the really interesting and relevant commentary, from the punditry side, found in the below articles so I’ll just link to them. (list in semi-chronological order)

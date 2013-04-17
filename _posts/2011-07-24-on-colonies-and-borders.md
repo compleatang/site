@@ -11,7 +11,7 @@ excerpt: "One of the legal criteria for statehood is established borders. There 
 
 ---
 
-[![Somaliland by CharlesFred@flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/61782242_42524b7b0d_o.jpg)][http://www.flickr.com/photos/charlesfred/61782242/]
+[![Somaliland by CharlesFred@flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/61782242_42524b7b0d_o.jpg)](http://www.flickr.com/photos/charlesfred/61782242/)
 
 *This is the second installment in a series which is parsing through Somaliland’s journey towards recognition. The first post in the series, the introduction is available [here][2]. One of the legal criteria for statehood is established borders. There is a serious and very well, although often, hidden question as to where Somaliland’s borders are. In this post I try to parse this a bit mainly from the perspective of international law, but also from the political perspective as well.*
 

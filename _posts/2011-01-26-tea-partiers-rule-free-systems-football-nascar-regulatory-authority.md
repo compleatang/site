@@ -13,7 +13,7 @@ excerpt: "I know I am generalizing, but since many that I know and love subscrib
 
 > “An association of men who will not quarrel with one another is a thing which has never yet existed, from the greatest confederacy of nations down to a town meeting or a vestry.” ~ Thomas Jefferson
 
-[![Tea partiers by jkarsh @ Flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4607302277_f9cc76dd12.jpg)][http://www.flickr.com/photos/jkarsh/4607302277/]
+[![Tea partiers by jkarsh @ Flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4607302277_f9cc76dd12.jpg)](http://www.flickr.com/photos/jkarsh/4607302277/)
 Think these guys watch NASCAR? - Tea partiers by jkarsh @ Flickr
 
 I know I am generalizing, but since many that I know and love subscribe to many of these philosophies maybe I do have a small bit of perspective here.  Let me take a look at the Free Market system and rules.  Many have argued that rules are inherrently anti-market.  That the opposite of capitalism is rule-making by regulators.  Maybe that is right in some areas, but I would argue that it depends on the specific area in mind.

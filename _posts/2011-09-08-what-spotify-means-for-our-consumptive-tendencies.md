@@ -11,7 +11,7 @@ excerpt: "I have been using Spotify for only a couple of days but already it see
 
 ---
 
-[![Spotify on HTC Desire Android by babyben @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4756710633_475680f30e.jpg)][http://www.flickr.com/photos/babyben/4756710633/]
+[![Spotify on HTC Desire Android by babyben @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4756710633_475680f30e.jpg)](http://www.flickr.com/photos/babyben/4756710633/)
 
 I walked to work this morning. While I was getting ready for work my phone was streaming an album which I found last night to be ultra-enjoyable. My headphones were with me; so, I plugged them into the phone and started walking. Got to work; sat down at my desk computer to type this; the album is still playing. Seamlessly it has flown to my ears via 4G wireless and .11n wireless. I have not purchased this album, but I’m going to see the band in about 10 days if I’m able.
 

@@ -13,7 +13,7 @@ excerpt: "On Going Local is a new (short) series that I'll be running which will
 
 *On Going Local is a new (short) series that I’ll be running which will attempt to look at my life from an objective perspective as I transition from and NGO worker into an entrepreneur here in the developing world.*
 
-[![Washing Hands]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4610058219_4e31ee3ce2.jpg)][http://www.flickr.com/photos/dougni/4610058219/]
+[![Washing Hands]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4610058219_4e31ee3ce2.jpg)](http://www.flickr.com/photos/dougni/4610058219/)
 via dougni @ flickr
 
 When I first arrived here in S’land, and I would go out to eat, I would use the minimum amount of water possible to wash my hands before and after eating with them.  It is desert afterall.  But later, towards the end I realized that I had adapted and was using more water – letting the water run as I was soaping, washing my face also.  It was never a conscious decision, I just started using more water.

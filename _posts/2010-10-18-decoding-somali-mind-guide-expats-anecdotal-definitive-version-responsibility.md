@@ -13,7 +13,7 @@ excerpt: "This is a new series containing a few stories which have stood out in 
 
 *This is a new series containing a few stories which have stood out in my time here in Somaliland and have helped me to understand a bit more a culture that in many ways is very different from my own, but in many ways is not. This series explores those differences.*
 
-[![Responsibility via PaDumBumPsh @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4586821590_6000f395c6.jpg)][http://www.flickr.com/photos/36498826@N02/4586821590/]
+[![Responsibility via PaDumBumPsh @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4586821590_6000f395c6.jpg)](http://www.flickr.com/photos/36498826@N02/4586821590/)
 
 I generally prefer to point out the similarities between disparate people.  I enjoy very much the common humanity aspects about my life.  But I equally enjoy learning about the differences.  This post contains more of the latter than the former.
 

@@ -11,7 +11,7 @@ excerpt: "|  This week I read a fascinating article which was written by a forme
 
 ---
 
-[![Day 123 Screw the imaginary!]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4655741915_c398dfcd7f.jpg)][http://www.flickr.com/photos/33971648@N06/4655741915/]
+[![Day 123 Screw the imaginary!]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4655741915_c398dfcd7f.jpg)](http://www.flickr.com/photos/33971648@N06/4655741915/)
 via mariebledeebles @ flickr
 This week I read a fascinating article which was written by a former high-level DFID individual named Rosalind Eyben.  The title of the piece is, “Hiding Relations: The Irony of ‘Effective Aid.’” It can be found in its entirety [here][2].
  [2]: http://www.oxfamblogs.org/fp2p/wp-content/uploads/ejdr201010a1.pdf

@@ -11,7 +11,7 @@ excerpt: "So I woke up this morning to the news. Obama Killed Osama. In my grogg
 
 ---
 
-[![Bin Laden hates this car by afagen @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/2506982921_9132061338.jpg)][http://www.flickr.com/photos/afagen/2506982921/]
+[![Bin Laden hates this car by afagen @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/2506982921_9132061338.jpg)](http://www.flickr.com/photos/afagen/2506982921/)
 
 So I woke up this morning to the news. Obama Killed Osama. In my groggy state, I couldn’t really piece together what was happening on my collated facebook and twitter streams until I saw something similar to the previous sentence. I think the first thing I cognized was a friend’s facebook post: “Osama, so 10 years ago.”
 

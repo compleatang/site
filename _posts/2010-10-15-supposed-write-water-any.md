@@ -11,7 +11,7 @@ excerpt: "Today the Interweb Gods have deemed is World Blog about water day.  Or
 
 ---
 
-[![Broken Pipe via Starbuck Powersurge @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/262341270_2017b87199.jpg)][http://www.flickr.com/photos/starbuck_powersurge/262341270/]
+[![Broken Pipe via Starbuck Powersurge @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/262341270_2017b87199.jpg)](http://www.flickr.com/photos/starbuck_powersurge/262341270/)
 
 Today the Interweb Gods have deemed is World Blog about water day.  Or likely more accurately, the brilliant [change.org][2] marketers have deemed today as world blog about water:Day.  I haven’t read every post I have seen come across my various Twitter wires, but the ones I’ve read talk about the need for us to have water.  Seems pretty self-evident and so the rhetoric can turn into a polemic rather quickly.  I thought about writing a love post to water, but then I realized that I’m annoyed at water.  We fell out with each other a couple of weeks ago, which by the way was the last time water came through my pipes.
 

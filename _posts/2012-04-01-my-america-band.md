@@ -11,7 +11,7 @@ excerpt: "When you sit with people from other countries, it is important to have
 
 ---
 
-[![Wax Fang at the Basement 31.03.12 by Casey Kuhlman]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/IMAG0237.jpg)][http://blog.caseykuhlman.com/wp-content/blogs.dir/4/files/2012/04/IMAG0237.jpg]
+[![Wax Fang at the Basement 31.03.12 by Casey Kuhlman]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/IMAG0237.jpg)](http://blog.caseykuhlman.com/wp-content/blogs.dir/4/files/2012/04/IMAG0237.jpg)
 
 When you sit with people from other countries, it is important to have some fall back, standardized way to explain where you are from. Of course we all have these icons, these posters, these fleeting images that remind ourselves of where we came from and are readily recalled by our frontal cortex when asked to explain ourselves. When we trust the person and we know that the question is meant because the other conversant(s) truly does want to understand us, then we are more easily able to open up and to tell the truth.
 
