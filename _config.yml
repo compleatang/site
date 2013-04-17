@@ -10,7 +10,7 @@ author:
   email:   caseykuhlman@gmail.com
   github:  compleatang
   twitter: compleatang
-exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile"]
+exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile", "_drats"]
 
 subscribe_rss:  ./rss.xml
 subscribe_atom: ./atom.xml
