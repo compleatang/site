@@ -18,6 +18,20 @@
           {{ site.name }}
       {% endif %}
     </title>
+    <script src="{{ site.url }}{{ site.root }}{{ site.scripts_dir }}/jquery.min.js"></script>
+    <script>
+      $(document).ready(function(){
+        $('nav a#categories').click(function(e) {
+            e.preventDefault();
+            $('.submenu').slideToggle(); });
+            //do other stuff when a click happens
+        });
+        // $("").click(function(){
+          
+        //   $(this).children('a').return false;
+        //   // function() { $("ul li", this).hide(); }  );
+      // });
+    </script>
   </head>
   <body>
     <div class="container">
