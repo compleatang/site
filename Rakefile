@@ -25,5 +25,6 @@ namespace :site do
     system "git commit -m #{message.shellescape} &>/dev/null"
     system "git push origin master"
     system "ssh 119629@git.dc0.gpaas.net 'deploy blog.caseykuhlman.com.git master'"
+    
   end
 end
