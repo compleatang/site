@@ -1,5 +1,4 @@
 require 'jekyll'
-require 'tmpdir'
 
 PROD_REPONAME = ""
 
@@ -9,6 +8,8 @@ namespace :site do
     message = "Site updated at #{Time.now.utc}"
     system "git checkout -- _config.yml"
     system "git add . && git commit -m #{message.shellescape} &>/dev/null"
+    # system "git push github master"
+    # system "git push wsl master"
     Jekyll::Site.new(Jekyll.configuration({
       "source"      => ".",
       "destination" => "_site/htdocs"
@@ -18,9 +19,7 @@ namespace :site do
   # call with rake site:publish
   desc "Generate and publish blog"
   task :publish => [:generate] do
-    # system "git push github master"
-    # system "git push wsl master"
-    system "cd _site"
+    Dir.chdir "_site"
     system "git add . &>/dev/null"
     message = "Site updated at #{Time.now.utc}"
     system "git commit -m #{message.shellescape} &>/dev/null"
