@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: On The Somali Famine: A Thought Collage
+title: "On The Somali Famine: A Thought Collage"
 published: true
 comments: true
 meta: true
@@ -11,6 +11,7 @@ excerpt: "This post is a compilation of sources, commentary and thought. It is a
 
 ---
 
+[![New arrivals wait to get processed original via Oxfam East Africa @ Flickr][2]][2]
 
 *The original photo is [here][2], my alteration is [here][3]. If I had to title the alteration, I would call it An Homage to Motherhood*.
 

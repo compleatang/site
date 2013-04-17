@@ -1,14 +1,20 @@
 ---
 
 layout: post
-title: The Issue of Valor
+title: "The Issue of Valor"
 published: true
 comments: true
 meta: true
-category: unclassified
-excerpt: "Bing West, who my former co-author knows quite well, and I met once briefly in Iraq while he joined one of my patrols has an interesting interview in a blog I frequent Small Wars Journal."
+category: politics
+excerpt: "[]: http://caseykuhlman.typepad.com/.a/6a00d83453a81b69e200e553e9de388833-pi"
 
 ---
+
+[![R1874377885][2]][2]    
+Photo courtesy of [here][2].
+
+ []: http://caseykuhlman.typepad.com/.a/6a00d83453a81b69e200e553e9de388833-pi
+ [2]: http://patdollard.com/wp-content/uploads/r1874377885.jpg
 
 [Bing West][3], who my former co-author knows quite well, and I met once briefly in Iraq while he joined one of my patrols has an interesting interview in a blog I frequent: [Small Wars Journal][4]. 
 
@@ -24,7 +30,24 @@ I largely agree with his tactical analysis, especially the part where he exposes
 
 I want to comment on something that West says in part two. The money quote is here:
 
-> The martial values of our society have deteriorated. During World War II, the press scarcely mentioned and never photographed the dozens (over 140 in all) of public hangings of American soldiers, and never mentioned the shootings of German civilians or captured prisoners. The press considered such stories to be out of bounds. In Iraq, the killings of civilians in Haditha, trumpeted as a massacre, received vastly more press attention than any valorous action in the war. The hue and cry was not motivated by a thirst for justice; when investigations exonerated most of the Marines involved at Haditha, the press wrote little and said less. In World War II, our nation highlighted courage and quietly accepted mistakes. Today, we highlight mistakes and quietly accept valor. On Iwo Jima in 1945, almost six thousand Americans died, many more than in five years in Iraq. Iwo Jima was a strategic blunder. Today, the press and Congress would be apoplectic about such a blunder. Courage, Aristotle said, is the virtue that makes all other virtues possible. Geopolitical wisdom is admirable, but martial valor is essential to sustain a democracy. American society takes courage for granted, and the press ignores it. When we fight the next war, this attitude will poorly serve the nation. Will soldiers risk their lives, if society ignores courage?
+The martial values of our society have deteriorated. During World War II, the  
+press scarcely mentioned and never photographed the dozens (over 140 in all) of  
+public hangings of American soldiers, and never mentioned the shootings of  
+German civilians or captured prisoners. The press considered such stories to be  
+out of bounds. In Iraq, the killings of civilians in Haditha, trumpeted as a  
+massacre, received vastly more press attention than any valorous action in the  
+war. The hue and cry was not motivated by a thirst for justice; when  
+investigations exonerated most of the Marines involved at Haditha, the press  
+wrote little and said less. In World War II, our nation highlighted courage and  
+quietly accepted mistakes. Today, we highlight mistakes and quietly accept  
+valor. On Iwo Jima in 1945, almost six thousand Americans died, many more than  
+in five years in Iraq. Iwo Jima was a strategic blunder. Today, the press and  
+Congress would be apoplectic about such a blunder. Courage, Aristotle said, is  
+the virtue that makes all other virtues possible. Geopolitical wisdom is  
+admirable, but martial valor is essential to sustain a democracy. American  
+society takes courage for granted, and the press ignores it. When we fight the  
+next war, this attitude will poorly serve the nation. Will soldiers risk their  
+lives, if society ignores courage?
 
 There are couple of levels to this comment.  The first is that this statement is ostensibly a tired critique of the "liberal media."  The second, more interesting level, is that this is a lament by an old man that our society has gone "soft."  Yet, these issues are not so easy to isolate because there is reverse causality, each one informing the other. 
 

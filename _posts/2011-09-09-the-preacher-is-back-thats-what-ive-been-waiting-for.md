@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: The Preacher is Back. That&#8217;s What I&#8217;ve Been Waiting For.
+title: "The Preacher is Back. That&#8217;s What I&#8217;ve Been Waiting For."
 published: true
 comments: true
 meta: true

@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: Trail of the Octopus
+title: "Trail of the Octopus"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: politics
 excerpt: "Last night we were drinking some wine.  I say this because my consumption of alcohol has decreased drastically over the past few years.  Living in a dry country helps!"
 
 ---

@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: Gates goes to TED and Few Listen
+title: "Gates goes to TED and Few Listen"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: africa
 excerpt: "I didn't hear about this until after the fact.  Indeed quite after the fact.  I was reading tweets about how Gates was blowing people's minds at cocktail parties leading up to his big speech about climate change at TED this year.  But then I forgot about them until reading these two articles from [Worldchanging][1]."
 
 ---

@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: An Homage to My Environment (aka Thanks for the Birthday Greetings)
+title: "An Homage to My Environment (aka Thanks for the Birthday Greetings)"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: africa
 excerpt: "For those which are curious as to a H-town, birthday this is how it broke down."
 
 ---

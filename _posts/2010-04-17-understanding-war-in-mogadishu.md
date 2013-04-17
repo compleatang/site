@@ -1,15 +1,17 @@
 ---
 
 layout: post
-title: Understanding War [in Mogadishu]
+title: "Understanding War [in Mogadishu]"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: africa
 tags: ["conflict", "somalia"]
 excerpt: "This week the World Food Program (WFP) shoved out a press release about how piracy was raising food prices in South-Central Somalia.  At first glance, most people who would read such a report will likely think, oh the poor people in Mogadishu.  Of course, I share their sentiments. However, there is a deeper issue at work here.  One that I'm not sure many people realize.  The conclusion (because I'm a lawyer and we put these things up front) is that this rise in cost of business may have drastically good effects for the conflict in the South.  Here's how I get there."
 
 ---
+
+[![][2]][2]
 
 This week the World Food Program (WFP) shoved out a [press release][2] about how piracy was raising food prices in South-Central Somalia.  At first glance, most people who would read such a report will likely think, oh the poor people in Mogadishu.  Of course, I share their sentiments.
 

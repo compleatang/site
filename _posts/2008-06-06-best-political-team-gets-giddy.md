@@ -1,12 +1,12 @@
 ---
 
 layout: post
-title: Best Political Team Gets Giddy
+title: "Best Political Team Gets Giddy"
 published: true
 comments: true
 meta: true
-category: unclassified
-excerpt: "Rude Pundit has one of the funniest TV pundit exchanges that I have ever (not) seen where Borger invokes the Money Shot.  Be Aware!  It is pretty graphic.  As is everything he does…. Video here, although the video is pretty low."
+category: television
+excerpt: "[Rude Pundit][1] has one of the funniest TV pundit exchanges that I have ever (not) seen where Borger invokes the 'Money Shot.'  Be Aware!  It is pretty graphic.  As is everything he does…. Video here, although the video is pretty low:"
 
 ---
 

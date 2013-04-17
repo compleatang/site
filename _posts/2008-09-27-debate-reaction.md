@@ -1,12 +1,12 @@
 ---
 
 layout: post
-title: Debate Reaction
+title: "Debate Reaction"
 published: true
 comments: true
 meta: true
-category: unclassified
-excerpt: "Some initial thoughts.  It is 630 in the morning here and I've now been up all night, so maybe this will not be as eloquent or complete as I'd like."
+category: politics
+excerpt: "Some initial thoughts.  It is 6:30 in the morning here and I've now been up all night, so maybe this will not be as eloquent or complete as I'd like."
 
 ---
 

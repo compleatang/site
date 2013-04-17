@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Perspectives on Africa -&gt; Its all about the lens
+title: "Perspectives on Africa -&gt; Its all about the lens"
 published: true
 comments: true
 meta: true
@@ -11,6 +11,7 @@ excerpt: "The collective cultural lens which reflects some important baseline as
 
 ---
 
+[![Facial Scarification in Africa in the early 1940s via gbaku @ flickr][2]][2]
 
 When you look at this picture what do you see?  I see a man who is satisfied with his situation.  Sure there are the tribal markings, the blanket over the shoulder, the bleakness of the background and the stuff on the back of the man’s neck.  But what really jumps out, to me at least, is the satisfied look that his eyes and his mouth convey.
 

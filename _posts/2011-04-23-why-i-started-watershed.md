@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Why I Started Watershed Legal Services: My Journey from Expat Aid Worker to Expat Entrepreneur
+title: "Why I Started Watershed Legal Services: My Journey from Expat Aid Worker to Expat Entrepreneur"
 published: true
 comments: true
 meta: true
@@ -11,8 +11,12 @@ excerpt: "I felt the need to justify (perhaps mostly to myself) why I have start
 
 ---
 
+a[![Ninja Law Firm via SolYoung @ flickr][2]][2]
+Ninja Law Firm via SolYoung @ flickr
+
 I read an interesting article yesterday from a man who I referenced in my previous post as one of my favorite development bloggers: Owen Barder. Owen has joined a DC based development think-tank called Center for Global Development and in his [good-bye to Ethiopia post][2] he had an interesting thing to say about aid. He claims, and I heartily support, that development is much broader than simply aid, it is about trade policy, climate policy, monetary policy (which he didn’t actually mention), and numerous other policies which the developed world implements and in the globalized economy has massive effects in the developing world.
 
+ []: http://www.caseykuhlman.com/entry/why-i-started-watershed/4928948235_9882789b97
  [2]: http://www.owen.org/blog/4540
 
 The article returned my thoughts to something which I have pondered off and on for the eight months since we have opened the doors on [Watershed Legal Services][3], my small law firm in this corner of the Horn of Africa.

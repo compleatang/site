@@ -1,12 +1,12 @@
 ---
 
 layout: post
-title: Tonight the Following Occured&#8230;
+title: "Tonight the Following Occured&#8230;"
 published: true
 comments: true
 meta: true
-category: unclassified
-excerpt: "A Masai Bush Pilot attempted to convince me that rural Sudanese women were so turned on by engine noise from his craft that they would masturbate in front of him.  But only when the engines were running."
+category: africa
+excerpt: "*   A Masai Bush Pilot attempted to convince me that rural Sudanese women were so turned on by engine noise from his craft that they would masturbate in front of him.  But only when the engines were running."
 
 ---
 

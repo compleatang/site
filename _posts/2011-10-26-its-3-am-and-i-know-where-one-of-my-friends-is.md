@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Its 3 AM and I know where One of My Friends is
+title: "Its 3 AM and I know where One of My Friends is"
 published: true
 comments: true
 meta: true

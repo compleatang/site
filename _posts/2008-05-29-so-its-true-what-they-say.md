@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: So, It&#8217;s True What They Say&#8230;
+title: "So, It&#8217;s True What They Say&#8230;"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: travel
 excerpt: "about Russians.  For one they are drunks.  For another they seem to love leaving their country to hang out in the bush and do wild stuff, like fly planes drunk. "
 
 ---

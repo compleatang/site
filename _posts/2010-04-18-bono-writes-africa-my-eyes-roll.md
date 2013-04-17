@@ -1,15 +1,17 @@
 ---
 
 layout: post
-title: Bono Writes About Africa (My Eyes Begin to Roll)
+title: "Bono Writes About Africa (My Eyes Begin to Roll)"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: development
 tags: ["africa", "bono", "development 2.0", "U2"]
 excerpt: "I desperately wanted to hate [this][2] op-ed which the NYT published yesterday and Bono wrote, but at the end it was a rather good piece.  There is this narrative which is beginning to form which is the first coherent, resonant, and positive narrative on Africa that I’ve heard."
 
 ---
+
+[![photo from maaarine via flickr][2]][2]
 
 I desperately wanted to hate [this][2] op-ed which the NYT published yesterday and Bono wrote, but at the end it was a rather good piece.  There is this narrative which is beginning to form which is the first coherent, resonant, and positive narrative on Africa that I’ve heard.
 

@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Understanding the Somaliland Elections (1 of 3): Background
+title: "Understanding the Somaliland Elections (1 of 3): Background"
 published: true
 comments: true
 meta: true
@@ -11,8 +11,11 @@ excerpt: "Today Somaliland is holding its Presidential elections.  To understand
 
 ---
 
+[![Somaliland Victory Monument  by Somaliland247 @flickr][2]][2]
+Somaliland Victory Monument by Somaliland247 @flickr
 
 Today Somaliland is holding its Presidential elections.  To understand the significance of this event, one must understand the road that it has taken the Somalilanders to get to this point.  This election has been delayed for over two years.  This entry contains a small background on that time.
+
 
 The Presidential elections were originally scheduled for August, 2008.  In April 2008, the Council of Elders – Somaliland’s upper house of Parliament (the Guurti) – extended the term of the President until April 6, 2009.  In April 2008, the NEC released a press statement indicating that the elections would take place as originally scheduled and that the Guurti did not have the authority to unilaterally delay the timeline for the elections as the original timeline had been agreed to by all political parties and the House of Representatives.
 

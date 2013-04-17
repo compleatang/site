@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: Barack&#8217;s Foreign Policy
+title: "Barack&#8217;s Foreign Policy"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: development
 excerpt: "Let me begin by saying that I am jealous of this purported Wunderkind who is helping to shape Obama’s foreign policy and writing many of his speeches on the subject.  OK, that off my chest…to the analysis."
 
 ---

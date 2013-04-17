@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Understanding the Somaliland Elections (2 of 3): The Contenders
+title: "Understanding the Somaliland Elections (2 of 3): The Contenders"
 published: true
 comments: true
 meta: true
@@ -13,6 +13,7 @@ excerpt: "Today Somaliland is holding its Presidential elections. To understand 
 
 *Today Somaliland is holding its Presidential elections. To understand the significance of this event, one must understand the road that it has taken the Somalilanders to get to this point. This election has been delayed for over two years. This entry contains a small background on the three men on the ballot.*
 
+[![UCID Chairman Faisal Ali Warabe via Sallaxleynews @ flickr][2]][2]
 
 ## Contender A: Faisal Ali “Warabe” Chairman UCID Party
 
@@ -40,6 +41,7 @@ These two items (their relatively small size and their geographical position bet
 *   **Not one of the major players.** UCID’s outsider status is also their major weakness.  They have a difficult time capitalizing on the winds which blow through the Somaliland deserts because it is difficult for many to visualize their party in power.  They have difficulty dominating any news cycles or forging forward with their own spin on a given situation.
 *   **Wishy-Washy.** Faisal is seen as wishy-washy by the Somaliland electorate.  I must say that while I understand where they are coming from, I think personally much of this comes from Faisal’s position in between the other two major players.  He is forced into a difficult position where he is required to mediate likely more than he would prefer due to his “third party” status.  This centrist positioning comes across as wishy-washy.  It is unfortunate.
 
+[![UDUB Chairman and Incumbent President of Somaliland, Dahir Kahin Riyale via Swiatoslaw Wojtkowiak @ flickr][4]][4]
 
 ## Contender B: Dahir Kahin Riyale, Chairman UDUB Party, Incumbent President
 
@@ -67,6 +69,7 @@ Many other Isaaq’s feel that having a non-Isaaq President has given too much p
 *   **Background & Baggage.** Riyale is a former intelligence officer for Siad Barre.  He was not aligned with the SNM, and he sometimes has had to distinguish aside these two arguments.  His response has oscillated between the extremes of hiring lots of SNM veterans and by trying to marginalize the SNM veterans.
 *   **Engagement Level. **Many question Riyale’s engagement within Somaliland.  Since his wife mostly lives in Paris with their children rather than in Somaliland, lots of voters that I have spoken with have wondered how much Riyale genuinely cares about Somaliland.  He has had to simultaneously deflect attacks that ironically have sought to portray his administration as (1) autocratic, and (2) blind.  While I have seen the evidence pointed to by opposition members in this regard, it is Africa and there will always be some conflating of a Presidential seat vested in institutions with a Kingdom vested in the personality.
 
+[![Kulmiye Chairman, Ahmed Mohamed Mohamud "Silanyo" via Berberanews.com @ flickr][7]][7]
 
 ## Contender C: Ahmed Mohamed Mohamud “Silanyo” Chairman of the Kulmiye Party
 

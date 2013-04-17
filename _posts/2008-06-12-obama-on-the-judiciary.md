@@ -1,12 +1,12 @@
 ---
 
 layout: post
-title: Obama on the Judiciary
+title: "Obama on the Judiciary"
 published: true
 comments: true
 meta: true
-category: unclassified
-excerpt: "This is very lucid.  Obama wrote it after Roberts' nomination."
+category: law
+excerpt: "[This ][1]is very lucid.  Obama wrote it after Roberts' nomination."
 
 ---
 

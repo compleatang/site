@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: On Transparency &amp; Openness in Organizational Behavior
+title: "On Transparency &amp; Openness in Organizational Behavior"
 published: true
 comments: true
 meta: true
@@ -11,6 +11,7 @@ excerpt: "I have been a technophile for a long time; indeed, as long as I can re
 
 ---
 
+[![She left the Door open via h.koppdelaney @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/3746675779_ec501685a1.jpg)][http://www.flickr.com/photos/h-k-d/3746675779/]
 
 I run a law firm in Somaliland, or what National Geographic’s map section probably calls Somalia (northern section).  I have been a technophile for a long time; indeed, as long as I can remember I’ve had a computer and used it extensively.  To me at least, many of my “mentors” for creating an organization are companies which are currently operating in the technology sector rather than in the legal sector.  These tech companies seem to have organizational philosophies that excite me.  Although one can never know for sure without having a deeper glimpse inside the company than what they allow one to glimpse from the outside, many of these companies give customers and potential customers an opportunity to view them deeper than we have likely ever seen before for corporate behavior.
 

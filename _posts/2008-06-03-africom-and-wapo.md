@@ -1,12 +1,12 @@
 ---
 
 layout: post
-title: AFRICOM and WAPO
+title: "AFRICOM and WAPO"
 published: true
 comments: true
 meta: true
-category: unclassified
-excerpt: "I have been fascinated to watch how AFRICOM develops. Washington Post has a very interesting article the other day about how AFRICOM has been received on the continent.  The gist of the article contains two interrelated theorems (1) that Bush's rhetorical fascination with terrorism has pigeon-holed his foreign policy measures that have little to do with terrorism; (2) that African leaders and American policy makers are like Somali Pirates and French Sailors passing each other quietly in the night with little understanding of the other."
+category: africa
+excerpt: "I have been fascinated to watch how AFRICOM develops.  [Washington Post][1] has a very interesting article the other day about how AFRICOM has been received on the continent.  The gist of the article contains two interrelated theorems: (1) that Bush's rhetorical fascination with terrorism has pigeon-holed his foreign policy measures that have little to do with terrorism; (2) that African leaders and American policy makers are like Somali Pirates and French Sailors passing each other quietly in the night with little understanding of the other."
 
 ---
 

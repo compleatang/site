@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: Georgia v. Russia
+title: "Georgia v. Russia"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: politics
 excerpt: "Because I am intellectually inferior and do not have so much time, I have few unique thoughts. "
 
 ---

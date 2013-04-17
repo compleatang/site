@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Micro-States; Pirates; Terrorists; The London Conference: What a Fascinating Time for Watchers of Somalis
+title: "Micro-States; Pirates; Terrorists; The London Conference: What a Fascinating Time for Watchers of Somalis"
 published: true
 comments: true
 meta: true
@@ -11,6 +11,7 @@ excerpt: "For almost four years now I’ve been a careful observer of Somali pol
 
 ---
 
+[![somali-days by burningmax @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/2987516225_11e2cef572.jpg)][http://www.flickr.com/photos/burningmax/2987516225/]
 
 For almost four years now I’ve been a careful observer of Somali politicians. For three of those years I was paid to try to be their lawyer. To provide them expert international legal assistance tied to a deep network full of some of the finest international practitioners and thinkers in the world. But they rarely, if ever, wanted that help. So largely I invented work, I went into meetings and had a product to sell. *I can’t buy you new computers, but I how about I help you write that legal framework that Parliament has required you to do*?
 

@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: What Does it Mean to be Independent: Somaliland&#8217;s Recognition Journey
+title: "What Does it Mean to be Independent: Somaliland&#8217;s Recognition Journey"
 published: true
 comments: true
 meta: true
@@ -11,6 +11,7 @@ excerpt: "After having been in Somaliland, one of the world's most advanced unre
 
 ---
 
+[![A Bright Spot in a Dreary Neighborhood][2]][2]
 
 After having been in Somaliland, one of the world’s most advanced unrecognized countries, for well over three years I have thought much about what it means to be a state, to have your independence, to maintain your sovereignty and many related issues.
 

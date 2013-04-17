@@ -1,14 +1,20 @@
 ---
 
 layout: post
-title: Powered by Wind and Other Things
+title: "Powered by Wind and Other Things"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: living
 excerpt: "Now my feet seem to be a bit under me.  I've transferred my own stuff over, first to an absolutely awful hosting company which frustrated the hell out of me, but now to a new one.  Problematically, I accidentally deleted the entire wordpress database in the process and so had to rebuild everything from scratch - so it basically took twice as long.  In any event, now expect regular dispatches.The wind is up and I'm pretty much ready."
 
 ---
+
+[![][2]][2]
+
+(Photo via: [africaknows.com][2])
+
+ [2]: http://africaknows.com
 
 Like this guy, I’ve been up in the clouds lately.  Luckily our soy is beginning to fabricate.  Things are really coming along with all of my various bits and bobs.
 

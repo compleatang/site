@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: My Own Private Pirate Expedition
+title: "My Own Private Pirate Expedition"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: africa
 excerpt: "I am trying to return to some modicum of consistency with respect to the exhibitionist nature of this activity."
 
 ---

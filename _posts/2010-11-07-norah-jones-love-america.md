@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Why I Love America, Norah Jones Edition
+title: "Why I Love America, Norah Jones Edition"
 published: true
 comments: true
 meta: true
@@ -11,8 +11,10 @@ excerpt: "When you live abroad sometimes it is difficult to express the fact tha
 
 ---
 
+[![Norah Jones at Massey Hall via Smaku @flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/502916681_0dbab3a7e3_z.jpg)][http://www.flickr.com/photos/smaku/502916681/]
 
 When you live abroad sometimes it is difficult to express the fact that you are, at heart, a patriot. Indeed, I think that patriotism now that we are moving into the post-states (for all intents and purposes) world has somehow turned into a dirty word. I’m not sure how that happened. Certainly, for us Americans, being the big, dumb, blumbering dude in a room filled with slicker, sleeker, shinier countries hasn’t helped our cause any.
+
 
 But, see, here’s the thing. We Americans ARE awesome. I mean I wouldn’t go so far as to say that we’re the most awesome (*see, e.g.* our deeply teetering economy, our inability to solve any of the major global problems that the rest of the world is desperately looking for some leadership from us, and oh yeah Big Macs).  But we shouldn’t be afraid to say that even given all that, we’re still pretty awesome.
 

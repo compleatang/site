@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: Arrival Terminal
+title: "Arrival Terminal"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: africa
 excerpt: "Well, for better or worse, I"
 
 ---

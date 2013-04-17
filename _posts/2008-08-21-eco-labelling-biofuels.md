@@ -1,12 +1,12 @@
 ---
 
 layout: post
-title: Eco-Labelling Biofuels
+title: "Eco-Labelling Biofuels"
 published: true
 comments: true
 meta: true
-category: unclassified
-excerpt: "Geez, hippies love their eco-labeling.  Perhaps it comports with their world-view of non-force-ment of normatively superior products.  Perhaps it gives them something to talk about at parties, a consumer status-symbol.  Whatever the case, now there is a labeling standard for biofuels."
+category: environment
+excerpt: "Geez, hippies love their eco-labeling.  Perhaps it comports with their world-view of non-force-ment of normatively superior products.  Perhaps it gives them something to talk about at parties, a consumer status-symbol.  Whatever the case, now there is a labeling standard for biofuels.  From [Triple Pundit][1]:"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: On NGO Marketing
+title: "On NGO Marketing"
 published: true
 comments: true
 meta: true
@@ -11,6 +11,7 @@ excerpt: "Last week our business wanted to set up a booth at the Hargesia Trade 
 
 ---
 
+[![Meeting via jcolman @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/2325118043_ed2da74cc0.jpg)][http://www.flickr.com/photos/jcolman/2325118043/]
 
 Last week was the Hargeisa Trade Fair.  Our business wanted a booth to network and develop further relationships with clients.  You know, the type of thing that happens at conventions all around the world every day.
 

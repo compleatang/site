@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: For Business or for Pleasure: Which is Aid?
+title: "For Business or for Pleasure: Which is Aid?"
 published: true
 comments: true
 meta: true
@@ -11,6 +11,7 @@ excerpt: "Two articles were published this week on opposite sides of an interest
 
 ---
 
+[![Cropped version of Wisconsin: Open for business. Closed for people. by BlueRobot @ flickr][2]][2]
 
 This week two interesting articles (to me) have been published and they have given me the push to return to commenting.
 

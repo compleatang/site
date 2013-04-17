@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: Building (in) a Developing Country
+title: "Building (in) a Developing Country"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: living
 excerpt: "We had an epic rainstorm last night.  I had been waiting for one since we’ve moved into our compound as I was concerned about the drainage systems.  The soils here are the sandy clay stuff and because the clay makes the water not permeate the soils and because the sand makes the water flow easily, I was worried about what was happening whenever it rains.  We do a lot of gardening and are trying to keep our compound as green as possible here in the high desert."
 
 ---

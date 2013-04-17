@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Decoding the Somali Mind: A Guide for Expats (Anecdotal, Not Definitive Version): Wants v. Needs
+title: "Decoding the Somali Mind: A Guide for Expats (Anecdotal, Not Definitive Version): Wants v. Needs"
 published: true
 comments: true
 meta: true
@@ -13,7 +13,10 @@ excerpt: "This is a new series containing a few stories which have stood out in 
 
 *This is a new series containing a few stories which have stood out in my time here in Somaliland and have helped me to understand a bit more a culture that in many ways is very different from my own, but in many ways is not. This series explores those differences.*
 
+[![want need syrup by thebrianmeyer @ flickr][2]][2]
+
 Every development worker I’ve ever met, and I can say with confidence, without exception, hates the following phrase with a passion: “What we *really* need is….”  Hearing that phrase pretty much ruins your entire day.  Usually, but not always, it is accompanied by a veiled threat of what will happen if the particular worker does not comply.  Well, that happens when one is dealing with governmental clients.
+
 
 As a preliminary (and because despite my non-traditional path I am still a trained lawyer), let me define what I’m talking about when I say “wants” and “needs.”  I would define (for the purposes of this piece only, *see supra*) “needs” as those things which are required to perform a given task, whereas I would define “wants” as those things which are not required but would be beneficial to accomplish a given task.
 

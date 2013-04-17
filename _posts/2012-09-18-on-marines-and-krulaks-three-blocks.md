@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: On Marines and Krulak&#8217;s Three Blocks
+title: "On Marines and Krulak&#8217;s Three Blocks"
 published: true
 comments: true
 meta: true

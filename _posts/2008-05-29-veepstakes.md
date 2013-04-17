@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: VeepStakes
+title: "VeepStakes"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: politics
 excerpt: "One of my favorite pundit-ers is [Marc Ambinder][1] who writes for the Atlantic."
 
 ---

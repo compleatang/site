@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: On Going Local: Relationships
+title: "On Going Local: Relationships"
 published: true
 comments: true
 meta: true
@@ -13,6 +13,7 @@ excerpt: "On Going Local is a (short) series that I’m running which will attem
 
 *On Going Local is a (short) series that I’m running which will attempt to look at my life from an objective perspective as I transition from and NGO worker into an entrepreneur here in the developing world.*
 
+[![PeyoteLeaderCheyenne1927 by Medicinehorse7 @ flickr][2]][2]
 
 Relationships here in Somaliland are odd, to say the least.  There are two main identifiable cultural divergences.
 

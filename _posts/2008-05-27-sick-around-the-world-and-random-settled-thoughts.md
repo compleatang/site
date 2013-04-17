@@ -1,12 +1,12 @@
 ---
 
 layout: post
-title: Sick Around the World, and Random Settled Thoughts.
+title: "Sick Around the World, and Random Settled Thoughts."
 published: true
 comments: true
 meta: true
-category: unclassified
-excerpt: "In case you missed it, I've posted the first YouTube link to the very excellent PBS Frontline special 'Sick Around the World.' A Washington Post reporter went to six industrialized nations and asked how they've been able to ensure universal healthcare at a much lower cost than the US has been able to figure out."
+category: sci-tech
+excerpt: "In case you missed it, I've posted the first YouTube link to the very excellent PBS Frontline special 'Sick Around the World.'  A Washington Post reporter went to six industrialized nations and asked how they've been able to ensure universal healthcare at a much lower cost than the US has been able to figure out. "
 
 ---
 

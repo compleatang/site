@@ -1,16 +1,22 @@
 ---
 
 layout: post
-title: What it feels like to be invaded
+title: "What it feels like to be invaded"
 published: true
 comments: true
 meta: true
-category: unclassified
-excerpt: "Last December a bomb exploded in Mogadishu.  Actually, it was the 4th of December. I didn’t remember the date until I looked it up just now.  Pictures like the one at the left pretty much fit most people’s world view of Somalia.  Yet, I live here and I have a completely different view of the situation."
+category: africa
+excerpt: ""
 
 ---
 
-Last December a bomb exploded in Mogadishu.  Actually, it was the 4th of December. I didn’t remember the date until I looked it up just now.  Pictures like the one at the left pretty much fit most people’s world view of Somalia.  Yet, I live here and I have a completely different view of the situation.
+[![Photograph: Farah Abdi Warsameh/AP][2]][2]
+
+ []: http://www.irishtimes.com/newspaper/world/2009/1204/1224260043076.html
+
+Last December a bomb exploded in Mogadishu.  Actually, it was the 4th of December. I didn’t remember the date until I looked it up just [now][2].  Pictures like the one at the left pretty much fit most people’s world view of Somalia.  Yet, I live here and I have a completely different view of the situation.  
+
+ [2]: http://http://www.irishtimes.com/newspaper/world/2009/1204/1224260043076.html
 
 I left my house on the day in question about about 2 or so in the afternoon.   I walked out of the gigantic green gate which is the entrance to our compound via the embedded regular sized door and stopped for a few moments to chat with my body guards who would be walking with me the 200 m or so to my friend’s house.  
 

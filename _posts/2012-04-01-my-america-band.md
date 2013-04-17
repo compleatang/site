@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: My America Band: Wax Fang
+title: "My America Band: Wax Fang"
 published: true
 comments: true
 meta: true

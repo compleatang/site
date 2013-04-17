@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Understanding the Somaliland Elections (3 of 3): The Arguments
+title: "Understanding the Somaliland Elections (3 of 3): The Arguments"
 published: true
 comments: true
 meta: true
@@ -13,6 +13,7 @@ excerpt: "Today Somaliland is holding its Presidential elections. To understand 
 
 *Today Somaliland is holding its Presidential elections. To understand the significance of this event, one must understand the road that it has taken the Somalilanders to get to this point. This election has been delayed for over two years. This entry contains a small background on the arguments that have been given by three men on the ballot.*
 
+[![Kulmiye colours by CharlesFred @ flickr][2]][2]
 
 After discussing some of the background and the personas involved in the election, in this final installment I would like to discuss the arguments that have been raised by each of the three parties.
 

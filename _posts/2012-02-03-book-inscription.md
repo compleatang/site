@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Book Inscription
+title: "Book Inscription"
 published: true
 comments: true
 meta: true

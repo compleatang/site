@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: Parenting, Gender Roles and My Wedding
+title: "Parenting, Gender Roles and My Wedding"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: living
 excerpt: "As I clicked the category for this posting it occurred to me that for much of the first two years of this blog all I wrote about was categorized as 'living' but that for the past three years or so that has decrescendoed to almost a non-existent situation.  Maybe I have spent much more time looking outward and not so much time looking inward, or maybe I have become a bit reticent to write about 'me' as I embark on something akin to being a professional."
 
 ---

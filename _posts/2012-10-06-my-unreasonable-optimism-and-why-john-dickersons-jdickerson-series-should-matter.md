@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: My Unreasonable Optimism and Why John Dickerson&#8217;s (@jdickerson) Series Should Matter
+title: "My Unreasonable Optimism and Why John Dickerson&#8217;s (@jdickerson) Series Should Matter"
 published: true
 comments: true
 meta: true

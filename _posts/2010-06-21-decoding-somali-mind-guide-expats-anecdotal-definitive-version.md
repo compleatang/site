@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Decoding the Somali Mind: A Guide for Expats (Anecdotal, Not Definitive Version): Introduction
+title: "Decoding the Somali Mind: A Guide for Expats (Anecdotal, Not Definitive Version): Introduction"
 published: true
 comments: true
 meta: true
@@ -13,7 +13,11 @@ excerpt: "A new series from underWater desert Blogging which attempts to bridge 
 
 *This is a new series containing a few stories which have stood out in my time here in Somaliland and have helped me to understand a bit more a culture that in many ways is very different from my own, but in many ways is now. This series explores those differences.*
 
+[![BraiNut 1.0 via sath.es @flickr][2]][2]
+via sath.es @flickr
+
 I have lived & worked with Somalis here in Somaliland for over two years now.
+
 
 I have, like many expats before me, sat in rooms on the floor with rugs underneath us cushions behind our backs, mauis’s (skirts) on sporting wife-beaters drinking the sweetest teas one has ever drank and (as my wife likes to say) sticking green leaves up our noses.
 

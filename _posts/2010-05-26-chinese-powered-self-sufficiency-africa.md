@@ -1,15 +1,18 @@
 ---
 
 layout: post
-title: Chinese Powered Self-Sufficiency in Africa
+title: "Chinese Powered Self-Sufficiency in Africa"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: africa
 tags: ["africa", "china", "self-sufficiency"]
-excerpt: "Madam President Ellen Johnson-Sirleaf the current President of Liberia did a remarkable thing yesterday.  She told the world that in ten years Liberia would be self-sufficient and able to stand on its own feet with only further investment *and no aid*."
+excerpt: "Madam President Ellen Johnson-Sirleaf the current President of Liberia did a remarkable thing yesterday.  She [told ][2]the world that in ten years Liberia would be self-sufficient and able to stand on its own feet with only further investment *and no aid*."
 
 ---
+
+[![Johnson-Sirleaf & Clinton via @FP_Magazine][2]][2]
+Ellen Johnson-Sirleaf & Hillary Clinton via @FP_Magazine
 
 Madam President Ellen Johnson-Sirleaf the current President of Liberia did a remarkable thing yesterday.  She [told ][2]the world that in ten years Liberia would be self-sufficient and able to stand on its own feet with only further investment *and no aid*.
 

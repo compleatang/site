@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: FP gets it semi-correct on Somalia
+title: "FP gets it semi-correct on Somalia"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: africa
 excerpt: "FP usually does really good analysis, but I am concerned by a couple of blog posts they have published recently.  The first is [here][1].  While I understand that they are trying to simplify a very complex issue, this is just lazy.  Especially for a group of mostly informed readers.  While I agree with their analysis that Shabaab is running a parallel government (to some extent), it is no where near as pervasive as, for instance, Greater Liberia was.  Shabaab have not issued their own currency, do not enforce “borders” in the same manner, etc. etc. "
 
 ---

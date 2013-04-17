@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: On Aid Professionals &#8211; Random Thoughts on the Meme
+title: "On Aid Professionals &#8211; Random Thoughts on the Meme"
 published: true
 comments: true
 meta: true
@@ -13,6 +13,7 @@ excerpt: "There has been an interesting debate lately in the development sphere 
 
 There has been an interesting debate lately in the development sphere about professionalism v. amateurism and the pros and cons of each.  For a breakdown see the always reliable [Good Intents][1].  There has been some great writing and thinking on this topic.  I would encourage reading through Saundra’s list (above citation) as there are some very worthwhile entries.  I have two small things to say, but have little to no argument with the trend the meme is going (which has been summarized very well by Saundra – again – and I’ve cited below).
 
+[![Dangling Professional via kenyee @ flickr][3]][3]
 
 ## Relationalists v. Substantialists
 
@@ -32,6 +33,7 @@ I needed to understand who the power-brokers were in Parliament. I needed to und
 
 But the basic point is that to achieve my ends required understanding the relationships around me, developing trust from a group who is heartily skeptical about outsiders because so many have just come for a temporary time and tried to lecture my old clients on how to run their country.
 
+[![Notes from The Cult of the Amateur via inju @ flickr][8]][8]
 
 ## What Does “Development” Mean?
 

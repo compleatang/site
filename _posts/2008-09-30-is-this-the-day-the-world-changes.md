@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: Is This the Day the World Changes?
+title: "Is This the Day the World Changes?"
 published: true
 comments: true
 meta: true
-category: unclassified
+category: politics
 excerpt: "Maybe that is a bit provocative.  Maybe it is ipso facto.  I don't know.  And we'll have to see."
 
 ---

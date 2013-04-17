@@ -1,12 +1,12 @@
 ---
 
 layout: post
-title: Piling it On.
+title: "Piling it On."
 published: true
 comments: true
 meta: true
-category: unclassified
-excerpt: "Consider me another addition!  From [Ben Smith][1] "
+category: otherwise
+excerpt: "Consider me another addition!  From [Ben Smith][1]: "
 
 ---
 
