@@ -59,3 +59,12 @@ analytics :
   provider : getclicky
   getclicky : 
     site_id : 66416567
+
+# ----------------------- #
+#         Feeds           #
+# ----------------------- #
+
+feeds:
+  provider: feedburner
+  feedburner:
+    rss_feed: "caseykuhlman"
