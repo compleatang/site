@@ -217,6 +217,7 @@ nav .main li:last-child {
 }
 
 nav .main li a{
+  display: block;
   height: 100%;
   width: 100%;
 }
