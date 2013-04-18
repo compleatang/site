@@ -1,8 +1,0 @@
-<article class="archives">
-  <div class="related-posts">
-    <h2>Related Posts</h2>
-    {% for post in site.related_posts limit:4 %}
-      <h3 class="title"><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h3>
-    {% endfor %}
-  </div>
-</article>
