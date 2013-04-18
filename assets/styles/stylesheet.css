@@ -289,6 +289,7 @@ hr {
 
 /* Meta */
 .entry-meta {
+  width: 60%;
   background: rgba(100, 100, 100, .25);
   border: 2px inset rgba(50, 50, 50, .75);
   padding: 1.2em;
@@ -315,6 +316,21 @@ hr {
 
 .entry-meta a.next-entry {
   float: right;
+}
+
+.related-posts {
+  margin-top: 2.4em;
+}
+
+.related-posts h3 {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.pagination {
+  width: 60%;
+  text-align: center;
+  margin-top: 2.4em;
 }
 
 /* SideBar */
@@ -434,8 +450,12 @@ aside.sidebar .follow-me a img {
     width: 70%;
   }
 
+  .entry-meta {
+    width: 70%;
+  }
+
   .comments {
-    width: 80%;
+    width: 70%;
   }
 
   footer {
@@ -483,6 +503,10 @@ aside.sidebar .follow-me a img {
 
   .content {
     width:  90%;
+  }
+
+  .entry-meta {
+    width: 70%;
   }
 
   .comments {
