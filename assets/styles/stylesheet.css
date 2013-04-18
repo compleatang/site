@@ -289,7 +289,6 @@ hr {
 
 /* Meta */
 .entry-meta {
-  width: 60%;
   background: rgba(100, 100, 100, .25);
   border: 2px inset rgba(50, 50, 50, .75);
   padding: 1.2em;
@@ -330,7 +329,7 @@ hr {
 .pagination {
   width: 60%;
   text-align: center;
-  margin-top: 2.4em;
+  margin: 2.4em auto 0 auto;
 }
 
 /* SideBar */
@@ -451,7 +450,6 @@ aside.sidebar .follow-me a img {
   }
 
   .entry-meta {
-    width: 70%;
   }
 
   .comments {
@@ -506,7 +504,6 @@ aside.sidebar .follow-me a img {
   }
 
   .entry-meta {
-    width: 70%;
   }
 
   .comments {

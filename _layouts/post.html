@@ -6,8 +6,8 @@
 {% endunless %}
 <article class="content">
   {{ content }}        
+  {% include meta.html %}
 </article>
-{% include meta.html %}
 {% if site.related_posts.size > 1 %}
   {% include related.html %}
 {% endif %}
