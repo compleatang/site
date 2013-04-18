@@ -216,6 +216,11 @@ nav .main li:last-child {
   border-right: 2px inset rgba(50, 50, 50, .5);
 }
 
+nav .main li a{
+  height: 100%;
+  width: 100%;
+}
+
 nav .submenu {
   margin: 0;
   padding: 0;
