@@ -28,7 +28,7 @@ root:            /
 destination:     "_site/htdocs"
 permalink:       "entries/:year/:title.html"
 safe:            true
-lsi:             false
+lsi:             true
 pygments:        true
 paginate:        10
 markdown:        redcarpet
