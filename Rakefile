@@ -10,8 +10,8 @@ namespace :site do
     system "git checkout -- _config.yml"
     system "git add -A"
     system "git commit -m #{message.shellescape}"
-    system "git push github master -f"
-    system "git push wsl master -f"
+    system "git push github master"
+    system "git push wsl master"
     Jekyll::Site.new(Jekyll.configuration({
       "source"      => ".",
       "destination" => "_site/htdocs"
