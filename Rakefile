@@ -25,8 +25,7 @@ namespace :site do
     system "git add ."
     message = "Site updated at #{Time.now.utc}"
     system "git commit -m #{message.shellescape}"
-    system "git push origin master -f"
+    system "git push origin master  --force"
     system "ssh 119629@git.dc0.gpaas.net 'deploy blog.caseykuhlman.com.git master'"
-
   end
 end
