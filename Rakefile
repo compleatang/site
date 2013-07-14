@@ -22,7 +22,7 @@ namespace :site do
   desc "Generate and publish blog"
   task :publish => [:generate] do
     Dir.chdir "_site"
-    system "git add ."
+    system "git add -A"
     message = "Site updated at #{Time.now.utc}"
     system "git commit -m #{message.shellescape}"
     system "git push origin master  --force"
