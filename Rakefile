@@ -7,7 +7,6 @@ namespace :site do
   desc "Generate blog files"
   task :generate do
     message = "Site updated at #{Time.now.utc}"
-    system "git checkout -- _config.yml"
     system "git add -A"
     system "git commit -m #{message.shellescape}"
     system "git push github master"
