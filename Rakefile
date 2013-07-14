@@ -8,10 +8,10 @@ namespace :site do
   task :generate do
     message = "Site updated at #{Time.now.utc}"
     system "git checkout -- _config.yml"
-    system "git add ."
+    system "git add -A"
     system "git commit -m #{message.shellescape}"
-    system "git push github master"
-    system "git push wsl master"
+    system "git push github master -f"
+    system "git push wsl master -f"
     Jekyll::Site.new(Jekyll.configuration({
       "source"      => ".",
       "destination" => "_site/htdocs"
@@ -25,7 +25,7 @@ namespace :site do
     system "git add ."
     message = "Site updated at #{Time.now.utc}"
     system "git commit -m #{message.shellescape}"
-    system "git push origin master"
+    system "git push origin master -f"
     system "ssh 119629@git.dc0.gpaas.net 'deploy blog.caseykuhlman.com.git master'"
 
   end
