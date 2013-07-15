@@ -10,8 +10,7 @@ tags:      [monitoring, evaluation, governance programs, development]
 excerpt:   "A thought exploration of to more properly evaluate governance projects for international development. The title may be clickbait, as the post is less about taking the E out of M&E and more about making the case for the E coming a reasonable amount of time after the project is completed."
 
 ---
-
-[![Monitoring Results at a Health Center by The Reboot @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/7192964074_130e7bfb3f_z.jpg)](http://www.flickr.com/photos/70292973@N07/7192964074/)
+![Monitoring Results at a Health Center by The Reboot @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/7192964074_130e7bfb3f_z.jpg "Monitoring Results at a Health Center by The Reboot @ flickr")
 
 As part of my work for [Vanderbilt Law School](http://law.vanderbilt.edu)'s [International Legal Studies Program](http://law.vanderbilt.edu/academics/academic-programs/international-legal-studies/index.aspx) I recently pushed a grant application to a US Government Agency that was all about increasing the capacity of an institution to perform its mandated functionality. It was a relatively straight-forward submission -- the safest I've been involved in lately as it had the least amount of innovation I have built into a submission in years. For these reasons, I feel we have a relatively high chance of success.
 
