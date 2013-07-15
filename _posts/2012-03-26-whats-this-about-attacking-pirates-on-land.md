@@ -21,8 +21,6 @@ So there was some chatter Friday on my Twitter feed about how EU NAVFOR (the EU�
 
 My thoughts were quickly to escalation. Escalation is important not only for reasons that *anyone* who feels attacked or invaded would be willing to increase the violence to protect their stuff, but also because Somalis feel incredibly threatened right now. With four other countries operating uninvited in their country along with a bunch of other global jihadists who have very little – but not non-negligible – constituencies within Somali areas. If ever there was a time to beat the hornet’s nest, when they already are upset is not the time.
 
-[![Brain-meltingly hot weather by RAWRZ! @ flickr][6]][6]
-
 Apparently this chatter was due to a press release by the EU which is available [here][6] (title: EU Extends Counter Piracy Mission Off Coast of Somalia). Their complete release (my emphasis):
 
 > On Friday 23 March 2012 the Council of the European Union confirmed its intention to extend the EU Naval Force (EU NAVFOR) counter-piracy mission, Operation ATLANATA off the Somali coast until December 2014.  At the same time the Council also extended the area of operations *to include Somali coastal territory* and internal waters.
