@@ -13,11 +13,10 @@ excerpt: "On Friday, I was hearing chatter about how the EU issued a new directi
 
 So there was some chatter Friday on my Twitter feed about how EU NAVFOR (the EU’s Naval Forces) would be authorized to attack on land. For example:
 
-  
-> New EUNAVFOR guidelines allow attacking [#pirate][1] targets on late, while [#NATO][2] task force stays maritime. [#somalia][3]
-> 
-> — Jay Bahadur (@PuntlandPirates) [March 23, 2012][4]
 
+> New EUNAVFOR guidelines allow attacking [#pirate][1] targets on late, while [#NATO][2] task force stays maritime. [#somalia][3]
+>
+> — Jay Bahadur (@PuntlandPirates) [March 23, 2012][4]
 
 
 My thoughts were quickly to escalation. Escalation is important not only for reasons that *anyone* who feels attacked or invaded would be willing to increase the violence to protect their stuff, but also because Somalis feel incredibly threatened right now. With four other countries operating uninvited in their country along with a bunch of other global jihadists who have very little – but not non-negligible – constituencies within Somali areas. If ever there was a time to beat the hornet’s nest, when they already are upset is not the time.
@@ -27,9 +26,9 @@ My thoughts were quickly to escalation. Escalation is important not only for re
 Apparently this chatter was due to a press release by the EU which is available [here][6] (title: EU Extends Counter Piracy Mission Off Coast of Somalia). Their complete release (my emphasis):
 
 > On Friday 23 March 2012 the Council of the European Union confirmed its intention to extend the EU Naval Force (EU NAVFOR) counter-piracy mission, Operation ATLANATA off the Somali coast until December 2014.  At the same time the Council also extended the area of operations *to include Somali coastal territory* and internal waters.
-> 
+>
 > Today’s decision will enable Operation Atalanta Forces to work directly with the Transitional  Federal Government and other Somali entities to support their fight against piracy in the coastal areas.  In accordance with the relevant UN Security Council resolutions, the Somali government has notified the UN Secretary General of its acceptance of the EU’s offer for this new collaboration.
-> 
+>
 > Speaking about the extension of the mandate and area of operations, Rear Admiral Duncan Potts, who is the Operational Commander of the EU Naval Force, said “The extension of the mandate until the end of 2014 confirms the EU’s commitment to fighting piracy off the Horn of Africa. Piracy has caused so much misery to the Somali people and to the crews of ships transiting the area and it is right that *we continue to move forward in our efforts*”.
 
 Those five words towards the end of the first paragraph and those eight words at the end of that small press release are important. ICTY was set up because of just about as many words.
@@ -37,7 +36,7 @@ Those five words towards the end of the first paragraph and those eight words at
 The BBC ran an [article][7] headlined “Somalia pirates: EU approves attacks on land bases.” Here’s the highlights from the article:
 
 > Spanish Foreign Minister Jose Manuel Garcia-Margallo told reporters: “The EU plan is to allow attacks on land installations when ships are assaulted at sea,” adding that “much care” would be taken to avoid civilian deaths….
-> 
+>
 > Rear Admiral Duncan Potts, the operation commander for the EU Naval Force in Somalia, said … ”At sea we’ve had an effect on the pirates’ ability to operate but we haven’t changed the strategic conditions, which is why we want to target every stage of their operations.”
 
 The Minister seems to be implying that only self-defence combined with hot pursuit would be a trigger for attack of land targets; whereas the EU’s commander is seemingly signalling something entirely different that the EU is interested in attacking more strategically to disrupt the entire ecosystem’s operation. That disparity aside, what is difficult to contemplate is what will actually happen with this. We don’t have the actual directive at this point (if you have a copy I’d love to see it) so how can we tell legally what the heck is going on?
@@ -49,11 +48,11 @@ It is much more complex then this, but let me simplify for the purposes of this 
 [Beth Van Schaack][8] wrote an Opinion Juris [post][9] about this IHLIHRL issue about a while ago (November, 2010):
 
 > [Professor Guilfoyle] concludes that in the majority of circumstances, piracy is a law enforcement problem, not a law of war problem.
-> 
+>
 > The seemingly facile conclusion of the article, however, dodges the more difficult question of the impact of a potential nexus between acts of piracy and the ongoing non-international armed conflict in Somalia between the beleaguered Transitional Federal Government and a loose coalition of fundamentalist militias. If such a link is eventually established or confirmed, IHL may apply to some acts of piracy committed in order to fund organized armed groups or regional warlords engaged in the protracted insurgency against the government of Somalia. The article would have made a more significant contribution had it focused more searchingly on this question of what type or degree of war nexus would be necessary to trigger the application of IHL.
-> 
+>
 > One implication of such a nexus would be that attacks on commercial vessels such as we have seen in the Gulf of Aden may become prosecutable as war crimes (*viz*, violence to life and person or the taking of hostages)….
-> 
+>
 > Regardless of the application of IHL, the international community should not lose sight of the fact that international human rights law remains applicable to the collective international response to acts of piracy. In a companion piece, Professor Guilfoyle focuses on the law governing the extraterritorial application of human rights law, the principle of non-refoulement, the prohibition of arbitrary detention, and due process protections (see Douglas Guilfoyle, Counter-Piracy Law Enforcement and Human Rights, 59 Int’l & Comp L Q 141 (2010)). In addition, the prohibitions of summary execution and other arbitrary deprivations of the right to life also establish limitations of necessity and proportionality on uses of force against individuals in the exercise of national and international police powers (see McCann v UK, 21 EHRR 97 (1996)).
 
 The distinction between the two sets of rules are important not only because they have very different rules in how they authorize law enforcement or military personnel to apply violence towards a given situation, but also they are important to our understanding of the cultural dynamics of a given situation. When we think something is regulated by IHL we mentally apply a militaristic point of view to a situation. This is the problem when we call it the War on Terrorism when in my opinion it should be more properly characterized as a law enforcement situation against acts of terrorism. In any event, the conflict between the US and Al Qaeda aside, when it comes to Somalis the law enforcement versus military lens is extraordinarily important because as I said earlier Somalis already feel they are under attack. Largely there is a perception that the pirates are basically Robin Hood.
@@ -68,7 +67,6 @@ I can basically think of no policy which would be worse than this policy and I t
  [2]: https://twitter.com/search/%23NATO
  [3]: https://twitter.com/search/%23somalia
  [4]: https://twitter.com/PuntlandPirates/status/183275482962341888
- []: http://www.flickr.com/photos/rosalynlouise/4835159189/
  [6]: http://wsl.so/GUnMps "EU Extends Counter Piracy Mission Off Coast of Somalia"
  [7]: http://wsl.so/GUpBCV "Somalia pirates: EU approves attacks on land bases"
  [8]: http://wsl.so/GUtQyd "Beth Van Schaack"

@@ -11,7 +11,7 @@ excerpt: "Ryan Lizza has again written a marvelous piece on Obama and his team. 
 
 ---
 
-[![Obama Barn by Barack Obama @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/2913035652_27460596bd.jpg)](http://www.flickr.com/photos/barackobamadotcom/2913035652/)
+<p><a href="hhttp://www.flickr.com/photos/barackobamadotcom/2913035652"><img src="http://blog.caseykuhlman.com/assets/images/2012/2913035652_27460596bd.jpg" alt="Obama Barn by Barack Obama @ flickr" tit="Obama Barn by Barack Obama @ flickr" /></a></p>
 
 When I was in college my friend Dave and I would often fall asleep at some point during our millionth screening of Braveheart. We would often put the film on after the bars had closed and we had grabbed our drunken treat of the night and were not yet ready for bed. At the time we were training to be Marine officers and very interested in learning what it took to be a good leader. Near the beginning of the film there was a quote which I often thought about (at still think about):
 
