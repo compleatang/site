@@ -4,8 +4,9 @@
 
 name:        underWater desert Blogging
 url:         http://blog.caseykuhlman.com
+description: "Processes and Thoughts on Lots of Matters"
 # url:         /
-author:      
+author:
   name:    Casey Kuhlman
   email:   caseykuhlman@watershedlegal.com
   github:  compleatang
@@ -60,7 +61,7 @@ comments :
 
 analytics :
   provider : getclicky
-  getclicky : 
+  getclicky :
     site_id : 66416567
 
 # ----------------------- #
