@@ -11,7 +11,7 @@ excerpt:   "Information is what makes markets powerful, so why do we not focus o
 
 ---
 
-[![Capitalism by bohman @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/237347393_5b0a2f1121_z.jpg)](http://wsl.so/M8j9wS)
+[![Capitalism by bohman @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/capitalism.jpg)](http://wsl.so/M8j9wS)
 
 It seems to me that there is an increasing push within developed countries against markets as the preeminent organizing force of modernity. This isn't necessarily new; indeed, it is what Marx was against; it is what communism tried to resolve; it is largely the impetus behind the late nineties anti-globalism push; and it is what Occupy was largely all about.
 
