@@ -3,7 +3,7 @@
 layout:    post
 title:     TIT
 published: true
-comments:  true
+comments:  false
 meta:      true
 category:  CAT
 tags:      [TAG1, TAG2]
