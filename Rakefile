@@ -3,6 +3,8 @@ require 'shellwords.rb'
 
 PROD_REPONAME = ""
 
+task :default => [:publish]
+
 desc "Generate blog files"
 task :generate do
   message = "Site updated at #{Time.now.utc}"
