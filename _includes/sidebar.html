@@ -7,9 +7,10 @@
   <hr />
   <div class="follow-me">
     {% if site.feeds.provider == "feedburner" %}<a href="http://feeds.feedburner.com/{{ site.feeds.feedburner.rss_feed }}" /><img src="{{ site.url }}{{ site.root }}{{ site.images_dir }}/RSS.png" alt="RSS" /></a>{% endif %}
-    {% if site.author.tumblr %}<a href="http://{{ site.author.tumblr }}.tumblr.com/"><img src="{{ site.url }}{{ site.root }}{{ site.images_dir }}/Tumblr.png" alt="tumblr" /></a>{% endif %}
     {% if site.author.twitter %}<a href="http://twitter.com/{{ site.author.twitter }}"><img src="{{ site.url }}{{ site.root }}{{ site.images_dir }}/Twitter.png" alt="twitter" /></a>{% endif %}
     {% if site.author.github %}<a href="http://github.com/{{ site.author.github }}"><img src="{{ site.url }}{{ site.root }}{{ site.images_dir }}/GitHub.png" alt="github" /></a>{% endif %}
+    {% if site.author.googleplus %}<a href="https://plus.google.com/+{{ site.author.googleplus }}" rel="author"><img src="{{ site.url }}{{ site.root }}{{ site.images_dir }}/Google.png" alt="googleplus" /></a>{% endif %}
+    {% if site.author.tumblr %}<a href="http://{{ site.author.tumblr }}.tumblr.com/"><img src="{{ site.url }}{{ site.root }}{{ site.images_dir }}/Tumblr.png" alt="tumblr" /></a>{% endif %}
     {% if site.author.lastfm %}<a href="http://last.fm/user/{{ site.author.lastfm }}"><img src="{{ site.url }}{{ site.root }}{{ site.images_dir }}/LastFM.png" alt="lastfm" /></a>{% endif %}
   </div>
   <hr />

@@ -13,6 +13,7 @@ author:
   tumblr:  compleatang
   twitter: compleatang
   lastfm:  compleatang
+  googleplus: CaseyKuhlman1976
 exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile", "_drats"]
 
 subscribe_rss:  ./rss.xml
