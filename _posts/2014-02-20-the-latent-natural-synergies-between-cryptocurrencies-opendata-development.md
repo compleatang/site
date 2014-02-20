@@ -7,7 +7,7 @@ comments:  true
 meta:      true
 category:  development
 tags:      [development, africa, currency]
-excerpt:   "asdf."
+excerpt:   "I like it when disparate things work well together. Like fish farming and hydroponic vegetable growing for instance (aka aquaponics). I see some increasing levels of synergy between virtual currencies, open data schemes and international development. Here's why."
 
 ---
 
