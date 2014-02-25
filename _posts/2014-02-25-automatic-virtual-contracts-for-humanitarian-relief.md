@@ -53,6 +53,14 @@ The theory of virtual automatic contracts would be that they could be used -- es
 
 Auditing is extremely important for these agencies as they receive significant funding from public resources and those public agencies tend to care about such things as terrorism and money laundering. However this would be trivial if this all happened on a blockchain. All a donor would need to do is to go to [blockchain.info](https://blockchain.info/) or some other similar site to see their donation and how it flowed from their phone or computer to the big agency, to the small agency, to the beneficiary. That would work when we reach a point of adoption of virtual currency where the beneficiaries could pay for goods and services with their virtual currency. There is likely an intermediate step where either the big or the small agency would need to wholesale trade the virtual currency for mobile currency which would then be dispense to beneficiaries. The difficulty there in the medium term is that the blockchain of a virtual currency allows the donors to see with granular clarity where their money went and mobile money would not necessarily be able to do that. Of course the distributing agency could open their books, but it would not happen automatically and transparently as it does on a blockchain.
 
+## What Role would Virtual Automatic Contracts Play
+
+In the above sequence there are two primary things that negotiating virtual automatic contracts would play.
+
+First, they would play the role of operating as a way for large organizations to pre-vet smaller organizations. Ideally these would take place during the normal course of business rather than when an emergency hits. By completing a contract between the big organization and small organization, the big organization will have an opportunity to perform due diligence on the small organization and to gather its virtual currency addresses, etc. so that the pipe between the large and small organizations is built and vetted so that any compliance requirements that either organization have are fulfilled. Once the pipe is built then what comes through the pipe or does not is as simple as routing currency inflows.
+
+Second, and probably more interesting, these contracts provide an opportunity for the ecosystem within a country or region to conduct a negotiation as to what actually matters during a humanitarian crisis. In other words, how will the damage assessments be ranked and what will be the distribution of donation inflows among the various competing priorities during a humanitarian crisis. Today these are often negotiated on the fly by individual human beings (or worse, committees). But, if this negotiation happens *before* the crisis then calmer, more utilitarian minds can establish priorities that will then be hard coded into the contracts and the robots would then make the distribution rather than the humans with all of their biases.
+
 Those are my thoughts. What are your's?
 
 ~ # ~
