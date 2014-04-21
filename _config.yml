@@ -42,9 +42,9 @@ titlecase:       true
 #      Personalized       #
 # ----------------------- #
 
-images_dir:  "assets/images"
-scripts_dir: "assets/scripts"
-styles_dir:  "assets/styles"
+images_dir:  "/assets/images"
+scripts_dir: "/assets/scripts"
+styles_dir:  "/assets/styles"
 
 
 # ----------------------- #
