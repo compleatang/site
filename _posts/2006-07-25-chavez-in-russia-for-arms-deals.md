@@ -1,32 +1,14 @@
 ---
-title: Chavez in Russia for arms deals
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/chavez-in-russia-for-arms-deals
-dsq_thread_id:
-  - 768293694
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330433433
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365664455
-st_tiny_url:
-  - 
-categories:
-  - politics
+title: "Chavez in Russia for arms deals"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "Chavez signs a deal with Russia.  This is HUGE.  I cannot believe that the US press is not picking up on this.  Understandably there is a lot going on in the world and if you are passionately positioned on either side of the Israel-Arab tension then you would prefer to be hearing of other things and if you are positioned in the heat that is engulfing the entire west coast then you may also have other things on your mind. "
+
 ---
-# 
 
 Chavez signs a deal with Russia.  This is HUGE.  I cannot believe that the US press is not picking up on this.  Understandably there is a lot going on in the world and if you are passionately positioned on either side of the Israel-Arab tension then you would prefer to be hearing of other things and if you are positioned in the heat that is engulfing the entire west coast then you may also have other things on your mind.  
 

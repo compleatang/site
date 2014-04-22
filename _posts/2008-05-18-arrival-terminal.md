@@ -1,37 +1,14 @@
 ---
-title: Arrival Terminal
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/arrival-terminal
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365149322
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1332220114
-  - 1332220114
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/xL3aPr
-        
-categories:
-  - africa
-  - development
-  - travel
+title: "Arrival Terminal"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "Well, for better or worse, I"
+
 ---
-# 
 
 Well, for better or worse, I  
 guess I’m settled in here now.  I am living in a hotel suite for the time  

@@ -1,32 +1,14 @@
 ---
-title: mTv in dockers
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/mtv-in-dockers
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1331907043
-dsq_thread_id:
-  - 154782598
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365746946
-st_tiny_url:
-  - 
-categories:
-  - television
+title: "mTv in dockers"
+published: true
+comments: true
+meta: true
+category: television
+excerpt: "today during my lunch i decided to watch some bubble gum, so i flipped using my ever so handy quatro-surf buttons on my remote control to the preprogrammed (so you don’t even have to remember the channel number, as a side note in what context are we now required to remember ANY number….I cannot think of such a context myself, my cell contains phone numbers, my car contains addresses, my tv remote contains my favorite channels, shit what else is there to life?  the study of ancient bath techniques and rub downs as a greecian mating ritual/alpha male dominance performance….besides that one.) channel for MTV.  ahhh, laguna beach usually makes me cough, curse and flip back to VH1, OLN HGN or BET but that wasn’t the case today as the only quote i heard was, 'i’m like so totally stoked we’re going up to mammoth.'  well this could be interesting."
+
 ---
-# 
 
 today during my lunch i decided to watch some bubble gum, so i flipped using my ever so handy quatro-surf buttons on my remote control to the preprogrammed (so you don’t even have to remember the channel number, as a side note in what context are we now required to remember ANY number….I cannot think of such a context myself, my cell contains phone numbers, my car contains addresses, my tv remote contains my favorite channels, shit what else is there to life?  the study of ancient bath techniques and rub downs as a greecian mating ritual/alpha male dominance performance….besides that one.) channel for MTV.  ahhh, laguna beach usually makes me cough, curse and flip back to VH1, OLN HGN or BET but that wasn’t the case today as the only quote i heard was, "i’m like so totally stoked we’re going up to mammoth."  well this could be interesting.
 

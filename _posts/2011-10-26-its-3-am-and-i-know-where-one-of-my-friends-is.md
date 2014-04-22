@@ -1,37 +1,14 @@
 ---
-title: Its 3 AM and I know where One of My Friends is
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/its-3-am-and-i-know-where-one-of-my-friends-is
-dsq_thread_id:
-  - 817682029
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/wKdENN
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/7129204443";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365819403
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330811794
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - development
+title: "Its 3 AM and I know where One of My Friends is"
+published: true
+comments: true
+meta: true
+category: development
+excerpt: "Sitting in a concrete cube, impersonal and loud with tiled floor and cinder walls that echo his fears, frustrations, and rage my friend is pacing in a provincial town in Somalia. He waits for a call that he hopes will end the worst purgatory he has ever felt. He waits for a call that will shatter his world. Will it be ne or the other, or the continuation of time stiff arming his attempts to do….something. Anything. For fuck’s sake this happens to other people, not to my people. I know these things because I know my friend. I know he will not sleep tonight, even though I told him to. I know this because I can see the green dot of presence when I incessant check facebook, just as impotently emasculated as he. For news. Of something."
+
 ---
-# 
 
 Sitting in a concrete cube, impersonal and loud with tiled floor and cinder walls that echo his fears, frustrations, and rage my friend is pacing in a provincial town in Somalia. He waits for a call that he hopes will end the worst purgatory he has ever felt. He waits for a call that will shatter his world. Will it be ne or the other, or the continuation of time stiff arming his attempts to do….something. Anything. For fuck’s sake this happens to other people, not to my people. I know these things because I know my friend. I know he will not sleep tonight, even though I told him to. I know this because I can see the green dot of presence when I incessant check facebook, just as impotently emasculated as he. For news. Of something.
 

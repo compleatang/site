@@ -1,49 +1,19 @@
 ---
-title: 'On Aid Professionals &#8211; Random Thoughts on the Meme'
-author: Casey Kuhlman
-excerpt: |
-  There has been an interesting debate lately in the development sphere about professionalism v. amateurism and the pros and cons of each.  There has been some great writing and thinking on this topic, but a lot of it seems to be less responsive than it should be because the meme is putting the cart before the horse since we don't have a clear consensus definition as to what "development work" means it is difficult to have a clear discussion as to what a "development professional" is.
+
 layout: post
-permalink: /entry/on-aid-professionals
-dsq_thread_id:
-  - 587625219
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/yquQQZ
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/7191668561";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365844114
-st_cached_time:
-  - 1330081195
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - development
-tags:
-  - development workers
-  - professionalism
-  - relational thinking
-  - substantialist thinking
+title: "On Aid Professionals &#8211; Random Thoughts on the Meme"
+published: true
+comments: true
+meta: true
+category: development
+tags: ["development workers", "professionalism", "relational thinking", "substantialist thinking"]
+excerpt: "There has been an interesting debate lately in the development sphere about professionalism v. amateurism and the pros and cons of each.  There has been some great writing and thinking on this topic, but a lot of it seems to be less responsive than it should be because the meme is putting the cart before the horse since we don't have a clear consensus definition as to what 'development work' means it is difficult to have a clear discussion as to what a 'development professional' is."
+
 ---
-# 
 
 There has been an interesting debate lately in the development sphere about professionalism v. amateurism and the pros and cons of each.  For a breakdown see the always reliable [Good Intents][1].  There has been some great writing and thinking on this topic.  I would encourage reading through Saundra’s list (above citation) as there are some very worthwhile entries.  I have two small things to say, but have little to no argument with the trend the meme is going (which has been summarized very well by Saundra – again – and I’ve cited below).
 
 [![Dangling Professional via kenyee @ flickr][3]][3]
-Dangling Professional via kenyee @ flickr 
 
 ## Relationalists v. Substantialists
 
@@ -64,7 +34,6 @@ I needed to understand who the power-brokers were in Parliament. I needed to und
 But the basic point is that to achieve my ends required understanding the relationships around me, developing trust from a group who is heartily skeptical about outsiders because so many have just come for a temporary time and tried to lecture my old clients on how to run their country.
 
 [![Notes from The Cult of the Amateur via inju @ flickr][8]][8]
-Notes from The Cult of the Amateur via inju @ flickr
 
 ## What Does “Development” Mean?
 

@@ -1,30 +1,14 @@
 ---
-title: leadership challenges
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/leadership-challenges
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365610621
-st_cached_time:
-  - 1330770715
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "leadership challenges"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "This ![160207_0812][1]post is long overdue.  But forgive me, it took a while for me to have a chance to pull the pictures off my phone.  Let me introduce you to the people that have a chance, everyday, to steal my shit and for some reason do not. "
+
 ---
-# 
 
 This ![160207_0812][1]post is long overdue.  But forgive me, it took a while for me to have a chance to pull the pictures off my phone.  Let me introduce you to the people that have a chance, everyday, to steal my shit and for some reason do not.  
 

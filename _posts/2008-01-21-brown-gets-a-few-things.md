@@ -1,32 +1,14 @@
 ---
-title: Brown Gets a Few Things
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/brown-gets-a-few-things
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365196227
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330418778
-st_tiny_url:
-  - 
-categories:
-  - africa
-  - development
-  - politics
+title: "Brown Gets a Few Things"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "[]: http://caseykuhlman.typepad.com/.shared/image.html?/photos/uncategorized/2008/01/21/gordonbrownblurweb.jpg"
+
 ---
-# 
 
 [![Gordonbrownblurweb][2]][2]  
 Link: [‘An idea whose time has come’: Brown backs UN security council seat for India | The Guardian | Guardian Unlimited][2].

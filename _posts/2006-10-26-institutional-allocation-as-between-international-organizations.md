@@ -1,30 +1,14 @@
 ---
-title: Institutional Allocation as between International Organizations
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/institutional-allocation-as-between-international-organizations
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365653484
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330281447
-st_tiny_url:
-  - 
-categories:
-  - law
+title: "Institutional Allocation as between International Organizations"
+published: true
+comments: true
+meta: true
+category: law
+excerpt: "I created the following document in order to get some thoughts straight for a presentation I have tomorrow.  It is longer than my presentation will take, and much of it may be out of view for some of you, but I’m putting it up here b/c I think it is pretty good encapsulation of many of the things I’ve learned this semester.  It is not cited.  If you think I need to cite in a blog, go fuck yourself. "
+
 ---
-# 
 
 I created the following document in order to get some thoughts straight for a presentation I have tomorrow.  It is longer than my presentation will take, and much of it may be out of view for some of you, but I’m putting it up here b/c I think it is pretty good encapsulation of many of the things I’ve learned this semester.  It is not cited.  If you think I need to cite in a blog, go fuck yourself.  
 

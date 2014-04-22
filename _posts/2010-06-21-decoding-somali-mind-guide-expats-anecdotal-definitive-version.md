@@ -1,47 +1,15 @@
 ---
-title: 'Decoding the Somali Mind: A Guide for Expats (Anecdotal, Not Definitive Version): Introduction'
-author: Casey Kuhlman
-excerpt: >
-  A new series from underWater desert Blogging which attempts to bridge some
-  distinct cultural differences via a storytelling format. This is the
-  introduction entry.
+
 layout: post
-permalink: /entry/decoding-somali-mind-guide-expats-anecdotal-definitive-version
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365869646
-dsq_thread_id:
-  - 766634642
-wordbooker_options:
-  - 'a:25:{s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:26:"wordbooker_publish_default";s:2:"on";s:24:"wordbook_fblike_location";s:3:"top";s:22:"wordbook_fblike_action";s:9:"recommend";s:27:"wordbook_fblike_colorscheme";s:4:"dark";s:20:"wordbook_fblike_font";s:5:"arial";s:22:"wordbook_fblike_button";s:12:"button_count";s:21:"wordbook_fblike_faces";s:5:"false";s:18:"wordbook_attribute";s:32:"New on UDB.net: %title% - %link%";s:29:"wordbook_republish_time_frame";s:2:"10";s:29:"wordbooker_status_update_text";s:32:"New on UDB.net: %title% - %link%";s:19:"wordbook_actionlink";s:3:"300";s:27:"wordbook_search_this_header";s:2:"on";s:20:"wordbook_comment_get";s:2:"on";s:24:"wordbook_comment_approve";s:2:"on";s:21:"wordbook_comment_push";s:2:"on";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:29:"wordbook_advanced_diagnostics";s:2:"on";s:18:"wordbook_status_id";s:4:"-100";s:19:"wordbook_thumb_only";s:2:"on";s:20:"wordbook_use_excerpt";s:2:"on";s:18:"wordbook_noncename";s:10:"cc1bb4af49";s:24:"wordbooker_status_update";s:2:"on";}'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/xdYs9b
-        
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330811778
-categories:
-  - otherwise
-tags:
-  - expatriates
-  - relational thinking
-  - somalia
-  - somaliland
-  - understanding somalis
+title: "Decoding the Somali Mind: A Guide for Expats (Anecdotal, Not Definitive Version): Introduction"
+published: true
+comments: true
+meta: true
+category: otherwise
+tags: ["expatriates", "relational thinking", "somalia", "somaliland", "understanding somalis"]
+excerpt: "A new series from underWater desert Blogging which attempts to bridge some distinct cultural differences via a storytelling format. This is the introduction entry."
+
 ---
-# 
 
 *This is a new series containing a few stories which have stood out in my time here in Somaliland and have helped me to understand a bit more a culture that in many ways is very different from my own, but in many ways is now. This series explores those differences.*
 
@@ -50,7 +18,6 @@ via sath.es @flickr
 
 I have lived & worked with Somalis here in Somaliland for over two years now.
 
- []: http://www.flickr.com/photos/sath2/4705271005/
 
 I have, like many expats before me, sat in rooms on the floor with rugs underneath us cushions behind our backs, mauis’s (skirts) on sporting wife-beaters drinking the sweetest teas one has ever drank and (as my wife likes to say) sticking green leaves up our noses.
 

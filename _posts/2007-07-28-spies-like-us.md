@@ -1,32 +1,14 @@
 ---
-title: spies like us
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/spies-like-us
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365534562
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330454627
-dsq_thread_id:
-  - 867200872
-st_tiny_url:
-  - 
-categories:
-  - travel
+title: "spies like us"
+published: true
+comments: true
+meta: true
+category: travel
+excerpt: ""
+
 ---
-# 
 
 [![Spies84][2]][2]i used to love that flipping movie.  now i cannot remember how they inserted themselves into the the soviet union.  it may have been through afghanistan or one of the other stans, but for the purpose of this trip i’m going to pretend that it was through turkey and then up and over the caucasuses  through geogia and azerbaijan (which i realize were part of the soviet strategic envelope (primary version, as opposed to secondary, derivative version…i’ll be there soon).  
 

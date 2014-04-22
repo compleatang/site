@@ -1,30 +1,14 @@
 ---
-title: photothermal cells beginning to show promise
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/photothermal-cells-beginning-to-show-promise
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365548935
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330366825
-st_tiny_url:
-  - 
-categories:
-  - environment
+title: "photothermal cells beginning to show promise"
+published: true
+comments: true
+meta: true
+category: environment
+excerpt: "[]: http://caseykuhlman.typepad.com/.shared/image.html?/photos/uncategorized/2007/07/18/17thermal600.jpg"
+
 ---
-# 
 
 [![17thermal600][2]][2]  
 [this][2] has promise.  i’ve heard about it before, but this article in the nytimes breaks it down nicely.  essentially, it uses the sun’s heat to formulate steam to turn generators to produce power rather than using photovoltaic cells which are inefficient and terribly expensive (although the prices are going down quickly and may go down further the more that they are made). photothermal cells produce heat by focussing the sun’s rays onto a specific metallic point.  

@@ -1,32 +1,14 @@
 ---
-title: the grapefruits have more seeds.
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/the-grapefruits-have-more-seeds
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330480401
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365635676
-dsq_thread_id:
-  - 766635413
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "the grapefruits have more seeds."
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: ""
+
 ---
-# 
 
 [![N557965146_50950_9850][2]][2] on sunday afternoon/evening there was a marching band parade and people just went into this compound (the wall is the background of the picture).  they paraded to a compound.  this picture doesn’t do it justice b/c there were TONS of people.  later we found out that it was a thanksgiving parade.  each local school has their own thanksgiving holiday where they march to a church.  not sure about the significance of it all, but it was funny nonetheless.
 

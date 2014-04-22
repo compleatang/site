@@ -1,30 +1,14 @@
 ---
-title: Two Little Stories
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/two-little-stories
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365577782
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330606067
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "Two Little Stories"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "Have been saving two little stories.  Not sure why I have been saving them, but I have.  My time is starting to wind down here now and I feel compelled to clean some things up.  Not yet sure when I’m going to leave Salone, but it is going to be soon.  I think that the absolute latest I will be here will be the 20th, which is only three weeks and two weekends from now.  The soonest I’ll be able to leave will be mid-week next week.  For a lot reasons I’m over this place.  People are leaving at the speed of naught, the rains are coming and we have no Tv, new people are replacing the old and I cannot be bothered to get to know them when I’m such a short timer, and at any event no matter where you are it is difficult when you are a short timer.  I just want to do the few remaining things and get the muck out of here."
+
 ---
-# 
 
 Have been saving two little stories.  Not sure why I have been saving them, but I have.  My time is starting to wind down here now and I feel compelled to clean some things up.  Not yet sure when I’m going to leave Salone, but it is going to be soon.  I think that the absolute latest I will be here will be the 20th, which is only three weeks and two weekends from now.  The soonest I’ll be able to leave will be mid-week next week.  For a lot reasons I’m over this place.  People are leaving at the speed of naught, the rains are coming and we have no Tv, new people are replacing the old and I cannot be bothered to get to know them when I’m such a short timer, and at any event no matter where you are it is difficult when you are a short timer.  I just want to do the few remaining things and get the muck out of here.
 

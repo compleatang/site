@@ -1,30 +1,14 @@
 ---
-title: 'footBall&#8217;s back'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/footballs-back
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330352093
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365746947
-st_tiny_url:
-  - 
-categories:
-  - living
+title: "footBall&#8217;s back"
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "today i gave myself a sabatical.  all football, all day.  it was fantastic.  just finished up watching PRIMETIME.  visions of big dog nachos dancing in my head."
+
 ---
-# 
 
 today i gave myself a sabatical.  all football, all day.  it was fantastic.  just finished up watching PRIMETIME.  visions of big dog nachos dancing in my head.
 

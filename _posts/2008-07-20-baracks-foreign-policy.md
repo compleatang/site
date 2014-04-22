@@ -1,33 +1,14 @@
 ---
-title: 'Barack&#8217;s Foreign Policy'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/baracks-foreign-policy
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365959856
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330185135
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/wfnqBT
-        
-categories:
-  - development
+title: "Barack&#8217;s Foreign Policy"
+published: true
+comments: true
+meta: true
+category: development
+excerpt: "Let me begin by saying that I am jealous of this purported Wunderkind who is helping to shape Obama’s foreign policy and writing many of his speeches on the subject.  OK, that off my chest…to the analysis."
+
 ---
-# 
 
 Let me begin by saying that I am jealous of this purported Wunderkind who is helping to shape Obama’s foreign policy and writing many of his speeches on the subject.  OK, that off my chest…to the analysis.
 

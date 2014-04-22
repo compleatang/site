@@ -1,30 +1,14 @@
 ---
-title: working on a feeling
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/working-on-a-feeling
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330262177
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365696660
-st_tiny_url:
-  - 
-categories:
-  - film
+title: "working on a feeling"
+published: true
+comments: true
+meta: true
+category: film
+excerpt: ""
+
 ---
-# 
 
 [![740759036_l_1][2]][2] tonight i saw this movie.  you should too.  it contains a decent soundtrack and one of my favorite vehicles for a narrative framework: the roadtrip.  some of the scenes in it were so spot on i didn’t know what to do.  i lapsed in to an analysis of the femine/masculine perspectives on life but was torn out of it when i realized that all the women around me were laughing at the things happening just as often as i was.  
 

@@ -1,33 +1,14 @@
 ---
-title: Georgia v. Russia
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/georgia-v-russia
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365948615
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1332440220
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/yeCkw4
-        
-categories:
-  - politics
+title: "Georgia v. Russia"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "Because I am intellectually inferior and do not have so much time, I have few unique thoughts. "
+
 ---
-# 
 
 Because I am intellectually inferior and do not have so much time, I have few unique thoughts.  
 

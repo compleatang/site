@@ -1,32 +1,14 @@
 ---
-title: 'no thanks, i&#8217;ll pass'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/no-thanks-ill-pass
-dsq_thread_id:
-  - 768452726
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330494743
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365692926
-st_tiny_url:
-  - 
-categories:
-  - living
+title: "no thanks, i&#8217;ll pass"
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "this weekend i almost became a marine….again. "
+
 ---
-# 
 
 this weekend i almost became a marine….again.  
 

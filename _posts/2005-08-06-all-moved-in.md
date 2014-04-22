@@ -1,30 +1,14 @@
 ---
-title: All Moved In.
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/all-moved-in
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330478600
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365765572
-st_tiny_url:
-  - 
-categories:
-  - living
+title: "All Moved In."
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "OK kids.  The pizza is half-eaten, cold, and greasing up the coffeetable for me.  There are beer bottles in a pile somewhere near THAT corner of the room, in the vicinity of the empty boxes that are broken down into flat cardboard for storage in the garage somewhere. "
+
 ---
-# 
 
 OK kids.  The pizza is half-eaten, cold, and greasing up the coffeetable for me.  There are beer bottles in a pile somewhere near THAT corner of the room, in the vicinity of the empty boxes that are broken down into flat cardboard for storage in the garage somewhere.  
 

@@ -1,30 +1,14 @@
 ---
-title: i little trip to the mall
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/i-little-trip-to-the-mall
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365603009
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330439804
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "i little trip to the mall"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "![190207_1921][1]i hate malls. i really really hate everything about them. i hate how large they are. i hate that massive retention ponds must be created to pool the flow of water that is not allowed to seep into the ground properly over a dissipated region, but is instead pooled in isolated areas. the outsourcing of the environmental degredation annoys me. i hate how they all are the same, one or two paradigms determine the layout. i hate the food they sell. i hate that they are owned by all of us who own mutual funds and don’t really care where our money goes to except for the fact that we get something towards our retirement golf community dream."
+
 ---
-# 
 
 ![190207_1921][1]i hate malls. i really really hate everything about them. i hate how large they are. i hate that massive retention ponds must be created to pool the flow of water that is not allowed to seep into the ground properly over a dissipated region, but is instead pooled in isolated areas. the outsourcing of the environmental degredation annoys me. i hate how they all are the same, one or two paradigms determine the layout. i hate the food they sell. i hate that they are owned by all of us who own mutual funds and don’t really care where our money goes to except for the fact that we get something towards our retirement golf community dream. 
 

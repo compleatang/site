@@ -1,30 +1,14 @@
 ---
-title: when it rains it pours
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/when-it-rains-it-pours
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330510089
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365696658
-st_tiny_url:
-  - 
-categories:
-  - living
+title: "when it rains it pours"
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "for much of my childhood i didn’t understand what that phrase was on the"
+
 ---
-# 
 
 for much of my childhood i didn’t understand what that phrase was on the  
 side of the big, round, blue salt container.  everytime bri and/or i would  

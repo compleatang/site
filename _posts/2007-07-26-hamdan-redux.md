@@ -1,30 +1,14 @@
 ---
-title: Hamdan Redux
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/hamdan-redux
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330352303
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365538522
-st_tiny_url:
-  - 
-categories:
-  - law
+title: "Hamdan Redux"
+published: true
+comments: true
+meta: true
+category: law
+excerpt: "i’m not as huge a bush hater as many others who score similarly on political spectrum tests.  however, i continued to be amazed at the recalcitrant-ness of his administration.  throughout the short american constitutional history there have been contentious constitutional issues that have pitted the three branches of governance against each other in varying degrees of allied and opposition poses.: executive v. legislative, legislative v. judiciary, executive & legislative v. judiciary, etc.  however, the end to the tension usually comes (at least in the governance sector, even if it lingers in the civil & media sectors) when the supreme court rules on an issue.  if the court rules against one of the other branches in on a constitutional issue, its word is final.  full stop.  however when the court rules on other issues of law, adminsitrative, legislative, international then it may not be the final say.  the executive or legislative often will have a second crack even if one of their actions was nulled by a decision of the court.  that said, most times, the other branches second cracks will show much more deference to the legal reasoning which the court adopted (usually because a constitutional challenge to the second crack may be waiting in the wings and if the court has shown a leaning in a particular decision the legislative and executive would not want to get overturned on constitutional grounds as that would be the end of the story again).  but the bush executive branch seems to evince little of the traditional gentlemanliness with which this country has been governed for years.  latest in the saga of the Hamdan v. Rumsfeld decision is the executive issuing an executive order that CIA interrogation techniques, if conducted for the purpose of eliciting intelligence are per sae legal.  there are a few nuances in the order, first the techniques must not violate the McCain Ammendment against torture or dismemberment (but according to most human rights decisions this leaves a wide berth).  secondly, the techniques must not be conducted with the purpose of degrading the human.  well, shit, that just about guts the protections that the Hamdan decision offered to detainees at Guantanamo (and hopefully by extrapolation to other detention facilities, although there is no jurisprudence on point with regards to that issue — yet). "
+
 ---
-# 
 
 i’m not as huge a bush hater as many others who score similarly on political spectrum tests.  however, i continued to be amazed at the recalcitrant-ness of his administration.  throughout the short american constitutional history there have been contentious constitutional issues that have pitted the three branches of governance against each other in varying degrees of allied and opposition poses.: executive v. legislative, legislative v. judiciary, executive & legislative v. judiciary, etc.  however, the end to the tension usually comes (at least in the governance sector, even if it lingers in the civil & media sectors) when the supreme court rules on an issue.  if the court rules against one of the other branches in on a constitutional issue, its word is final.  full stop.  however when the court rules on other issues of law, adminsitrative, legislative, international then it may not be the final say.  the executive or legislative often will have a second crack even if one of their actions was nulled by a decision of the court.  that said, most times, the other branches second cracks will show much more deference to the legal reasoning which the court adopted (usually because a constitutional challenge to the second crack may be waiting in the wings and if the court has shown a leaning in a particular decision the legislative and executive would not want to get overturned on constitutional grounds as that would be the end of the story again).  but the bush executive branch seems to evince little of the traditional gentlemanliness with which this country has been governed for years.  latest in the saga of the Hamdan v. Rumsfeld decision is the executive issuing an executive order that CIA interrogation techniques, if conducted for the purpose of eliciting intelligence are per sae legal.  there are a few nuances in the order, first the techniques must not violate the McCain Ammendment against torture or dismemberment (but according to most human rights decisions this leaves a wide berth).  secondly, the techniques must not be conducted with the purpose of degrading the human.  well, shit, that just about guts the protections that the Hamdan decision offered to detainees at Guantanamo (and hopefully by extrapolation to other detention facilities, although there is no jurisprudence on point with regards to that issue — yet).  
 

@@ -1,30 +1,14 @@
 ---
-title: Watch This
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/watch-this
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365210999
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330300333
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "Watch This"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "Keep an eye on this! "
+
 ---
-# 
 
 Keep an eye on this!  
 

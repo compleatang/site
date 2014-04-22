@@ -1,30 +1,14 @@
 ---
-title: Sub-Saharan Population
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/sub-saharan-population
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330107713
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365527336
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "Sub-Saharan Population"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "listened to an interesting [CFR podcast][1] the other day which discussed population levels in sub-saharan africa, which are currently exploding.  the guy was interesting to listen to as he was eloquent (it must come with the territory when you are the chair of sociology at NYU) and just when I thought he was going to swing naively left he hit me with an unexpected solution.  it was nice to be surprised like that!"
+
 ---
-# 
 
 listened to an interesting [CFR podcast][1] the other day which discussed population levels in sub-saharan africa, which are currently exploding.  the guy was interesting to listen to as he was eloquent (it must come with the territory when you are the chair of sociology at NYU) and just when I thought he was going to swing naively left he hit me with an unexpected solution.  it was nice to be surprised like that!
 

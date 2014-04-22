@@ -1,30 +1,14 @@
 ---
-title: my little jazz place
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/my-little-jazz-place
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330436766
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365592119
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "my little jazz place"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "so for much of my life i have had this fantasy that i would eventually find a jazz club that would replace in my mind the absence of me not being alive in the late 50′s and early 60′s and being black and living in NYC and therefore unable to stoll down 52d street and hear coltrane and others jamming in real-time and only for themselves.  although i’ve been all over the states, i have yet to find anything that feels/is truly authentic.  everything just seems, kitchy or not good enough to be authentic and have great jaz artists.  i think i came close, in my mind at least, to finding the proper environs in this smoky little underground club on the left banc of paris.  but the artists that cam and i saw there were not totally up to par with my fantasy!"
+
 ---
-# 
 
 so for much of my life i have had this fantasy that i would eventually find a jazz club that would replace in my mind the absence of me not being alive in the late 50′s and early 60′s and being black and living in NYC and therefore unable to stoll down 52d street and hear coltrane and others jamming in real-time and only for themselves.  although i’ve been all over the states, i have yet to find anything that feels/is truly authentic.  everything just seems, kitchy or not good enough to be authentic and have great jaz artists.  i think i came close, in my mind at least, to finding the proper environs in this smoky little underground club on the left banc of paris.  but the artists that cam and i saw there were not totally up to par with my fantasy!
 

@@ -1,30 +1,14 @@
 ---
-title: 'Why Iraq Matters, but Doesn&#8217;t Matter'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/why-iraq-matters-but-doesnt-matter
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365181873
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330379417
-st_tiny_url:
-  - 
-categories:
-  - politics
+title: "Why Iraq Matters, but Doesn&#8217;t Matter"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "During the last debate, I was talking with Super-Star about Iraq.  The following is my analysis of the situation."
+
 ---
-# 
 
 During the last debate, I was talking with Super-Star about Iraq.  The following is my analysis of the situation.
 

@@ -1,30 +1,14 @@
 ---
-title: Death penalty
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/death-penalty
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365491489
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1332440332
-st_tiny_url:
-  - 
-categories:
-  - law
+title: "Death penalty"
+published: true
+comments: true
+meta: true
+category: law
+excerpt: "According to Amnesty’s site, today is [Anti-Death Penalty Day][1].  I wonder what color bracelet I’m supposed to be wearing to fit in…"
+
 ---
-# 
 
 According to Amnesty’s site, today is [Anti-Death Penalty Day][1].  I wonder what color bracelet I’m supposed to be wearing to fit in…
 

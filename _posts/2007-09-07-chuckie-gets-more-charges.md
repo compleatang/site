@@ -1,30 +1,14 @@
 ---
-title: Chuckie Gets More Charges
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/chuckie-gets-more-charges
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365517573
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1331257830
-st_tiny_url:
-  - 
-categories:
-  - law
+title: "Chuckie Gets More Charges"
+published: true
+comments: true
+meta: true
+category: law
+excerpt: "[]: http://caseykuhlman.typepad.com/.shared/image.html?/photos/uncategorized/2007/09/07/180pxcharlestaylor.jpg"
+
 ---
-# 
 
 [![180pxcharlestaylor][2]][2]  
 The DA in Miami has added more counts of torture to Chuckie’s indictment.  His trial is set to begin in Miami in January 2008.  I find it cute that father and son will begin their trials at about the same time.  

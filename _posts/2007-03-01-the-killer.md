@@ -1,30 +1,14 @@
 ---
-title: The Killer
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/the-killer
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365606513
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330450611
-st_tiny_url:
-  - 
-categories:
-  - music
+title: "The Killer"
+published: true
+comments: true
+meta: true
+category: music
+excerpt: "I cannot figure out if this song is a tortured love song or a prayer or both.  Nevertheless, I’ve been listening to it all morning…It fits nicely with the cloudy, humid skys filling up for the rainy season. "
+
 ---
-# 
 
 I cannot figure out if this song is a tortured love song or a prayer or both.  Nevertheless, I’ve been listening to it all morning…It fits nicely with the cloudy, humid skys filling up for the rainy season.  
 

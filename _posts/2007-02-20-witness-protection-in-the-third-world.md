@@ -1,30 +1,14 @@
 ---
-title: Witness Protection in the Third World
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/witness-protection-in-the-third-world
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330358756
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365617511
-st_tiny_url:
-  - 
-categories:
-  - law
+title: "Witness Protection in the Third World"
+published: true
+comments: true
+meta: true
+category: law
+excerpt: "Today I would like to soapbox about something not really close to my heart but that I’ve been pondering lately.  How is protecting high-profile witnesses here different than it is in developed countries?  I mean I’ve seen Joe Dirt and therefore I know most of what there is to know about witness protection in the US.  But I don’t know anything about it here.  Let’s explore."
+
 ---
-# 
 
 Today I would like to soapbox about something not really close to my heart but that I’ve been pondering lately.  How is protecting high-profile witnesses here different than it is in developed countries?  I mean I’ve seen Joe Dirt and therefore I know most of what there is to know about witness protection in the US.  But I don’t know anything about it here.  Let’s explore.
 

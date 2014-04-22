@@ -1,44 +1,17 @@
 ---
-title: My Barber in Den Haag
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/my-barber-in-den-haag
-dsq_thread_id:
-  - 742263359
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/w4rjXn
-        
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365815321
-st_cached_time:
-  - 1330081177
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - travel
-tags:
-  - America v. Europe
-  - communities
-  - nomadic life
-  - small businesses
-  - travel
+title: "My Barber in Den Haag"
+published: true
+comments: true
+meta: true
+category: travel
+tags: ["America v. Europe", "communities", "nomadic life", "small businesses", "travel"]
+excerpt: "We are smack in the middle of a heck of a travelling ten days. Left Chattanooga where we had Christmas for Glasgow where we had New Years via Atlanta (shuttle), London (plane), and Edinburgh (rental car). Then down to L’s farm in Southwest corner of Scotland. Then up to Edinburgh for a nap then to Den Haag via Amsterdam (plane and train). Thursday I trek down to Hargeisa via Zurich, Dubai, and Berbera."
+
 ---
-# 
 
 [![barber college by vistavision @ flickr][2]][2]
-barber college by vistavision @ flickr
 
 We are smack in the middle of a heck of a travelling ten days. Left Chattanooga where we had Christmas for Glasgow where we had New Years via Atlanta (shuttle), London (plane), and Edinburgh (rental car). Then down to L’s farm in Southwest corner of Scotland. Then up to Edinburgh for a nap then to Den Haag via Amsterdam (plane and train). Thursday I trek down to Hargeisa via Zurich, Dubai, and Berbera.  
 Since I only have a very limited time here in the Hague before I return to Hargeisa, today I had to go get my haircut. I had been in the states for a few months and L wasn’t sure about the state of my hair upon arriving for the Christmas celebrations. The current outlook was grim at any rate. I had purposely delayed getting it cut (and my beard closely trimmed) because I am sometimes incredibly neglgent at life but also because I quite like my Turkish barber here in the Hague.  

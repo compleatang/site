@@ -1,32 +1,14 @@
 ---
-title: self-marketing
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/self-marketing
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330470200
-dsq_thread_id:
-  - 154782591
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365711050
-st_tiny_url:
-  - 
-categories:
-  - politics
+title: "self-marketing"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "so there are these sites.  some of you know of them.  friendster. my space. facebook.com.  they are all pretty much the same thing.  they are sites that allow you to tell people about your self:  fav movies, fav music, fav TV, quotes, 'about me,' and other blase things. "
+
 ---
-# 
 
 so there are these sites.  some of you know of them.  friendster. my space. facebook.com.  they are all pretty much the same thing.  they are sites that allow you to tell people about your self:  fav movies, fav music, fav TV, quotes, "about me," and other blase things.  
 

@@ -1,38 +1,14 @@
 ---
-title: What it feels like to be invaded
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/what-it-feels-like-to-be-invaded
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365916219
-st_cached_time:
-  - 1330383558
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-dsq_thread_id:
-  - 154782356
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/AF8mLT
-        
-categories:
-  - africa
-  - living
-  - politics
-  - television
+title: "What it feels like to be invaded"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: ""
+
 ---
-# 
 
 [![Photograph: Farah Abdi Warsameh/AP][2]][2]
 

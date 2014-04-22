@@ -1,30 +1,14 @@
 ---
-title: Competition to give green lighting to Africa
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/competition-to-give-green-lighting-to-africa
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365498994
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330437779
-st_tiny_url:
-  - 
-categories:
-  - environment
+title: "Competition to give green lighting to Africa"
+published: true
+comments: true
+meta: true
+category: environment
+excerpt: "Link: [edie news centre – Competition to give green lighting to Africa][1]."
+
 ---
-# 
 
 Link: [edie news centre – Competition to give green lighting to Africa][1].
 

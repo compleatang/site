@@ -1,30 +1,14 @@
 ---
-title: Another Reason
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/another-reason
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365181874
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330358495
-st_tiny_url:
-  - 
-categories:
-  - politics
+title: "Another Reason"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "This is why [I Support][1] [Barack.][2]  Not for the celebrities; Not because of his blatant appeals to people in my demographic; But Because of the Words.  Listen to the Words, Big_Head once told me.  [I’m listening][3]."
+
 ---
-# 
 
 This is why [I Support][1] [Barack.][2]  Not for the celebrities; Not because of his blatant appeals to people in my demographic; But Because of the Words.  Listen to the Words, Big_Head once told me.  [I’m listening][3].
 

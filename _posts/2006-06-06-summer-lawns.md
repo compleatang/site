@@ -1,34 +1,14 @@
 ---
-title: summer lawns
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/summer-lawns
-GentleSourceShortURL:
-  - http://bit.ly/aLWTbn
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330371419
-dsq_thread_id:
-  - 154782569
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365700141
-st_tiny_url:
-  - 
-categories:
-  - music
+title: "summer lawns"
+published: true
+comments: true
+meta: true
+category: music
+excerpt: "so i have many reviews and things upon which to comment.  however, those will have to wait until another time. "
+
 ---
-# 
 
 so i have many reviews and things upon which to comment.  however, those will have to wait until another time.  
 

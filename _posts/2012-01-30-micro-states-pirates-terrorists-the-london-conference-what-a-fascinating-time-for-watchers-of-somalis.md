@@ -1,48 +1,21 @@
 ---
-title: 'Micro-States; Pirates; Terrorists; The London Conference: What a Fascinating Time for Watchers of Somalis'
-author: Casey Kuhlman
-layout: post
-permalink: >
-  /entry/micro-states-pirates-terrorists-the-london-conference-what-a-fascinating-time-for-watchers-of-somalis
-dsq_thread_id:
-  - 746040728
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/xwZJCg
-        
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365736170
-st_cached_time:
-  - 1330427673
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - somaliland/somalia
-tags:
-  - pirates
-  - politics
-  - somalia
-  - somaliland
----
-# 
 
-[![somali-days by burningmax @ flickr][2]][2]
-somali-days by burningmax @ flickr
+layout: post
+title: "Micro-States; Pirates; Terrorists; The London Conference: What a Fascinating Time for Watchers of Somalis"
+published: true
+comments: true
+meta: true
+category: somaliland/somalia
+tags: ["pirates", "politics", "somalia", "somaliland"]
+excerpt: "For almost four years now I’ve been a careful observer of Somali politicians. For three of those years I was paid to try to be their lawyer. To provide them expert international legal assistance tied to a deep network full of some of the finest international practitioners and thinkers in the world. But they rarely, if ever, wanted that help. So largely I invented work, I went into meetings and had a product to sell. *I can’t buy you new computers, but I how about I help you write that legal framework that Parliament has required you to do*?"
+
+---
+
+
+<p><a href="http://www.flickr.com/photos/burningmax/2987516225/"><img src="http://blog.caseykuhlman.com/assets/images/2012/2987516225_11e2cef572.jpg" alt="somali-days by burningmax @ flickr" tit="somali-days by burningmax @ flickr" /></a></p>
 
 For almost four years now I’ve been a careful observer of Somali politicians. For three of those years I was paid to try to be their lawyer. To provide them expert international legal assistance tied to a deep network full of some of the finest international practitioners and thinkers in the world. But they rarely, if ever, wanted that help. So largely I invented work, I went into meetings and had a product to sell. *I can’t buy you new computers, but I how about I help you write that legal framework that Parliament has required you to do*?
 
- []: http://www.flickr.com/photos/burningmax/2987516225/
 
 I’ve spent a lot of time with Somali politicians, and I also spend a lot of time with other people who spend a lot of their time with Somali politicians. This is an expat’s life when you live in a pretty small town. I reference Hargeisa, a town of, oh, 500,00 to 1M people depending on who’s estimating as a small town.
 

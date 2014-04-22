@@ -1,33 +1,14 @@
 ---
-title: Extreme Development
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/extreme-development
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365221393
-dsq_thread_id:
-  - 794216960
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330210115
-st_tiny_url:
-  - 
-categories:
-  - development
-  - politics
+title: "Extreme Development"
+published: true
+comments: true
+meta: true
+category: development
+excerpt: "The [Center for Global Development][1] has posted a [paper][2] that I think is one of the most intellectually challenging papers that I’ve read in a long time.  In case you don’t know, CGD is a think-tank in DC.  Imagine that, a"
+
 ---
-# 
 
 The [Center for Global Development][1] has posted a [paper][2] that I think is one of the most intellectually challenging papers that I’ve read in a long time.  In case you don’t know, CGD is a think-tank in DC.  Imagine that, a  
 think-tank for wonks that don’t want to do real work.  My cynicism  

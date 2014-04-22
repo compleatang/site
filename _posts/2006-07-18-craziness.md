@@ -1,30 +1,14 @@
 ---
-title: Craziness
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/craziness
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330362902
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365671623
-st_tiny_url:
-  - 
-categories:
-  - living
+title: "Craziness"
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "well, life has been crazy.  we’ve been working like fiends.  i saw the sun rise on four straight mornings.  three because of work, one because of partying.  it has been a weird couple of nights, for a lot of reasons. "
+
 ---
-# 
 
 well, life has been crazy.  we’ve been working like fiends.  i saw the sun rise on four straight mornings.  three because of work, one because of partying.  it has been a weird couple of nights, for a lot of reasons.  
 

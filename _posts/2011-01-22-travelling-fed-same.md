@@ -1,49 +1,19 @@
 ---
-title: 'On Travelling: I&#8217;m Fed Up Because it&#8217;s all the Same.'
-author: Casey Kuhlman
-excerpt: >
-  In which I sit in a bar at Amsterdam and reflect on the oddness of the current
-  life-situation while writing in my Moleskine and almost being late for my flight
-  to Dubai.
+
 layout: post
-permalink: /entry/travelling-fed-same
-dsq_thread_id:
-  - 587625139
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zNsTHP
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/3812110699";s:9:"url_count";i:1;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365841034
-st_cached_time:
-  - 1330081190
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - travel
-tags:
-  - rants
-  - traveling
+title: "On Travelling: I&#8217;m Fed Up Because it&#8217;s all the Same."
+published: true
+comments: true
+meta: true
+category: travel
+tags: ["rants", "traveling"]
+excerpt: "In which I sit in a bar at Amsterdam and reflect on the oddness of the current life-situation while writing in my Moleskine and almost being late for my flight to Dubai."
+
 ---
-# 
 
 > She looked at my passport and flipped, and flipped, and flipped, and flipped. “Wow, you’ve been to a lot of places,” she said with fully disclosed jealousy.  Which at first I thought was odd.  Four years ago her accent alone would have seemed exotic, enticing, other.  Now she appeared to be just another worker trying to get by.  I glanced up from my Twitter scanning on my mobile and said without a pause the above reflection may suggest, “yeah, I’ve been to lots of the world’s shit holes.”   She laughed, and I felt sheepish at the arrogance which the comment may have implied.
 
 [![Photo courtesy of Tiki Pop @ Tumblr][2]][2]
-Photo courtesy of Tiki Pop @ Tumblr
 
 OK, I know where all the smoking bars are in Schipol.  I’m no longer surprised by the ridiculous, inefficient Heathrow monstrosity.  I’ve seen the super-efficient Germans’ achievements in process engineering at their militant, rule-loving best (that is, airports).  And don’t get me onto the shit holes where you step out of the secure area (if it exists) into a accosting of a wave of heat, humidity and noise – so much clammer and “taxi.”  I cannot tell you my mobile number at any given moment, but I can tell you my passport number, its issue date and its expiration date.  Along with my social security number and my best friend Joe’s parent’s home phone number these are the only strings of digits I seem to care to recall these days.
 

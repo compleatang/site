@@ -1,30 +1,14 @@
 ---
-title: taut in the middle again.
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/taut-in-the-middle-again
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365613722
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330297203
-st_tiny_url:
-  - 
-categories:
-  - living
+title: "taut in the middle again."
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "this weekend it became clear to me that i’ve been living in the middle of much tension while here, and before.  i continually try to float between the text and subtext and context of my life and so many times things get lost in translation between the two.  i sometimes confuse myself whether things are internal or external; whether they matter or don’t; whether they are real or imagined.  feelings emoted, are they proper or improper?  at the end of the day the postmodern interpretation would be that, well, all and nothing matters.  yet that doesn’t lessen the poignancy of the dilemma.  at least, i’m not sure that it does. "
+
 ---
-# 
 
 this weekend it became clear to me that i’ve been living in the middle of much tension while here, and before.  i continually try to float between the text and subtext and context of my life and so many times things get lost in translation between the two.  i sometimes confuse myself whether things are internal or external; whether they matter or don’t; whether they are real or imagined.  feelings emoted, are they proper or improper?  at the end of the day the postmodern interpretation would be that, well, all and nothing matters.  yet that doesn’t lessen the poignancy of the dilemma.  at least, i’m not sure that it does.  
 

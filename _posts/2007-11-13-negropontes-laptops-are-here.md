@@ -1,30 +1,14 @@
 ---
-title: 'Negroponte&#8217;s Laptops Are HERE!'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/negropontes-laptops-are-here
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365224944
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330436979
-st_tiny_url:
-  - 
-categories:
-  - development
+title: "Negroponte&#8217;s Laptops Are HERE!"
+published: true
+comments: true
+meta: true
+category: development
+excerpt: "Link: [Negroponte’s laptops: buy two, get one – PSD Blog – World Bank Group][1]."
+
 ---
-# 
 
 Link: [Negroponte’s laptops: buy two, get one – PSD Blog – World Bank Group][1].
 

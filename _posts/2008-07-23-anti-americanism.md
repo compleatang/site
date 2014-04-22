@@ -1,33 +1,14 @@
 ---
-title: Anti-Americanism
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/anti-americanism
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365955736
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330389104
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zMYahk
-        
-categories:
-  - politics
+title: "Anti-Americanism"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "[]: http://caseykuhlman.typepad.com/.a/6a00d83453a81b69e200e553ceba9c8834-pi"
+
 ---
-# 
 
 [![_40656678_flag_afp_203body][2]][2]   
 To be honest, I’ve never fully understood the vehement Anti-Americanism that I have at times been the target of.  I did understand it the few times I experienced it in Iraq.  Mainly, it is the European anti-americanism that I do not fully understand.  I usually dismiss it as some sort of a simple jealousy and unwillingness to part with the past and realize that the world has moved on.  I know that that is a simplistic understanding of a complex issue.  That is why I enjoy reading well-phrased articles by European thinkers on the subject.  The UK Times ran [this][2] piece today, which I found quite thoughtful.

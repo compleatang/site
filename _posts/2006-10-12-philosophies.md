@@ -1,30 +1,14 @@
 ---
-title: Philosophies
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/philosophies
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330554478
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365656914
-st_tiny_url:
-  - 
-categories:
-  - development
+title: "Philosophies"
+published: true
+comments: true
+meta: true
+category: development
+excerpt: "Many of you have asked me what the hell development people do.  I will attempt over the course of the next few posts….which at the rate I’m currently writing other things will be the rest of the semester….to tell you about them."
+
 ---
-# 
 
 Many of you have asked me what the hell development people do.  I will attempt over the course of the next few posts….which at the rate I’m currently writing other things will be the rest of the semester….to tell you about them.
 

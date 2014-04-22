@@ -1,54 +1,22 @@
 ---
-title: 'Decoding the Somali Mind: A Guide for Expats (Anecdotal, Not Definitive Version): Wants v. Needs'
-author: Casey Kuhlman
-excerpt: 'This is a new series containing a few stories which have stood out in my time here in Somaliland and have helped me to understand a bit more a culture that in many ways is very different from my own, but in many ways is not. This series explores those differences.  This entry is about relationships in Somaliland.'
+
 layout: post
-permalink: /entry/decoding-somali-mind-guide-expats-anecdotal-definitive-version-v
-dsq_thread_id:
-  - 766632741
-wordbooker_options:
-  - 'a:24:{s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:26:"wordbooker_publish_default";s:2:"on";s:24:"wordbook_fblike_location";s:3:"top";s:22:"wordbook_fblike_action";s:9:"recommend";s:27:"wordbook_fblike_colorscheme";s:4:"dark";s:20:"wordbook_fblike_font";s:5:"arial";s:22:"wordbook_fblike_button";s:12:"button_count";s:21:"wordbook_fblike_faces";s:5:"false";s:18:"wordbook_attribute";s:32:"New on UDB.net: %title% - %link%";s:29:"wordbook_republish_time_frame";s:2:"10";s:29:"wordbooker_status_update_text";s:32:"New on UDB.net: %title% - %link%";s:19:"wordbook_actionlink";s:3:"300";s:27:"wordbook_search_this_header";s:2:"on";s:20:"wordbook_comment_get";s:2:"on";s:24:"wordbook_comment_approve";s:2:"on";s:21:"wordbook_comment_push";s:2:"on";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:29:"wordbook_advanced_diagnostics";s:2:"on";s:18:"wordbook_status_id";s:4:"-100";s:19:"wordbook_thumb_only";s:2:"on";s:20:"wordbook_use_excerpt";s:2:"on";s:18:"wordbook_noncename";s:10:"682f867bcf";}'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/wGyd2C
-        
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330183291
-st_tweetmeme:
-  - 's:42:"a:2:{s:7:"tm_link";N;s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365862369
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - otherwise
-tags:
-  - relational thinking
-  - somalia
-  - somaliland
-  - understanding somalis
+title: "Decoding the Somali Mind: A Guide for Expats (Anecdotal, Not Definitive Version): Wants v. Needs"
+published: true
+comments: true
+meta: true
+category: otherwise
+tags: ["relational thinking", "somalia", "somaliland", "understanding somalis"]
+excerpt: "This is a new series containing a few stories which have stood out in my time here in Somaliland and have helped me to understand a bit more a culture that in many ways is very different from my own, but in many ways is not. This series explores those differences.  This entry is about relationships in Somaliland."
+
 ---
-# 
 
 *This is a new series containing a few stories which have stood out in my time here in Somaliland and have helped me to understand a bit more a culture that in many ways is very different from my own, but in many ways is not. This series explores those differences.*
 
 [![want need syrup by thebrianmeyer @ flickr][2]][2]
-want need syrup by thebrianmeyer @ flickr
 
 Every development worker I’ve ever met, and I can say with confidence, without exception, hates the following phrase with a passion: “What we *really* need is….”  Hearing that phrase pretty much ruins your entire day.  Usually, but not always, it is accompanied by a veiled threat of what will happen if the particular worker does not comply.  Well, that happens when one is dealing with governmental clients.
 
- []: http://www.flickr.com/photos/thebrianmeyer/4359119969/
 
 As a preliminary (and because despite my non-traditional path I am still a trained lawyer), let me define what I’m talking about when I say “wants” and “needs.”  I would define (for the purposes of this piece only, *see supra*) “needs” as those things which are required to perform a given task, whereas I would define “wants” as those things which are not required but would be beneficial to accomplish a given task.
 

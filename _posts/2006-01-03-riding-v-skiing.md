@@ -1,30 +1,14 @@
 ---
-title: riding v. skiing
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/riding-v-skiing
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330501886
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365721709
-st_tiny_url:
-  - 
-categories:
-  - living
+title: "riding v. skiing"
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "ok.  so most of you know that i’m a rider.  i think that this is kind of odd, yet typical of my history.  i feel like i’m always half an oscillation off from popular culture.  this is what i mean, and really you can apply it to most areas of my hipster life be that fashion, word choices, music, hairstyles or the like."
+
 ---
-# 
 
 ok.  so most of you know that i’m a rider.  i think that this is kind of odd, yet typical of my history.  i feel like i’m always half an oscillation off from popular culture.  this is what i mean, and really you can apply it to most areas of my hipster life be that fashion, word choices, music, hairstyles or the like.
 

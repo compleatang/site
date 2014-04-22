@@ -1,32 +1,14 @@
 ---
-title: why i do yoga
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/why-i-do-yoga
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365649982
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330348267
-dsq_thread_id:
-  - 154782552
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_tiny_url:
-  - 
-categories:
-  - living
+title: "why i do yoga"
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "people do stupid shit for stupid reasons all the time.  i do yoga."
+
 ---
-# 
 
 people do stupid shit for stupid reasons all the time.  i do yoga.
 

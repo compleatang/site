@@ -1,30 +1,14 @@
 ---
-title: 'it&#8217;s the little things'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/its-the-little-things
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365577780
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330373446
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_tiny_url:
-  - 
-categories:
-  - travel
+title: "it&#8217;s the little things"
+published: true
+comments: true
+meta: true
+category: travel
+excerpt: "my friend, jay, collects coins from evil empires.  he has been wanting me to bring him coins from SL when i go to the netherlands this week.  i told him, no problem.  then i one up-ed him by bringing him coins from an even more evil empire: liberia. "
+
 ---
-# 
 
 my friend, jay, collects coins from evil empires.  he has been wanting me to bring him coins from SL when i go to the netherlands this week.  i told him, no problem.  then i one up-ed him by bringing him coins from an even more evil empire: liberia.  
 

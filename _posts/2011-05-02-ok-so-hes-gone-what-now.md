@@ -1,50 +1,20 @@
 ---
-title: 'OK, So He&#8217;s Gone. What Now?'
-author: Casey Kuhlman
-excerpt: |
-  So I woke up this morning to the news. Obama Killed Osama. In my groggy state, I couldn't really piece together what was happening on my collated facebook and twitter streams until I saw something similar to the previous sentence. I think the first thing I cognized was a friend's facebook post: "Osama, so 10 years ago."
-layout: post
-permalink: /entry/ok-so-hes-gone-what-now
-dsq_thread_id:
-  - 587625269
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/AyjIyt
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/7237880196";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365830089
-st_cached_time:
-  - 1330081198
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - politics
-tags:
-  - bin laden
-  - politics
-  - war on extremism
----
-# 
 
-[![Bin Laden hates this car by afagen @ flickr][2]][2]
-Bin Laden hates this car by afagen @ flickr
+layout: post
+title: "OK, So He&#8217;s Gone. What Now?"
+published: true
+comments: true
+meta: true
+category: politics
+tags: ["bin laden", "politics", "war on extremism"]
+excerpt: "So I woke up this morning to the news. Obama Killed Osama. In my groggy state, I couldn't really piece together what was happening on my collated facebook and twitter streams until I saw something similar to the previous sentence. I think the first thing I cognized was a friend's facebook post: 'Osama, so 10 years ago.'"
+
+---
+
+[![Bin Laden hates this car by afagen @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/2506982921_9132061338.jpg)](http://www.flickr.com/photos/afagen/2506982921/)
 
 So I woke up this morning to the news. Obama Killed Osama. In my groggy state, I couldn’t really piece together what was happening on my collated facebook and twitter streams until I saw something similar to the previous sentence. I think the first thing I cognized was a friend’s facebook post: “Osama, so 10 years ago.”
 
- []: http://www.flickr.com/photos/afagen/2506982921/
 
 I went to NYTimes.com and saw the huge headline and the gigantic picture of the President staring at me, resolute & determined. After reading the article, and then watching my Twitter feeds more closely than usual today (which has been a busy one and not really allowed me to dig as deep into the commentary as I would like), I think my overall thought is, “Osama, so 10 years ago.”
 

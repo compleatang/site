@@ -1,30 +1,14 @@
 ---
-title: 'Posner on the HDI: (Surprisingly) A Critique'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/posner-on-the-hdi-surprisingly-a-critique
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365214124
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330445000
-st_tiny_url:
-  - 
-categories:
-  - development
+title: "Posner on the HDI: (Surprisingly) A Critique"
+published: true
+comments: true
+meta: true
+category: development
+excerpt: "Link: [The Becker-Posner Blog: The UN’s Human Development Index: A Critique–Posner][1]."
+
 ---
-# 
 
 Link: [The Becker-Posner Blog: The UN’s Human Development Index: A Critique–Posner][1].
 

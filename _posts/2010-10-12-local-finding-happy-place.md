@@ -1,51 +1,23 @@
 ---
-title: 'On Going Local: Finding Your Happy Place'
-author: Casey Kuhlman
-excerpt: 'On Going Local is a new (short) series that I’ll be running which will attempt to look at my life from an objective perspective as I transition from and NGO worker into an entrepreneur here in the developing world.  This post is about finding some personal space.'
+
 layout: post
-permalink: /entry/local-finding-happy-place
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330430068
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/wPRDEQ
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/7244099936";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365862367
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - living
-tags:
-  - going local
-  - personal space
-  - relational thinking
-  - somalia
-  - somaliland
+title: "On Going Local: Finding Your Happy Place"
+published: true
+comments: true
+meta: true
+category: living
+tags: ["going local", "personal space", "relational thinking", "somalia", "somaliland"]
+excerpt: "On Going Local is a new (short) series that I’ll be running which will attempt to look at my life from an objective perspective as I transition from and NGO worker into an entrepreneur here in the developing world.  This post is about finding some personal space."
+
 ---
-# 
 
 *On Going Local is a new (short) series that I’ll be running which will attempt to look at my life from an objective perspective as I transition from and NGO worker into an entrepreneur here in the developing world.*
 
-[![My Happy Place via Lady_k @ flickr][2]][2]
+[![My Happy Place via Lady_k @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4431206216_8eacda9a75_z.jpg)](http://www.flickr.com/photos/krista_g/4431206216/)
 Photo via Lady_k @ flickr
 
 I’ve been here in Somaliland now for around two and a half years now.  It has been a wonderful time, and I’ve enjoyed every minute of it.
 
- []: http://www.flickr.com/photos/krista_g/4431206216/
 
 There are many aspects of Somali / Somaliland society & culture that I have found it easy to adjust too.  But there are a few things which have been difficult.  Not the least of which is the six day work week.  Being an Islamic country, we take Friday off.  But that most people take off.  Going from a two day weekend to a one day weekend with shorter days throughout the six was a big adjustment and I’m not sure that I will ever fully adjust to it.
 

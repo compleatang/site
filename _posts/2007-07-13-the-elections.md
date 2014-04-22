@@ -1,30 +1,14 @@
 ---
-title: the elections
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/the-elections
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330606879
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365559733
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "the elections"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "during the first month i was in africa i did not want to leave.  i was trolling the internet trying to figure out a way that i could stay in west africa.  i looked for jobs in salone, liberia, guinea, ghana, wherever, just to stay there.  i didn’t care if they paid or not, i didn’t care if they were prestigious or not.  as time grew on and i became more and more embroiled in the work i was doing and more and more frustrated with west africa my desires waned.  at the beginning i think it was more a manifestation of my frustration with the states, nashville, law school, etc. than it was a desire to never leave africa again. "
+
 ---
-# 
 
 during the first month i was in africa i did not want to leave.  i was trolling the internet trying to figure out a way that i could stay in west africa.  i looked for jobs in salone, liberia, guinea, ghana, wherever, just to stay there.  i didn’t care if they paid or not, i didn’t care if they were prestigious or not.  as time grew on and i became more and more embroiled in the work i was doing and more and more frustrated with west africa my desires waned.  at the beginning i think it was more a manifestation of my frustration with the states, nashville, law school, etc. than it was a desire to never leave africa again.  
 

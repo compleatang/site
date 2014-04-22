@@ -1,32 +1,14 @@
 ---
-title: 'the dirtiest thing i&#8217;ve ever said'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/the-dirtiest-thing-ive-ever-said
-dsq_thread_id:
-  - 752116675
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330356560
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365563321
-st_tiny_url:
-  - 
-categories:
-  - music
+title: "the dirtiest thing i&#8217;ve ever said"
+published: true
+comments: true
+meta: true
+category: music
+excerpt: "mongo has a new poem for taylor up on the [indiefeed PP][1] podcast, you, too, can listen with wide-eyed-conspiratorial-wonder. it is funnier than usual, even for TM. mongo also said, and i have yet to verify on TM’s site, that mali will be: (1) releasing a new album this year, & (2) will be guest hosting indiefeed."
+
 ---
-# 
 
 mongo has a new poem for taylor up on the [indiefeed PP][1] podcast, you, too, can listen with wide-eyed-conspiratorial-wonder. it is funnier than usual, even for TM. mongo also said, and i have yet to verify on TM’s site, that mali will be: (1) releasing a new album this year, & (2) will be guest hosting indiefeed. 
 

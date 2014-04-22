@@ -1,30 +1,14 @@
 ---
-title: in the time of snow patrols I was a monkey
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/in-the-time-of-snow-patrols-i-was-a-monkey
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330485271
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365718120
-st_tiny_url:
-  - 
-categories:
-  - learning
+title: "in the time of snow patrols I was a monkey"
+published: true
+comments: true
+meta: true
+category: learning
+excerpt: "so returning wasn’t nearly as difficult as i thought it would be.  i just hopped in the car and left my paradices.  i might have purposefully made some subconscious hedge by going to jackson first and then leaving the west.  easing my way out of the hot tub by sitting on the side with only your feet in before you race into the house over the snow littered deck….?  not sure. "
+
 ---
-# 
 
 so returning wasn’t nearly as difficult as i thought it would be.  i just hopped in the car and left my paradices.  i might have purposefully made some subconscious hedge by going to jackson first and then leaving the west.  easing my way out of the hot tub by sitting on the side with only your feet in before you race into the house over the snow littered deck….?  not sure.  
 

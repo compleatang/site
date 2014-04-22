@@ -1,30 +1,14 @@
 ---
-title: Liberian Debt Crisis
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/liberian-debt-crisis
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365491490
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330256677
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "Liberian Debt Crisis"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: ""
+
 ---
-# 
 
 [![Bono][2]][2]Although I think that Bono’s typical analysis of third-world debt is in many cases flat and unnuanced, it is important to look at.  At least that analysis that gets reported in the press.  The LiveAid concert series was the first time I began to think actively about the topics of poverty and from my current perspective is a watershed moment.  I kept thinking, "yeah, but…" where the ellipses were filled with different theories of mixed carrots and sticks.  
 

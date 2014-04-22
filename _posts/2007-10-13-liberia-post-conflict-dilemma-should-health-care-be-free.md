@@ -1,32 +1,14 @@
 ---
-title: 'Liberia: Post-Conflict Dilemma &#8211; Should Health Care Be Free?'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/liberia-post-conflict-dilemma-should-health-care-be-free
-dsq_thread_id:
-  - 752993039
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365430672
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330436175
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "Liberia: Post-Conflict Dilemma &#8211; Should Health Care Be Free?"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "[]: http://www.worldpress.org/photo_essays/liberia/pg01.html"
+
 ---
-# 
 
 [![Im08][2]][2]  
 Liberia currently has a system of [Free Healthcare][2], funded by the World Bank.  

@@ -1,37 +1,14 @@
 ---
-title: An Homage to My Environment (aka Thanks for the Birthday Greetings)
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/an-homage-to-my-environment-aka-thanks-for-the-birthday-greetings
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365927101
-dsq_thread_id:
-  - 829084914
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330346023
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/y1JIrt
-        
-categories:
-  - africa
-  - development
-  - living
+title: "An Homage to My Environment (aka Thanks for the Birthday Greetings)"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "For those which are curious as to a H-town, birthday this is how it broke down."
+
 ---
-# 
 
 For those which are curious as to a H-town, birthday this is how it broke down. 
 

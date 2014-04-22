@@ -1,30 +1,14 @@
 ---
-title: 'Debating &amp; Afghanistan'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/debating-afghanistan
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365189202
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330393137
-st_tiny_url:
-  - 
-categories:
-  - politics
+title: "Debating &amp; Afghanistan"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "Last night I nerded out, as I am wonk to do.  Doug and I watched the entire debate in utter, wonk bliss.  The shivs were there, but both candidates kept them under the table. "
+
 ---
-# 
 
 Last night I nerded out, as I am wonk to do.  Doug and I watched the entire debate in utter, wonk bliss.  The shivs were there, but both candidates kept them under the table.  
 

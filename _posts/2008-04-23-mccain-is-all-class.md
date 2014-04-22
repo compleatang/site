@@ -1,35 +1,14 @@
 ---
-title: McCain is All Class
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/mccain-is-all-class
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365153117
-dsq_thread_id:
-  - 749275784
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/w3PdhS
-        
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1332440240
-categories:
-  - politics
+title: "McCain is All Class"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "Link: [Jonathan Martin’s Blog – Politico.com][1]."
+
 ---
-# 
 
 Link: [Jonathan Martin’s Blog – Politico.com][1].
 

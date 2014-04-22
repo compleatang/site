@@ -1,30 +1,14 @@
 ---
-title: 'Ten things you never knew&#8230;'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/ten-things-you-never-knew
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365199713
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330449814
-st_tiny_url:
-  - 
-categories:
-  - development
+title: "Ten things you never knew&#8230;"
+published: true
+comments: true
+meta: true
+category: development
+excerpt: "[]: http://caseykuhlman.typepad.com/.shared/image.html?/photos/uncategorized/2008/01/21/wfp082950.jpg"
+
 ---
-# 
 
 [![Wfp082950][2]][2]  
 Link: [Ten things you never knew about the World Food Program][2].

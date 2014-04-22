@@ -1,32 +1,14 @@
 ---
-title: explosions in the sky
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/explosions-in-the-sky
-dsq_thread_id:
-  - 766633056
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330085878
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365541736
-st_tiny_url:
-  - 
-categories:
-  - music
+title: "explosions in the sky"
+published: true
+comments: true
+meta: true
+category: music
+excerpt: "[2]: http://www.explosionsinthesky.com/home.php"
+
 ---
-# 
 
 [![I41853p0pkv][2]][2][explosions in the sky][2] is my favorite band.  luckily it looks like they are back on tour, opening for smashing pumpkins, which i think would be a good fit, although i haven’t heard the new SP album.  they are coming to nashville in november.  i’ll be there.  buy their new album – [all of a sudden i miss everyone][3].  if you have any doubts as to the beauty and brilliance, peruse its [metacritic page][4].
 

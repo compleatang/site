@@ -1,33 +1,14 @@
 ---
-title: The Real Deal
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/the-real-deal
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365138539
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330361166
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/wp25x6
-        
-categories:
-  - politics
+title: "The Real Deal"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: ""
+
 ---
-# 
 
  
 [![Bmchipsomodevillagetty][2]][2]   

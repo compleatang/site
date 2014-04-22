@@ -1,30 +1,14 @@
 ---
-title: unilateral v. multilateral humanitarian interventionism
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/unilateral-v-multilateral-humanitarian-interventionism
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330227395
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365628395
-st_tiny_url:
-  - 
-categories:
-  - law
+title: "unilateral v. multilateral humanitarian interventionism"
+published: true
+comments: true
+meta: true
+category: law
+excerpt: "I had a conversation I had with a Swiss woman who I work with about non-feasance as a basis for criminal prosecution.  I would like to proffer my philosophical ramblings about humanitarian interventionism, which is inextricably linked to non-feasance.  Obviously there are other links, to the duties in the genocide convention.  Maybe the best way to delimit the discussion is to speak solely about the Genocide convention.  I understand that without further legal research I may not have full comprehension of the *legal* bounds of the duty.  That said, I would like to explore whether humanitarian interventionism is a duty that states should impose upon states. "
+
 ---
-# 
 
 I had a conversation I had with a Swiss woman who I work with about non-feasance as a basis for criminal prosecution.  I would like to proffer my philosophical ramblings about humanitarian interventionism, which is inextricably linked to non-feasance.  Obviously there are other links, to the duties in the genocide convention.  Maybe the best way to delimit the discussion is to speak solely about the Genocide convention.  I understand that without further legal research I may not have full comprehension of the *legal* bounds of the duty.  That said, I would like to explore whether humanitarian interventionism is a duty that states should impose upon states.  
 

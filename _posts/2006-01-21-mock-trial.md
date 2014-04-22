@@ -1,30 +1,14 @@
 ---
-title: mock trial
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/mock-trial
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330437366
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365714511
-st_tiny_url:
-  - 
-categories:
-  - learning
+title: "mock trial"
+published: true
+comments: true
+meta: true
+category: learning
+excerpt: "so this weekend past we did our mock trial competition.  yale did phenomenally well.  she made it past the preliminaries and is now in the final four (she and her partner found out today). "
+
 ---
-# 
 
 so this weekend past we did our mock trial competition.  yale did phenomenally well.  she made it past the preliminaries and is now in the final four (she and her partner found out today).  
 

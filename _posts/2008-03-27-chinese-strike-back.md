@@ -1,32 +1,14 @@
 ---
-title: Chinese Strike Back
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/chinese-strike-back
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365160254
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330256839
-dsq_thread_id:
-  - 154782455
-st_tiny_url:
-  - 
-categories:
-  - television
+title: "Chinese Strike Back"
+published: true
+comments: true
+meta: true
+category: television
+excerpt: "[2]: http://www.globalvoicesonline.org/2008/03/24/china-bloggers-declare-war-on-western-medias-tibet-coverage/ 'Global Voices Online » China: Bloggers declare war on Western media’s Tibet coverage'"
+
 ---
-# 
 
 [![2355403254_b3474bb9ba][2]][2]  [Chinese Bloggers declare war on Western media’s Tibet coverage][2].
 

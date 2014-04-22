@@ -1,51 +1,22 @@
 ---
-title: 'Decoding the Somali Mind: A Guide for Expats (Anecdotal, Not Definitive Version): Responsibility'
-author: Casey Kuhlman
-excerpt: 'This is a new series containing a few stories which have stood out in my time here in Somaliland and have helped me to understand a bit more a culture that in many ways is very different from my own, but in many ways is not. This series explores those differences.  This entry is about relationships in Somaliland.'
+
 layout: post
-permalink: >
-  /entry/decoding-somali-mind-guide-expats-anecdotal-definitive-version-responsibility
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/y6KkuG
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/7185984596";s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365855205
-st_cached_time:
-  - 1330081415
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - otherwise
-tags:
-  - relational thinking
-  - somalila
-  - somaliland
-  - understanding somalis
+title: "Decoding the Somali Mind: A Guide for Expats (Anecdotal, Not Definitive Version): Responsibility"
+published: true
+comments: true
+meta: true
+category: otherwise
+tags: ["relational thinking", "somalila", "somaliland", "understanding somalis"]
+excerpt: "This is a new series containing a few stories which have stood out in my time here in Somaliland and have helped me to understand a bit more a culture that in many ways is very different from my own, but in many ways is not. This series explores those differences.  This entry is about relationships in Somaliland."
+
 ---
-# 
 
 *This is a new series containing a few stories which have stood out in my time here in Somaliland and have helped me to understand a bit more a culture that in many ways is very different from my own, but in many ways is not. This series explores those differences.*
 
-[![Responsibility via PaDumBumPsh @ flickr][2]][2]
-Responsibility via PaDumBumPsh @ flickr
+[![Responsibility via PaDumBumPsh @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/4586821590_6000f395c6.jpg)](http://www.flickr.com/photos/36498826@N02/4586821590/)
 
 I generally prefer to point out the similarities between disparate people.  I enjoy very much the common humanity aspects about my life.  But I equally enjoy learning about the differences.  This post contains more of the latter than the former.
 
- []: http://www.flickr.com/photos/36498826@N02/4586821590/
 
 I’m American and we are taught from a young age that a major part of being an American means that you are individualistic.  Our pop culture and education system celebrate individuality and the human against the odds above many other cultural memes.  Most of the people that have immigrated to America over the years have come to chase something that was related to individual efforts.  Those of us who descend from those who immigrated we have it both from nature and from nurture.
 

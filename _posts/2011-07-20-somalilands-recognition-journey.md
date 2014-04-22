@@ -1,51 +1,20 @@
 ---
-title: 'What Does it Mean to be Independent: Somaliland&#8217;s Recognition Journey'
-author: Casey Kuhlman
-excerpt: "After having been in Somaliland, one of the world's most advanced unrecognized countries, for well over three years I have thought much about what it means to be a state, to have your independence, to maintain your sovereignty and many related issues. In this post, I try to parse the differences between Somaliland, South Sudan and the Libyan Rebels."
+
 layout: post
-permalink: /entry/somalilands-recognition-journey
-dsq_thread_id:
-  - 587625180
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/xFAa72
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/5817324330";s:9:"url_count";i:1;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365826110
-st_cached_time:
-  - 1330081193
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - somaliland/somalia
-tags:
-  - country
-  - independence
-  - recognition
-  - somaliland
-  - sovereignty
+title: "What Does it Mean to be Independent: Somaliland&#8217;s Recognition Journey"
+published: true
+comments: true
+meta: true
+category: somaliland/somalia
+tags: ["country", "independence", "recognition", "somaliland", "sovereignty"]
+excerpt: "After having been in Somaliland, one of the world's most advanced unrecognized countries, for well over three years I have thought much about what it means to be a state, to have your independence, to maintain your sovereignty and many related issues. In this post, I try to parse the differences between Somaliland, South Sudan and the Libyan Rebels."
+
 ---
-# 
 
 [![A Bright Spot in a Dreary Neighborhood][2]][2]
-A Bright Spot in a Dreary Neighborhood
 
 After having been in Somaliland, one of the world’s most advanced unrecognized countries, for well over three years I have thought much about what it means to be a state, to have your independence, to maintain your sovereignty and many related issues.
 
- []: http://www.flickr.com/photos/watershedlegal/5080718348/in/photostream
 
 In short, Somaliland’s history breaks down like this. Somaliland (now) was known before as British Somaliland and as any astute reader may be able to understand from the glaring connotations it was a British colony. What is now the rest of Somalia (known together as Puntland and South-Central for those of us who work on and/or live in the territory of the former Republic of Somalia) was at the same time known as Italian Somaliland. In 1960 when independence movements were sweeping the world (in the US we just called them the civil rights movements, in Africa they were “real” independence movements), Both of the former colonies received their independence within 5 days of each other in the summer of 1960. British Somaliland was a stand-alone entity for five days, afterward it formed a union with the former Italian colony based upon the notion that all five of the Somali areas (modern-day Djibouti, eastern Ethiopia, Somaliland, the former Italian colony, and the North-Eastern part of Kenya) would unite to form a republic for the Somali people.
 

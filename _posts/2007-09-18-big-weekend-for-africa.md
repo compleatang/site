@@ -1,31 +1,14 @@
 ---
-title: Big Weekend for Africa
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/big-weekend-for-africa
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365502175
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330283796
-st_tiny_url:
-  - 
-categories:
-  - africa
-  - politics
+title: "Big Weekend for Africa"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "[2]: http://www.nytimes.com/aponline/world/AP-Sierra-Leone-Election.html"
+
 ---
-# 
 
 [![17sierra600][2]][2]This was a big weekend in the news for two African countries that rarely get much press.  Yesterday NYTimes led with [the results][2] of the [Salone election][3].  Ernest Koroma, the opposition leader won.  Talked to Highlands yesterday, who is in Salone.  She said they had a few minutes heads up that the election results were going to be announced and they went outside.  She said as soon  as they announced it there was a roar from the streets of Freetown which descended into a party that I wish I could have seen!  Not sure how much Koroma will really be able to do, but in Salone simply the illusion of hope is more than they often have.  So I’m happy, happy that they’re happy.  One of the best things that I’ve seen, substantively, is that Koroma is going to focus his economic policies to develop agriculture (Salone used to be a net exporter of rice and is now a net importer b/c of cheap asian rice) and tourism (we talked about it so much, a few million dollars and the peninsula around Freetown could be a flipping paradise, when combined with efficient flights down from London could bring tons of Brits and other Anglophones down).  This is exactly where I think the domestic economy should go, but, again, i know very little.
 

@@ -1,30 +1,14 @@
 ---
-title: its like an allergy
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/its-like-an-allergy
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330489690
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365714510
-st_tiny_url:
-  - 
-categories:
-  - politics
+title: "its like an allergy"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "so i think that i was born like 5 years too early.  this is different than my usual time shifting desires where i think that i was born either fifty or twenty years too late.  but any way back to my rant of the day.  i think that i was born like 5 years too early. "
+
 ---
-# 
 
 so i think that i was born like 5 years too early.  this is different than my usual time shifting desires where i think that i was born either fifty or twenty years too late.  but any way back to my rant of the day.  i think that i was born like 5 years too early.  
 

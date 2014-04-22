@@ -1,48 +1,21 @@
 ---
-title: 'Understanding the Somaliland Elections (1 of 3): Background'
-author: Casey Kuhlman
-excerpt: 'Today Somaliland is holding its Presidential elections.  To understand the significance of this event, one must understand the road that it has taken the Somalilanders to get to this point.  This election has been delayed for over two years.  This entry contains a small background on that time.  '
+
 layout: post
-permalink: /entry/understanding-somaliland-elections-1-3-background
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365869644
-dsq_thread_id:
-  - 795176724
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/AfRc9R
-        
-wordbooker_options:
-  - 'a:12:{s:18:"wordbook_noncename";s:10:"484fa02b9f";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:19:"wordbook_thumb_only";s:2:"on";s:20:"wordbook_use_excerpt";s:2:"on";s:18:"wordbook_attribute";s:32:"New on UDB.net: %title% - %link%";s:29:"wordbooker_status_update_text";s:32:"New on UDB.net: %title% - %link%";s:20:"wordbook_comment_get";s:2:"on";}'
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330170320
-categories:
-  - somaliland/somalia
-tags:
-  - election
-  - somaliland
+title: "Understanding the Somaliland Elections (1 of 3): Background"
+published: true
+comments: true
+meta: true
+category: somaliland/somalia
+tags: ["election", "somaliland"]
+excerpt: "Today Somaliland is holding its Presidential elections.  To understand the significance of this event, one must understand the road that it has taken the Somalilanders to get to this point.  This election has been delayed for over two years.  This entry contains a small background on that time."
+
 ---
-# 
 
 [![Somaliland Victory Monument  by Somaliland247 @flickr][2]][2]
 Somaliland Victory Monument by Somaliland247 @flickr
 
 Today Somaliland is holding its Presidential elections.  To understand the significance of this event, one must understand the road that it has taken the Somalilanders to get to this point.  This election has been delayed for over two years.  This entry contains a small background on that time.
 
- []: http://www.flickr.com/photos/somaliland247/4722727466/in/photostream/
 
 The Presidential elections were originally scheduled for August, 2008.  In April 2008, the Council of Elders – Somaliland’s upper house of Parliament (the Guurti) – extended the term of the President until April 6, 2009.  In April 2008, the NEC released a press statement indicating that the elections would take place as originally scheduled and that the Guurti did not have the authority to unilaterally delay the timeline for the elections as the original timeline had been agreed to by all political parties and the House of Representatives.
 

@@ -1,30 +1,14 @@
 ---
-title: Isle de HOLY Crap
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/isle-de-holy-crap
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330378704
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365592121
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "Isle de HOLY Crap"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: ""
+
 ---
-# 
 
 [![Imgp1749][2]][2] So there were two themes that I wanted to clean-up from the Senegal trip.  The first is this little artist community that exists on Isle de Goree a thirty minute ferry ride from Dakaar.  The second will come later. 
 

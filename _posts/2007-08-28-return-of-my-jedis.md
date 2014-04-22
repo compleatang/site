@@ -1,30 +1,14 @@
 ---
-title: return of my jedis
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/return-of-my-jedis
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1332885260
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365523860
-st_tiny_url:
-  - 
-categories:
-  - living
+title: "return of my jedis"
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "am back in nashville.  i don’t hate it as much as i thought i was going to.  right now.  arrived in the states a week ago today after three straight weeks of torrid traveling that took me to grand places with two of my favorite people in the world.  that was good.  many stories which will not get published here as i am now out of time. "
+
 ---
-# 
 
 am back in nashville.  i don’t hate it as much as i thought i was going to.  right now.  arrived in the states a week ago today after three straight weeks of torrid traveling that took me to grand places with two of my favorite people in the world.  that was good.  many stories which will not get published here as i am now out of time.  
 

@@ -3,14 +3,18 @@
 # ----------------------- #
 
 name:        underWater desert Blogging
-# url:         http://blog.caseykuhlman.com
-url:         /
-author:      
+# url:         /
+url:         "https://blog.caseykuhlman.com"
+description: "Processes and Thoughts on Lots of Matters"
+author:
   name:    Casey Kuhlman
-  email:   caseykuhlman@gmail.com
+  email:   caseykuhlman@watershedlegal.com
   github:  compleatang
+  tumblr:  compleatang
   twitter: compleatang
-exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile"]
+  lastfm:  compleatang
+  googleplus: CaseyKuhlman1976
+exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile", "_drats"]
 
 subscribe_rss:  ./rss.xml
 subscribe_atom: ./atom.xml
@@ -21,14 +25,15 @@ rss_path:       ./rss.xml
 #    Jekyll & Plugins     #
 # ----------------------- #
 
-root:            "home/coda/sites/csk/udb/_site/"
-# root:            /
+# root:            "home/coda/sites/csk/udb/_site/htdocs/"
+root:            /
+destination:     "_site/htdocs"
 permalink:       "entries/:year/:title.html"
 safe:            true
 lsi:             false
 pygments:        true
 paginate:        10
-markdown:        maruku
+markdown:        redcarpet
 categories_path: "categories.html"
 excerpt_link:    "Read more &rarr;"
 titlecase:       true
@@ -37,9 +42,9 @@ titlecase:       true
 #      Personalized       #
 # ----------------------- #
 
-images_dir:  "assets/images"
-scripts_dir: "assets/scripts"
-styles_dir:  "assets/styles"
+images_dir:  "/assets/images"
+scripts_dir: "/assets/scripts"
+styles_dir:  "/assets/styles"
 
 
 # ----------------------- #
@@ -57,5 +62,14 @@ comments :
 
 analytics :
   provider : getclicky
-  getclicky : 
+  getclicky :
     site_id : 66416567
+
+# ----------------------- #
+#         Feeds           #
+# ----------------------- #
+
+feeds:
+  provider: feedburner
+  feedburner:
+    rss_feed: "caseykuhlman"

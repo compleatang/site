@@ -1,30 +1,14 @@
 ---
-title: cultural shorthand
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/cultural-shorthand
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330480017
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365678876
-st_tiny_url:
-  - 
-categories:
-  - living
+title: "cultural shorthand"
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "so cam, ern, bri and i often use the word gaper.  well that is how i spell it.  it is the verbial noun of 'to gape,' and we therefore pronounce it 'GAY-per.'  not 'ga-per.'"
+
 ---
-# 
 
 so cam, ern, bri and i often use the word gaper.  well that is how i spell it.  it is the verbial noun of "to gape," and we therefore pronounce it "GAY-per."  not "ga-per." 
 

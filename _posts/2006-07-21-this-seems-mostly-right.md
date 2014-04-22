@@ -1,30 +1,14 @@
 ---
-title: this seems (mostly) right
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/this-seems-mostly-right
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330354355
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365667742
-st_tiny_url:
-  - 
-categories:
-  - politics
+title: "this seems (mostly) right"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "most of you know where i want to go with my career.  this has been cemented over the course of the summer and my participation in both meaningless and meaningful litigation and policy development here in the US.  my platform: assisting developing countries in pulling themselves out of poverty without mortgaging their environments to do so."
+
 ---
-# 
 
 most of you know where i want to go with my career.  this has been cemented over the course of the summer and my participation in both meaningless and meaningful litigation and policy development here in the US.  my platform: assisting developing countries in pulling themselves out of poverty without mortgaging their environments to do so.
 

@@ -1,30 +1,14 @@
 ---
-title: transportation
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/transportation
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365585133
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330345965
-st_tiny_url:
-  - 
-categories:
-  - development
+title: "transportation"
+published: true
+comments: true
+meta: true
+category: development
+excerpt: "nobody rides bikes here.  i think it is b/c the roads are crap. one of the first things that people tell me upon returning from liberia is that it 'feels like america' and then they justify this comment by talking about wide roads, good transportation and a grid system.  now, i’m not an urban planner, but i can tell you that freetown may just be the worst designed city i’ve ever lived in, save for parts of D.C. "
+
 ---
-# 
 
 nobody rides bikes here.  i think it is b/c the roads are crap. one of the first things that people tell me upon returning from liberia is that it "feels like america" and then they justify this comment by talking about wide roads, good transportation and a grid system.  now, i’m not an urban planner, but i can tell you that freetown may just be the worst designed city i’ve ever lived in, save for parts of D.C.  
 

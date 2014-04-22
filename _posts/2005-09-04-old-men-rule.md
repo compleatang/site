@@ -1,30 +1,14 @@
 ---
-title: Old Men Rule?
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/old-men-rule
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330372838
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365750531
-st_tiny_url:
-  - 
-categories:
-  - learning
+title: "Old Men Rule?"
+published: true
+comments: true
+meta: true
+category: learning
+excerpt: "Rule #2 is Old Men Rule.  I have a shirt that says as much on it.  Yes, in those words.  I gaurantee you’ve seen it.  There is an interesting duality when I where it to school those as most people now know that I’m older than them."
+
 ---
-# 
 
 Rule #2 is Old Men Rule.  I have a shirt that says as much on it.  Yes, in those words.  I gaurantee you’ve seen it.  There is an interesting duality when I where it to school those as most people now know that I’m older than them.
 

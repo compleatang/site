@@ -1,4 +1,4 @@
-<div class="entry-meta">
+  <div class="entry-meta">
   {% if page.meta %}
     <p class="entry-info">
       {% if site.author.name %}
@@ -10,7 +10,7 @@
       {% capture category %}{{ page.categories | category_links | size }}{% endcapture %}
       {% unless category == '0' %}
         <span class="categories">
-          <a href="{{ site.url }}{{ site.root }}{{ site.categories_path }}#{{ category[0] }}-ref">{{ page.categories | category_links }}</a>
+          <a href="{{ site.url }}{{ site.root }}{{ site.categories_path }}#{{ page.categories }}-ref">{{ page.categories }}</a>
         </span>
       {% endunless %}
     </p>

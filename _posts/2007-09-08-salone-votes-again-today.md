@@ -1,32 +1,14 @@
 ---
-title: Salone votes (again) today
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/salone-votes-again-today
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365517568
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330186648
-dsq_thread_id:
-  - 933696511
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "Salone votes (again) today"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "[]: http://caseykuhlman.typepad.com/.shared/image.html?/photos/uncategorized/2007/09/08/_1988075_ap_amputee300.jpg"
+
 ---
-# 
 
 [![_1988075_ap_amputee300][2]][2]  
 I’m very nervous, but hopeful.  It is now 1830 in Freetown/Salone and BBC has not (yet) reported of any violence.  This isn’t terribly surprising to me.  I think if violence gets propagated it will be by whoever loses this run-off, which will not be known for a while.  

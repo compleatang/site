@@ -1,30 +1,14 @@
 ---
-title: The real deal?
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/the-real-deal-2
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330506982
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365632104
-st_tiny_url:
-  - 
-categories:
-  - politics
+title: "The real deal?"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "[The real deal?][1] is an article that addresses real or percieved gaps in the current debate on climate change.  I agree heartily that there are gaps. "
+
 ---
-# 
 
 [The real deal?][1] is an article that addresses real or percieved gaps in the current debate on climate change.  I agree heartily that there are gaps.  
 
@@ -38,4 +22,3 @@ there are various ways that, on its face, this one scientists’ arguments implo
 i agree that there is a gap in the media’s propoganda machine. but gaps are inevitable. they will exist no matter the issue. the only way to fix that from a policy perspective is transparency (something that cam and I are basing much of our ethos on). there has been, to date, a lack of transparency in the government as to why nothing has been done. because of this lack of governmental/political debate we are left to propoganda from whatever side one must swing on. if inaction is the proper action (which i categorically deny that it is correct here, but in other situations inaction may be more efficient/equitable), then the populace needs to be convinced by the government that failed to act as to why they chose inaction. this is the feedback loop that i think only partially exists.
 
 ~ # ~
-

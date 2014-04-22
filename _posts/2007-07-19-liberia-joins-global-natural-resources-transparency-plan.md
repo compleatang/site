@@ -1,33 +1,14 @@
 ---
-title: Liberia Joins Global Natural Resources Transparency Plan
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/liberia-joins-global-natural-resources-transparency-plan
-dsq_thread_id:
-  - 752116606
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365545823
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330429467
-st_tiny_url:
-  - 
-categories:
-  - africa
-  - politics
+title: "Liberia Joins Global Natural Resources Transparency Plan"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "[]: http://caseykuhlman.typepad.com/.shared/image.html?/photos/uncategorized/2007/07/19/ellenjohnsonsirleaf.jpg"
+
 ---
-# 
 
 [![Ellenjohnsonsirleaf][2]][2]  
 I was skeptical of ole’ Ellen at the beginning.  I’m beginning to come around.  Most people [that I talked to][2] on the streets of Monrovia were huge EJS fans.  I mean massively supportive of [her motherliness][3], [her toughness][4] (she was actually aligned with Taylor at the beginning of the conflict according to [Steven Ellis][5]‘ book), [her statesmanship][6], and [her overall good governance focus][7].  

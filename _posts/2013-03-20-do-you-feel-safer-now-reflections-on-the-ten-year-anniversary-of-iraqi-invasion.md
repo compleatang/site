@@ -1,22 +1,20 @@
 ---
-title: 'Do You Feel Safer Now: Reflections on the Ten Year Anniversary of Iraqi Invasion'
-author: Casey Kuhlman
-excerpt: 
-    We are looking at ten years since America invaded. Here are my thoughts on that
-    topic.
+
 layout: post
+title: "Do You Feel Safer Now: Reflections on the Ten Year Anniversary of Iraqi Invasion"
+published: true
+comments: true
+meta: true
 category: living
-tags:
-  - conflict v. peace
-  - iraq
-  - life
+tags: ["conflict v. peace", "iraq", "life"]
+excerpt: "We are looking at ten years since America invaded. Here are my thoughts on that  topic."
+
 ---
 
-[![Peace or V for Victory by yater @ flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/2013/237347393_5b0a2f1121_z.jpg "Peace or V for Victory by yater @ flickr")][pict1]
+<p><a href="http://www.flickr.com/photos/yatesaustin/237347393"><img src="http://blog.caseykuhlman.com/assets/images/2013/237347393_5b0a2f1121_z.jpg" alt="Peace or V for Victory by yater @ flickr" tit="Peace or V for Victory by yater @ flickr" /></a></p>
 
 On a day, of which the tenth anniversary is fast approaching, I was standing on a roundabout watching a bunch of people I knew and a machine I was familiar with rip down a statute. It was a day seared into my memory as I was thoroughly convinced that I was in the midst of an iconic moment. In some ways that belief was correct. Only it was just not the type of icon I was thinking it would be.
 
-[pict1]: http://www.flickr.com/photos/yatesaustin/237347393/
 
 ## Baghdad, Early, 2003
 
@@ -52,72 +50,72 @@ Yet there’s another, more important, reason that I abhor that phrase.
 
 We had a tradition in our Naval Reserve Officer’s Training Corp (ROTC) group that on the last Thursday before anyone graduated they had an opportunity to take the floor. Most used it as a way to proffer vapid “advice” on matters of which they knew not or to provide idiotic thank yous to people they would never see again and perhaps neither liked nor respected. That all seemed quite stupid to my 23 year old self. When my turn came, after some of my best and greatest friends had their chance to say what they felt appropriate to say, I stood up and recited the following.
 
-> John Brown went off to war to fight on a foreign shore  
-> His mama sure was proud of him!  
-> He stood straight and tall in his uniform and all  
+> John Brown went off to war to fight on a foreign shore
+> His mama sure was proud of him!
+> He stood straight and tall in his uniform and all
 > His mama’s face broke out all in a grin
-> 
-> “Oh son, you look so fine, I’m glad you’re a son of mine  
-> You make me proud to know you hold a gun  
-> Do what the captain says, lots of medals you will get  
+>
+> “Oh son, you look so fine, I’m glad you’re a son of mine
+> You make me proud to know you hold a gun
+> Do what the captain says, lots of medals you will get
 > And we’ll put them on the wall when you come home”
-> 
-> As that old train pulled out, John’s ma began to shout  
-> Tellin’ ev’ryone in the neighborhood:  
-> “That’s my son that’s about to go, he’s a soldier now, you know”  
+>
+> As that old train pulled out, John’s ma began to shout
+> Tellin’ ev’ryone in the neighborhood:
+> “That’s my son that’s about to go, he’s a soldier now, you know”
 > She made well sure her neighbors understood
-> 
-> She got a letter once in a while and her face broke into a smile  
-> As she showed them to the people from next door  
-> And she bragged about her son with his uniform and gun  
+>
+> She got a letter once in a while and her face broke into a smile
+> As she showed them to the people from next door
+> And she bragged about her son with his uniform and gun
 > And these things you called a good old-fashioned war
-> 
+>
 > Oh! Good old-fashioned war!
-> 
-> Then the letters ceased to come, for a long time they did not come  
-> They ceased to come for about ten months or more  
-> Then a letter finally came saying, “Go down and meet the train  
+>
+> Then the letters ceased to come, for a long time they did not come
+> They ceased to come for about ten months or more
+> Then a letter finally came saying, “Go down and meet the train
 > Your son’s a-coming home from the war”
-> 
-> She smiled and went right down, she looked everywhere around  
-> But she could not see her soldier son in sight  
-> But as all the people passed, she saw her son at last  
+>
+> She smiled and went right down, she looked everywhere around
+> But she could not see her soldier son in sight
+> But as all the people passed, she saw her son at last
 > When she did she could hardly believe her eyes
-> 
-> Oh his face was all shot up and his hand was all blown off  
-> And he wore a metal brace around his waist  
-> He whispered kind of slow, in a voice she did not know  
+>
+> Oh his face was all shot up and his hand was all blown off
+> And he wore a metal brace around his waist
+> He whispered kind of slow, in a voice she did not know
 > While she couldn’t even recognize his face!
-> 
+>
 > Oh! Lord! Not even recognize his face
-> 
-> “Oh tell me, my darling son, pray tell me what they done  
-> How is it you come to be this way?”  
-> He tried his best to talk but his mouth could hardly move  
+>
+> “Oh tell me, my darling son, pray tell me what they done
+> How is it you come to be this way?”
+> He tried his best to talk but his mouth could hardly move
 > And the mother had to turn her face away
-> 
-> “Don’t you remember, Ma, when I went off to war  
-> You thought it was the best thing I could do?  
-> I was on the battleground, you were home . . . acting proud  
+>
+> “Don’t you remember, Ma, when I went off to war
+> You thought it was the best thing I could do?
+> I was on the battleground, you were home . . . acting proud
 > You wasn’t there standing in my shoes”
-> 
-> “Oh, and I thought when I was there, God, what am I doing here?  
-> I’m a-tryin’ to kill somebody or die tryin’  
-> But the thing that scared me most was when my enemy came close  
+>
+> “Oh, and I thought when I was there, God, what am I doing here?
+> I’m a-tryin’ to kill somebody or die tryin’
+> But the thing that scared me most was when my enemy came close
 > And I saw that his face looked just like mine”
-> 
+>
 > Oh! Lord! Just like mine!
-> 
-> “And I couldn’t help but think, through the thunder rolling and stink  
-> That I was just a puppet in a play  
-> And through the roar and smoke, this string is finally broke  
+>
+> “And I couldn’t help but think, through the thunder rolling and stink
+> That I was just a puppet in a play
+> And through the roar and smoke, this string is finally broke
 > And a cannonball blew my eyes away”
-> 
-> As he turned away to walk, his Ma was still in shock  
-> At seein’ the metal brace that helped him stand  
-> But as he turned to go, he called his mother close  
+>
+> As he turned away to walk, his Ma was still in shock
+> At seein’ the metal brace that helped him stand
+> But as he turned to go, he called his mother close
 > And he dropped his medals down into her hand
-> 
+>
 > ~ John Brown by Bob Dylan (lyrics available [here][2]).
 
  [2]: http://www.bobdylan.com/us/songs/john-brown#ixzz2O6Kzjo5a "Bob Dylan - John Brown"

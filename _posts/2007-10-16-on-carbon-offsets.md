@@ -1,30 +1,14 @@
 ---
-title: On carbon offsets
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/on-carbon-offsets
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365426524
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330383907
-st_tiny_url:
-  - 
-categories:
-  - environment
+title: "On carbon offsets"
+published: true
+comments: true
+meta: true
+category: environment
+excerpt: "[On carbon offsets][1].  This is a hot topic and one that is growing.  The simple solution is a carbon exchange that is modelled on a social justice model.  Basically a domestic, small-scale implementations of the Clean-Development Mechanisms embodied in the [Kyoto Protocol][2].  The theory is that the rich nations help the poor because of the intertwined nature of humanity.  The principle of technology transfer and that the rich pay is embodied in most international environmental treaties, but was interesting in the Kyoto schema in that offsets that assist the development of an emerging market or under-developed country may be applied to the quota for the developed country that pays.  It is a nice integration of standard liberalist philosophy.  I like it when there is overlap.  I am not sure what the economists may say about these mechanisms, but I certainly like them."
+
 ---
-# 
 
 [On carbon offsets][1].  This is a hot topic and one that is growing.  The simple solution is a carbon exchange that is modelled on a social justice model.  Basically a domestic, small-scale implementations of the Clean-Development Mechanisms embodied in the [Kyoto Protocol][2].  The theory is that the rich nations help the poor because of the intertwined nature of humanity.  The principle of technology transfer and that the rich pay is embodied in most international environmental treaties, but was interesting in the Kyoto schema in that offsets that assist the development of an emerging market or under-developed country may be applied to the quota for the developed country that pays.  It is a nice integration of standard liberalist philosophy.  I like it when there is overlap.  I am not sure what the economists may say about these mechanisms, but I certainly like them. 
 

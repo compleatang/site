@@ -1,30 +1,14 @@
 ---
-title: Admission of Evidence in International Courts
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/admission-of-evidence-in-international-courts
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365418705
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330199149
-st_tiny_url:
-  - 
-categories:
-  - law
+title: "Admission of Evidence in International Courts"
+published: true
+comments: true
+meta: true
+category: law
+excerpt: "[]: http://sudanwatch.blogspot.com/"
+
 ---
-# 
 
 [![11522034_744a83cbd8][2]][2]  
 So, have commented on a blog besides my own for the first time.  

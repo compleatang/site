@@ -1,33 +1,14 @@
 ---
-title: Building (in) a Developing Country
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/building-in-a-developing-country
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365952586
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330263585
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/xAjqm6
-        
-categories:
-  - living
+title: "Building (in) a Developing Country"
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "We had an epic rainstorm last night.  I had been waiting for one since we’ve moved into our compound as I was concerned about the drainage systems.  The soils here are the sandy clay stuff and because the clay makes the water not permeate the soils and because the sand makes the water flow easily, I was worried about what was happening whenever it rains.  We do a lot of gardening and are trying to keep our compound as green as possible here in the high desert."
+
 ---
-# 
 
 We had an epic rainstorm last night.  I had been waiting for one since we’ve moved into our compound as I was concerned about the drainage systems.  The soils here are the sandy clay stuff and because the clay makes the water not permeate the soils and because the sand makes the water flow easily, I was worried about what was happening whenever it rains.  We do a lot of gardening and are trying to keep our compound as green as possible here in the high desert.
 

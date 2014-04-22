@@ -1,30 +1,14 @@
 ---
-title: to plant a tree
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/to-plant-a-tree
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330511955
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365646615
-st_tiny_url:
-  - 
-categories:
-  - politics
+title: "to plant a tree"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "the african environmental advocate who is the only african female nobel laureate is now starting a program to plant a billion trees world wide.  advantages: soil stability, carbon sequestration, jobs, beauty."
+
 ---
-# 
 
 the african environmental advocate who is the only african female nobel laureate is now starting a program to plant a billion trees world wide.  advantages: soil stability, carbon sequestration, jobs, beauty.
 

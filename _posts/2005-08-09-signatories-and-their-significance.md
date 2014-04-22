@@ -1,30 +1,14 @@
 ---
-title: Signatories and Their Significance
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/signatories-and-their-significance
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330506288
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365761768
-st_tiny_url:
-  - 
-categories:
-  - living
+title: "Signatories and Their Significance"
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "finished kundera tonight, but it will stay on the list as i’m going to reread it through.  it was fucking intense.  it was my favorite book that i’ve read in the past three years, easily."
+
 ---
-# 
 
 finished kundera tonight, but it will stay on the list as i’m going to reread it through.  it was fucking intense.  it was my favorite book that i’ve read in the past three years, easily.
 

@@ -1,30 +1,14 @@
 ---
-title: from the land where day dreams realize
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/from-the-land-where-day-dreams-realize
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330422334
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365642673
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_tiny_url:
-  - 
-categories:
-  - development
+title: "from the land where day dreams realize"
+published: true
+comments: true
+meta: true
+category: development
+excerpt: "finally, after six weeks of punting, i had my phone conversation/interview with the developing firm i’ve been pursuing like a fat girl who hasn’t gotten laid in months chases…..well, a twinkie."
+
 ---
-# 
 
 finally, after six weeks of punting, i had my phone conversation/interview with the developing firm i’ve been pursuing like a fat girl who hasn’t gotten laid in months chases…..well, a twinkie.
 

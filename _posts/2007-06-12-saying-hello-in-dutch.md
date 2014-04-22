@@ -1,30 +1,14 @@
 ---
-title: saying hello in dutch
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/saying-hello-in-dutch
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1332440293
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365570535
-st_tiny_url:
-  - 
-categories:
-  - travel
+title: "saying hello in dutch"
+published: true
+comments: true
+meta: true
+category: travel
+excerpt: "have arrived in the cloudy hague.  there are bikes and cold and mexican food and the highlands. "
+
 ---
-# 
 
 have arrived in the cloudy hague.  there are bikes and cold and mexican food and the highlands.  
 

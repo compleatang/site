@@ -1,23 +1,15 @@
 ---
-title: 'My Unreasonable Optimism and Why John Dickerson&#8217;s (@jdickerson) Series Should Matter'
-author: Casey Kuhlman
+
 layout: post
-permalink: >
-  /entry/my-unreasonable-optimism-and-why-john-dickersons-jdickerson-series-should-matter
-dsq_thread_id:
-  - 873945551
-st_cached:
-  - '<ul class="socialize-this"><li><a href="" target="_blank" title="Upvote on Reddit" class="reddit cuteset">Upvote</a></li><li><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fblog.caseykuhlman.com%2Fentry%2Fmy-unreasonable-optimism-and-why-john-dickersons-jdickerson-series-should-matter&t=My+Unreasonable+Optimism+and+Why+John+Dickerson%27s+%28%40jdickerson%29+Series+Should+Matter" target="_blank" title="Share on Facebook" class="facebook cuteset">Share</a></li><li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblog.caseykuhlman.com%2Fentry%2Fmy-unreasonable-optimism-and-why-john-dickersons-jdickerson-series-should-matter&title=My+Unreasonable+Optimism+and+Why+John+Dickerson%27s+%28%40jdickerson%29+Series+Should+Matter" target="_blank" title="Upvote on StumbleUpon" class="stumbleupon cuteset">Upvote</a></li><li><a href="http://twitter.com/home?status=Currently Reading http%3A%2F%2Fblog.caseykuhlman.com%2Fentry%2Fmy-unreasonable-optimism-and-why-john-dickersons-jdickerson-series-should-matter"  target="_blank" title="Retweet on Twitter" class="twitter cuteset">Tweet</a></li></ul>'
-st_cached_time:
-  - 1358211380
-categories:
-  - politics
-tags:
-  - campaigns
-  - debate
-  - politics
+title: "My Unreasonable Optimism and Why John Dickerson&#8217;s (@jdickerson) Series Should Matter"
+published: true
+comments: true
+meta: true
+category: politics
+tags: ["campaigns", "debate", "politics"]
+excerpt: "My Dad and I have this ongoing debate about campaigns. It has been ongoing for four years that I can remember but perhaps longer. It revolves around the forthrightness of campaigns to speak to the electorate logically, with courage, and while keeping within the bounds of logic and reasonableness. Instead of what I desperately want campaigns to do they do the opposite, spiraling into ever more irrelevant crap. Gaffes and ah ha’s are fun and interesting political theater but that is all it is. Theater. Theater is a farce. And we must stop hiring representatives to govern us based on a farcical audition system. This I have felt deeply for a long time. It colors most of my political worldview, rightly or wrongly."
+
 ---
-# 
 
 My Dad and I have this ongoing debate about campaigns. It has been ongoing for four years that I can remember but perhaps longer. It revolves around the forthrightness of campaigns to speak to the electorate logically, with courage, and while keeping within the bounds of logic and reasonableness. Instead of what I desperately want campaigns to do they do the opposite, spiraling into ever more irrelevant crap. Gaffes and ah ha’s are fun and interesting political theater but that is all it is. Theater. Theater is a farce. And we must stop hiring representatives to govern us based on a farcical audition system. This I have felt deeply for a long time. It colors most of my political worldview, rightly or wrongly.
 

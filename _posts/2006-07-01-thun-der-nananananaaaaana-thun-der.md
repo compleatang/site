@@ -1,30 +1,14 @@
 ---
-title: 'thun-der. nananananaaaaana.  thun-der'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/thun-der-nananananaaaaana-thun-der
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330453830
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365675338
-st_tiny_url:
-  - 
-categories:
-  - music
+title: "thun-der. nananananaaaaana.  thun-der"
+published: true
+comments: true
+meta: true
+category: music
+excerpt: "[]: http://www.hellsbelles.info/"
+
 ---
-# 
 
 [![Hb1sm_1][2]][2]  
 last night i went to THIS.  i flashed back to driving to the keys for one of my first times with all the windows down and gb with me.  i was screaming ac/dc at the top of my lungs.  she was laughing her ass off.  

@@ -1,32 +1,14 @@
 ---
-title: 'Beaches &amp; Hospitals'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/beaches-hospitals
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330470321
-dsq_thread_id:
-  - 822010641
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365617513
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "Beaches &amp; Hospitals"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "[ ![Imgp1261_edited1][2]][2] This series of pictures is from the beach this weekend.  For a long time I have considered the statement: it has the best beaches in the world, or at least in"
+
 ---
-# 
 
 [ ![Imgp1261_edited1][2]][2] This series of pictures is from the beach this weekend.  For a long time I have considered the statement: it has the best beaches in the world, or at least in 
 Africa

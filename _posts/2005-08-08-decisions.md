@@ -1,30 +1,14 @@
 ---
-title: Decisions
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/decisions
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330472088
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365761769
-st_tiny_url:
-  - 
-categories:
-  - living
+title: "Decisions"
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "everyone around me suddenly appears to be suspect.  like they have morphed from being just humans, to having some sort of alien aura about them.  like i put on a magic pair of sun glasses and can see that they are all out to get me.  but i’m not paranoid about it, merely concerned.  and so i just don’t talk to them.  i just stifle it all and let it settle into a ball of goo in the lower regions of my stomach.  let it cause ulcers or maybe hemmeroids.  and then what?  what the fuck happens after?  not sure."
+
 ---
-# 
 
 everyone around me suddenly appears to be suspect.  like they have morphed from being just humans, to having some sort of alien aura about them.  like i put on a magic pair of sun glasses and can see that they are all out to get me.  but i’m not paranoid about it, merely concerned.  and so i just don’t talk to them.  i just stifle it all and let it settle into a ball of goo in the lower regions of my stomach.  let it cause ulcers or maybe hemmeroids.  and then what?  what the fuck happens after?  not sure.
 

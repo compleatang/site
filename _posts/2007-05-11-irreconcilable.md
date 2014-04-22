@@ -1,32 +1,14 @@
 ---
-title: irreconcilable?
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/irreconcilable
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365585132
-st_twitter:
-  - 0
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1331647917
-dsq_thread_id:
-  - 961577804
-st_tiny_url:
-  - 
-categories:
-  - development
+title: "irreconcilable?"
+published: true
+comments: true
+meta: true
+category: development
+excerpt: "so cam and i talked for about two hours the other evening; the conversation began at 0130 my time.  i was tired the next day. "
+
 ---
-# 
 
 so cam and i talked for about two hours the other evening; the conversation began at 0130 my time.  i was tired the next day.  
 

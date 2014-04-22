@@ -1,32 +1,14 @@
 ---
-title: 'leaving&#8230;on a jet plane'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/leaving-on-a-jet-plane
-dsq_thread_id:
-  - 768452667
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330433397
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365656916
-st_tiny_url:
-  - 
-categories:
-  - learning
+title: "leaving&#8230;on a jet plane"
+published: true
+comments: true
+meta: true
+category: learning
+excerpt: "in case you had not heard or i have been negligent in letting you know, i will be heading to sierra leone next semester to work with [the special court for sierra leone][1]. "
+
 ---
-# 
 
 in case you had not heard or i have been negligent in letting you know, i will be heading to sierra leone next semester to work with [the special court for sierra leone][1].  
 

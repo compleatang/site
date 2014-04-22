@@ -1,30 +1,14 @@
 ---
-title: Gogol Bordello
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/gogol-bordello
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330093582
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365527338
-st_tiny_url:
-  - 
-categories:
-  - music
+title: "Gogol Bordello"
+published: true
+comments: true
+meta: true
+category: music
+excerpt: "So I heard an [NPR podcast][1] that I subscribe to the other day that blew my mind.  NPR podcasts these concerts from the famous 9:30 club in DC that I’ve been to with fisher-man a time of two.  The band, Gogol Bordello describes itself as a Gypsy Rock & Roll Machine…!  Sa-WEET.  The lead singer is from Chernobyl.  Sa-WEET.  If you want to laugh take a look at [their picture][2] on AllMusic.  Sa-WEET!!"
+
 ---
-# 
 
 So I heard an [NPR podcast][1] that I subscribe to the other day that blew my mind.  NPR podcasts these concerts from the famous 9:30 club in DC that I’ve been to with fisher-man a time of two.  The band, Gogol Bordello describes itself as a Gypsy Rock & Roll Machine…!  Sa-WEET.  The lead singer is from Chernobyl.  Sa-WEET.  If you want to laugh take a look at [their picture][2] on AllMusic.  Sa-WEET!!
 

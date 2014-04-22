@@ -1,35 +1,14 @@
 ---
-title: The Issue of Valor
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/the-issue-of-valor
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365952584
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330282967
-dsq_thread_id:
-  - 154782426
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zc749A
-        
-categories:
-  - politics
+title: "The Issue of Valor"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "[]: http://caseykuhlman.typepad.com/.a/6a00d83453a81b69e200e553e9de388833-pi"
+
 ---
-# 
 
 [![R1874377885][2]][2]    
 Photo courtesy of [here][2].

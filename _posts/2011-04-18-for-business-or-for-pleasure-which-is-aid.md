@@ -1,51 +1,20 @@
 ---
-title: 'For Business or for Pleasure: Which is Aid?'
-author: Casey Kuhlman
-excerpt: "Two articles were published this week on opposite sides of an interesting debate, what is the role of profit in the deployment of development services? I think that they both slightly miss the mark and here's why..."
+
 layout: post
-permalink: /entry/for-business-or-for-pleasure-which-is-aid
-dsq_thread_id:
-  - 587625148
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/z6n7kV
-        
-st_tweetmeme:
-  - 's:42:"a:2:{s:7:"tm_link";N;s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365833407
-st_cached_time:
-  - 1330081191
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - development
-tags:
-  - aid as business
-  - aid industrial complex
-  - development
-  - somaliland
-  - the view from this side
+title: "For Business or for Pleasure: Which is Aid?"
+published: true
+comments: true
+meta: true
+category: development
+tags: ["aid as business", "aid industrial complex", "development", "somaliland", "the view from this side"]
+excerpt: "Two articles were published this week on opposite sides of an interesting debate, what is the role of profit in the deployment of development services? I think that they both slightly miss the mark and here's why..."
+
 ---
-# 
 
 [![Cropped version of Wisconsin: Open for business. Closed for people. by BlueRobot @ flickr][2]][2]
-Cropped version of Wisconsin: Open for business. Closed for people. by BlueRobot @ flickr
 
 This week two interesting articles (to me) have been published and they have given me the push to return to commenting.
 
- []: http://www.flickr.com/photos/bluerobot/5496208756/
 
 The articles.
 

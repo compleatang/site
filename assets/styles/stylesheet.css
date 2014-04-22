@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #151515 url("../images/bkg.png") 0 0;
+  background: #151515;
   color: #ddd;
   font: 16px;
   line-height: 1.5;
@@ -19,15 +19,13 @@ nav {
   position: fixed;
   top: 0;
   padding: 0 1.2em 0 1.2em;
-  background: rgba(100, 100, 100, .5);
-  border: 2px inset rgba(50, 50, 50, .5);
 }
 
 header {
   width: 70%;
   max-width: 900px;
   margin: auto;
-  margin-top: 2.4em;
+  margin-top: 2.8em;
 }
 
 .sidebar {
@@ -193,33 +191,50 @@ blockquote {
 }
 
 /* Nav */
-nav ul {
+nav .main {
   margin: 0;
   padding: 0;
-  width: 100%;
 }
 
-nav ul li:before {
+nav .main li:before {
   margin: 0;
   content: "";
 }
 
-nav ul li {
+nav .main li {
   display: block;
   float: left;
   list-style: none;
-  margin: 0 0.8em 0 0;
-  padding: 0.6em 0.8em 0.6em 0;
+  margin: 0;
+  padding: 0.6em 0.8em 0.6em 0.8em;
+  border: 2px inset rgba(50, 50, 50, .5);
   border-right: 1px dashed gray;
+  background: rgba(100, 100, 100, .5);
 }
 
-nav ul li:first {
-  border-left: 1px dashed gray;  
-  padding-left: 0.8em;
+nav .main li:last-child {
+  border-right: 2px inset rgba(50, 50, 50, .5);
 }
 
-nav ul li ul {
+nav .main li a{
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+nav .submenu {
+  margin: 0;
+  padding: 0;
   display: none;
+  background: none;
+}
+
+nav .submenu li {
+  display: block;
+  float: none;
+  margin: 0.8em 0 0 0;
+  padding: 0.6em 0.8em 0.6em 0.8em;
+  border-right: none;
 }
 
 /* Code */
@@ -308,6 +323,21 @@ hr {
   float: right;
 }
 
+.related-posts {
+  margin-top: 2.4em;
+}
+
+.related-posts h3 {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.pagination {
+  width: 60%;
+  text-align: center;
+  margin: 2.4em auto 0 auto;
+}
+
 /* SideBar */
 aside.sidebar {
   margin-right: 18px;
@@ -325,6 +355,22 @@ aside.sidebar .gravatar {
 aside.sidebar a h4 {
   text-decoration: none;
   text-align: center;
+}
+
+aside.sidebar .follow-me {
+  margin: .8em auto .2em auto;
+  padding: 0;
+  text-align: center;
+}
+
+aside.sidebar .follow-me a {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+aside.sidebar .follow-me a img {
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
 
 /* Buttons */
@@ -384,11 +430,17 @@ aside.sidebar a h4 {
 
 @media only screen and (max-width: 1320px) and (min-width: 901px) {
   nav {
-    background: rgba(100, 100, 100, .99);
+    float: right;
+    width: auto;
+  }
+  nav .main li {
+    background: rgba(100, 100, 100, .98);
+    float: none;
+    width: auto;
   }
 
   header {
-    width: 70%;
+    width: 60%;
   }
 
   .sidebar {
@@ -403,8 +455,11 @@ aside.sidebar a h4 {
     width: 70%;
   }
 
+  .entry-meta {
+  }
+
   .comments {
-    width: 80%;
+    width: 70%;
   }
 
   footer {
@@ -454,6 +509,9 @@ aside.sidebar a h4 {
     width:  90%;
   }
 
+  .entry-meta {
+  }
+
   .comments {
     width: 90%;
   }
@@ -466,7 +524,7 @@ aside.sidebar a h4 {
     display: none;
   }
 
-  nav ul li {
+  nav .main li {
     width: 100%;
     display: block;
     float: none;
@@ -474,8 +532,12 @@ aside.sidebar a h4 {
     margin: 0;
     padding: 0.6em 0 0.6em 0;
     border: 2px inset rgba(50, 50, 50, .75);
-    background: rgba(100, 100, 100, .25);
     text-align: center;
+  }
+
+  nav .submenu li {
+    width: 90%;
+    margin: auto 5% auto 5%;
   }
 
   .entry-meta {

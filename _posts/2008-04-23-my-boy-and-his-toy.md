@@ -1,30 +1,14 @@
 ---
-title: My Boy and His Toy
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/my-boy-and-his-toy
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365153119
-st_tiny_url:
-  - 
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330147104
-categories:
-  - politics
+title: "My Boy and His Toy"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "Link: [John King of CNN Revels in His High-Tech Election Night Toy – New York Times][1]."
+
 ---
-# 
 
 Link: [John King of CNN Revels in His High-Tech Election Night Toy – New York Times][1].
 

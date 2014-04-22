@@ -1,32 +1,14 @@
 ---
-title: how to say good bye in krio
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/how-to-say-good-bye-in-krio
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330294859
-dsq_thread_id:
-  - 844749328
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365574129
-st_tiny_url:
-  - 
-categories:
-  - africa
+title: "how to say good bye in krio"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "this afternoon i fly out of salone and have no plans to return any time in the next two years. "
+
 ---
-# 
 
 this afternoon i fly out of salone and have no plans to return any time in the next two years.  
 

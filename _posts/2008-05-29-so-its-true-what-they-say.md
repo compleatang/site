@@ -1,35 +1,14 @@
 ---
-title: 'So, It&#8217;s True What They Say&#8230;'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/so-its-true-what-they-say
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365145731
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330278605
-dsq_thread_id:
-  - 154782443
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zPzJD3
-        
-categories:
-  - travel
+title: "So, It&#8217;s True What They Say&#8230;"
+published: true
+comments: true
+meta: true
+category: travel
+excerpt: "about Russians.  For one they are drunks.  For another they seem to love leaving their country to hang out in the bush and do wild stuff, like fly planes drunk. "
+
 ---
-# 
 
 about Russians.  For one they are drunks.  For another they seem to love leaving their country to hang out in the bush and do wild stuff, like fly planes drunk.  
 

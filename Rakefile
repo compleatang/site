@@ -3,6 +3,33 @@ require 'shellwords.rb'
 
 PROD_REPONAME = ""
 
+task :default => [:publish]
+
+desc "Generate blog files"
+task :generate do
+  message = "Site updated at #{Time.now.utc}"
+  system "git add -A"
+  system "git commit -m #{message.shellescape}"
+  system "git push github master"
+  system "git push wsl master"
+  Jekyll::Site.new(Jekyll.configuration({
+    "source"      => ".",
+    "destination" => "_site/htdocs"
+  })).process
+end
+
+# call with rake site:publish
+desc "Generate and publish blog"
+task :publish => [:generate] do
+  Dir.chdir "_site"
+  system "git add -A"
+  message = "Site updated at #{Time.now.utc}"
+  system "git commit -m #{message.shellescape}"
+  system "git push origin master  --force"
+  system "ssh 119629@git.dc0.gpaas.net 'deploy blog.caseykuhlman.com.git master'"
+>>>>>>> b9a8ab77da4408f88107993af16bf87b5f478d7c
+end
+
 namespace :site do
   desc "Generate blog files"
   task :generate do

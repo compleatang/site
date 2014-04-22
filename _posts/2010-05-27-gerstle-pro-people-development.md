@@ -1,48 +1,20 @@
 ---
-title: What Does Gerstle Mean Pro-People Development?
-author: Casey Kuhlman
-excerpt: 'It is a difficult proposition to project what will happen in Somalia or Somaliland.  The problem, as I see it, with the international approaches so far along with the local approaches, is that it is difficult to reconcile the philosophical desires of most Somalis with the history that they have faced in the modern era of authoritarian rule.  But someone will come along - eventually, inshallah - that will be able to convince people of his or her vision of how to reconcile the dissonance between the historical predicates of Somalia and the cultural desires for decentralized power.  When this unselfish visionary comes along the world should ilaalayaa because these people that I have grown to love will be a powerful force.'
+
 layout: post
-permalink: /entry/gerstle-pro-people-development
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365876530
-GentleSourceShortURL:
-  - http://bit.ly/b66RRk
-wordbooker_options:
-  - 'a:13:{s:18:"wordbook_noncename";s:10:"71fbcc73a8";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:27:"wordbooker_publish_override";s:2:"on";s:19:"wordbook_thumb_only";s:2:"on";s:20:"wordbook_use_excerpt";s:2:"on";s:18:"wordbook_attribute";s:29:"New on blog: %title% - %link%";s:29:"wordbooker_status_update_text";s:35:": New blog post :  %title% - %link%";s:20:"wordbook_comment_get";s:2:"on";}'
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330422935
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/zG8qP7
-        
-categories:
-  - somaliland/somalia
-tags:
-  - governance
-  - somaliland
+title: "What Does Gerstle Mean Pro-People Development?"
+published: true
+comments: true
+meta: true
+category: somaliland/somalia
+tags: ["governance", "somaliland"]
+excerpt: "It is a difficult proposition to project what will happen in Somalia or Somaliland.  The problem, as I see it, with the international approaches so far along with the local approaches, is that it is difficult to reconcile the philosophical desires of most Somalis with the history that they have faced in the modern era of authoritarian rule.  But someone will come along - eventually, inshallah - that will be able to convince people of his or her vision of how to reconcile the dissonance between the historical predicates of Somalia and the cultural desires for decentralized power.  When this unselfish visionary comes along the world should ilaalayaa because these people that I have grown to love will be a powerful force."
+
 ---
-# 
 
 [![Double rainbows from my roof][2]][2]
-Double rainbows from my roof
 
 [David Gerstle][2], who writes for [@change][3], among others is fastly becoming one of my favorite journalists commenting on Somalia.
 
- []: http://www.caseykuhlman.com/?attachment_id=384
  [2]: http://humanrights.change.org/blog?author_id=351
  [3]: http://change.org
 

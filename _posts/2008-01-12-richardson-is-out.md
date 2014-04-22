@@ -1,30 +1,14 @@
 ---
-title: Richardson is Out
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/richardson-is-out
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365203501
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330474549
-st_tiny_url:
-  - 
-categories:
-  - politics
+title: "Richardson is Out"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "I am sad to [see Bill Richardson drop out ][1]of [the Presidential Race][2].  He has had my support for a long time because of his int’l credentials; his moderate but competent domestic policies; and most of all his realism. "
+
 ---
-# 
 
 I am sad to [see Bill Richardson drop out ][1]of [the Presidential Race][2].  He has had my support for a long time because of his int’l credentials; his moderate but competent domestic policies; and most of all his realism.  
 

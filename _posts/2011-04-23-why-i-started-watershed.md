@@ -1,44 +1,15 @@
 ---
-title: 'Why I Started Watershed Legal Services: My Journey from Expat Aid Worker to Expat Entrepreneur'
-author: Casey Kuhlman
-excerpt: "I felt the need to justify (perhaps mostly to myself) why I have started what to many are a fantastically crazy journey of starting a socially-conscious law firm in a very undeveloped country.  Here's why I made that decision."
+
 layout: post
-permalink: /entry/why-i-started-watershed
-dsq_thread_id:
-  - 587625294
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/ygZUFI
-        
-st_tweetmeme:
-  - 's:42:"a:2:{s:7:"tm_link";N;s:9:"url_count";i:0;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365830091
-st_cached_time:
-  - 1330081200
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - living
-tags:
-  - development 2.0
-  - development policy
-  - law
-  - role of lawyers
-  - somaliland
+title: "Why I Started Watershed Legal Services: My Journey from Expat Aid Worker to Expat Entrepreneur"
+published: true
+comments: true
+meta: true
+category: living
+tags: ["development 2.0", "development policy", "law", "role of lawyers", "somaliland"]
+excerpt: "I felt the need to justify (perhaps mostly to myself) why I have started what to many are a fantastically crazy journey of starting a socially-conscious law firm in a very undeveloped country.  Here's why I made that decision."
+
 ---
-# 
 
 a[![Ninja Law Firm via SolYoung @ flickr][2]][2]
 Ninja Law Firm via SolYoung @ flickr

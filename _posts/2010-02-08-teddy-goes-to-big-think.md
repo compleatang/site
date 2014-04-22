@@ -1,33 +1,14 @@
 ---
-title: Teddy Goes to Big Think
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/teddy-goes-to-big-think
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365919823
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330444281
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/wiZEEg
-        
-categories:
-  - politics
+title: "Teddy Goes to Big Think"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "Am just now getting around to watching Big Think's Editorial Top Ten of the year as I wait until 3 this morning when the SuperBowl will begin.  The premise of [Big Think ][1]is amazing to me: grab a bunch of influential people, ask them a penetrating question and then let them speak for five minutes or more.  It is interesting when you sit and listen to people without the flashing signals and bottom scroll bars and overly enthusiastic reporters that so often are too busy to understand what the hell they are talking about.  The people I respec tthe most, are those that can take a step back from what is happening and try to see the bigger picture.  This site is trying to achieve something akin to that.   "
+
 ---
-# 
 
 Am just now getting around to watching Big Think's Editorial Top Ten of the year as I wait until 3 this morning when the SuperBowl will begin.  The premise of [Big Think ][1]is amazing to me: grab a bunch of influential people, ask them a penetrating question and then let them speak for five minutes or more.  It is interesting when you sit and listen to people without the flashing signals and bottom scroll bars and overly enthusiastic reporters that so often are too busy to understand what the hell they are talking about.  The people I respec tthe most, are those that can take a step back from what is happening and try to see the bigger picture.  This site is trying to achieve something akin to that.   
 

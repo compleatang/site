@@ -1,30 +1,14 @@
 ---
-title: incoherenCy
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/incoherency
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330484011
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365757843
-st_tiny_url:
-  - 
-categories:
-  - living
+title: "incoherenCy"
+published: true
+comments: true
+meta: true
+category: living
+excerpt: "well.  i’m on 36 straight hours.  i think.  i have lost all cognitive and reasoning powers.  my back is about to explode.  i need to dumpster dive like 40 cubic feet of trash into random dumpsters that do not belong to me with the hopes that their cameras don’t see me. "
+
 ---
-# 
 
 well.  i’m on 36 straight hours.  i think.  i have lost all cognitive and reasoning powers.  my back is about to explode.  i need to dumpster dive like 40 cubic feet of trash into random dumpsters that do not belong to me with the hopes that their cameras don’t see me.  
 

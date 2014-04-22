@@ -1,35 +1,14 @@
 ---
-title: Eco-Labelling Biofuels
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/eco-labelling-biofuels
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365944943
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330434250
-dsq_thread_id:
-  - 154782394
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/y2utqU
-        
-categories:
-  - environment
+title: "Eco-Labelling Biofuels"
+published: true
+comments: true
+meta: true
+category: environment
+excerpt: "Geez, hippies love their eco-labeling.  Perhaps it comports with their world-view of non-force-ment of normatively superior products.  Perhaps it gives them something to talk about at parties, a consumer status-symbol.  Whatever the case, now there is a labeling standard for biofuels.  From [Triple Pundit][1]:"
+
 ---
-# 
 
 Geez, hippies love their eco-labeling.  Perhaps it comports with their world-view of non-force-ment of normatively superior products.  Perhaps it gives them something to talk about at parties, a consumer status-symbol.  Whatever the case, now there is a labeling standard for biofuels.  From [Triple Pundit][1]:
 

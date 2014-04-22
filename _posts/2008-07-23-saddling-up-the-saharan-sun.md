@@ -1,33 +1,14 @@
 ---
-title: Saddling up the Saharan Sun
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/saddling-up-the-saharan-sun
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365955737
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1332922102
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/weixkx
-        
-categories:
-  - environment
+title: "Saddling up the Saharan Sun"
+published: true
+comments: true
+meta: true
+category: environment
+excerpt: "[]: http://caseykuhlman.typepad.com/.a/6a00d83453a81b69e200e553ceb2078834-pi"
+
 ---
-# 
 
 [![Solar460x276][2]][2]  
 [This ][2]is good news, and something that I’ve been thinking about for a while.  The Europeans want to build gigantic solar power stations in the Sahara and pipe the electricity up via high capacity transmission lines under the Med to the European grid system.  

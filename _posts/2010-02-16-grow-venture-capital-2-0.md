@@ -1,36 +1,14 @@
 ---
-title: 'Grow &#8211; Venture Capital 2.0'
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/grow-venture-capital-2-0
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365909449
-dsq_thread_id:
-  - 870858240
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_cached_time:
-  - 1330358324
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/yRrYJw
-        
-categories:
-  - africa
-  - development
+title: "Grow &#8211; Venture Capital 2.0"
+published: true
+comments: true
+meta: true
+category: africa
+excerpt: "> Everyone Funding Startups!!! [Grow VC][1]"
+
 ---
-# 
 
 > Everyone Funding Startups!!! [Grow VC][1]  
 > is the first global crowdfunding tool for web and mobile startups.

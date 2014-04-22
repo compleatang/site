@@ -1,51 +1,20 @@
 ---
-title: 'On Colonies, the AU &amp; Borders: Somaliland&#8217;s Recognition Journey'
-author: Casey Kuhlman
-excerpt: "One of the legal criteria for statehood is established borders. There is a serious and very well, although often, hidden question as to where Somaliland's borders are. In this post I try to parse this a bit mainly from the perspective of international law, but also from the political perspective as well. "
-layout: post
-permalink: /entry/on-colonies-and-borders
-dsq_thread_id:
-  - 764952701
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_tiny_url:
-  - |
-    |
-        http://wsl.so/y4yIRc
-        
-st_tweetmeme:
-  - 's:85:"a:2:{s:7:"tm_link";s:37:"http://tweetmeme.com/story/5855484594";s:9:"url_count";i:3;}";'
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365826109
-st_cached_time:
-  - 1330217301
-st_twitter:
-  - 0
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-categories:
-  - somaliland/somalia
-tags:
-  - country
-  - independence
-  - recognition
-  - somaliland
-  - sovereignty
----
-# 
 
-[![Somaliland by CharlesFred@flickr][2]][2]
-Somaliland by CharlesFred@flickr
+layout: post
+title: "On Colonies, the AU &amp; Borders: Somaliland&#8217;s Recognition Journey"
+published: true
+comments: true
+meta: true
+category: somaliland/somalia
+tags: ["country", "independence", "recognition", "somaliland", "sovereignty"]
+excerpt: "One of the legal criteria for statehood is established borders. There is a serious and very well, although often, hidden question as to where Somaliland's borders are. In this post I try to parse this a bit mainly from the perspective of international law, but also from the political perspective as well."
+
+---
+
+[![Somaliland by CharlesFred@flickr]({{ site.url }}{{ site.root }}{{ site.images_dir }}/{{ page.date | date: "%Y" }}/61782242_42524b7b0d_o.jpg)](http://www.flickr.com/photos/charlesfred/61782242/)
 
 *This is the second installment in a series which is parsing through Somaliland’s journey towards recognition. The first post in the series, the introduction is available [here][2]. One of the legal criteria for statehood is established borders. There is a serious and very well, although often, hidden question as to where Somaliland’s borders are. In this post I try to parse this a bit mainly from the perspective of international law, but also from the political perspective as well.*
 
- []: http://www.flickr.com/photos/charlesfred/61782242/
  [2]: http://www.caseykuhlman.com/entry/somalilands-recognition-journey "What Does it Mean to be Independent: Somaliland’s Recognition Journey"
 
 My friend, and fellow Somaliland voyeur, Rudie made some very interesting and important points in the comments to my previous point. One of which was:

@@ -1,32 +1,14 @@
 ---
-title: Georgia Politicians Get Jail Terms
-author: Casey Kuhlman
+
 layout: post
-permalink: /entry/georgia-politicians-get-jail-terms
-st_cached:
-  - '<ul class="socialize-this"><li></li></ul>'
-st_social_score:
-  - 0
-st_last_socialized:
-  - 1365531077
-st_cached_time:
-  - 1330425611
-dsq_thread_id:
-  - 793226269
-st_twitter:
-  - 0
-st_reddit:
-  - 'a:3:{s:9:"permalink";s:0:"";s:5:"score";i:0;s:12:"num_comments";i:0;}'
-st_facebook:
-  - 0
-st_googleplusones:
-  - 0
-st_tiny_url:
-  - 
-categories:
-  - politics
+title: "Georgia Politicians Get Jail Terms"
+published: true
+comments: true
+meta: true
+category: politics
+excerpt: "[This][1] cannot be good for relations between Russia and Georgia.  Highlands and I were just in Georgia a few weeks ago and it was a wonderful country with rugged mountains, wonderful people and a good government that is making many good steps (at least good as defined by Western governments, but this normative relativity varies in proportion to the square of your distance from Moscow).  I fell in love with the country. "
+
 ---
-# 
 
 [This][1] cannot be good for relations between Russia and Georgia.  Highlands and I were just in Georgia a few weeks ago and it was a wonderful country with rugged mountains, wonderful people and a good government that is making many good steps (at least good as defined by Western governments, but this normative relativity varies in proportion to the square of your distance from Moscow).  I fell in love with the country.  
 
