@@ -5,7 +5,6 @@ PROD_REPONAME = ""
 
 task :default => [:publish]
 
-namespace :site do
   desc "Generate blog files"
   task :generate do
     message = "Site updated at #{Time.now.utc}"
@@ -31,4 +30,3 @@ namespace :site do
     system "ssh 119629@git.dc0.gpaas.net 'deploy blog.caseykuhlman.com.git master'"
 
   end
-end
