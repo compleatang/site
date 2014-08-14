@@ -1,7 +1,7 @@
 ---
 
-layout:    post
 title:     TIT
+layout:    post
 published: true
 comments:  false
 meta:      true
