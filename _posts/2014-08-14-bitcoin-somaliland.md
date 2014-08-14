@@ -25,7 +25,7 @@ One of the overarching points of the video is that Bitcoin is somehow sovereign.
 
 But who is the sovereign in which these very few, scattered, individuals of common purpose are beholden to? Who knows.
 
-I'm a relative outsider to this whole crypto-currency thing. Sure, I'm trying to [build a business](https://erisindustries.com) which will utilize some of the technology underpinning cryptocurrencies. However, I am by no means a believer that a few cryptographic hashes and a fancy database somehow changes any of the real human dynamics which scientists, artists, philosophers, and the like have been pondering for a couple millennium.
+I'm a relative outsider to this whole crypto-currency thing. Sure, I'm trying to [build a business](https://erisindustries.com) which will utilize some of the technology underpinning cryptocurrencies. However, I am by no means a believer that a few cryptographic hashes and a fancy database somehow changes any of the real human dynamics which scientists, artists, philosophers, and the like have been pondering for a couple millennia.
 
 As an outsider, it is (anthropologically) interesting to watch a bunch of (predominantly) white (predominantly) Americans and Canadians purport to claim that an interesting payment protocol will solve world peace, governmental overreach, and all the other ills of modernity. The idea -- and this is entirely pervasive within the cryptocurrency community -- that somehow because there is cryptographic hashes that those will suddenly shift the paradigm of modernity and that we can reach a point where governments are unnecessary is... I'm not sure what it is actually.
 
