@@ -11,7 +11,7 @@ excerpt:   "Anarchy isn't great. People are not immune to the system. These are 
 
 ---
 
-Recently a video was made: "Bitcoin's Declaration of Independence". Here's the video.
+Recently a video was made: "The Declaration of Bitcoin's Independence". Here's the video.
 
 <iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/XQqZ9b0S0BY?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -43,7 +43,7 @@ In the case of Somaliland it took about 13 years after the Declaration of Indepe
 
 The question I have for those who participated in this video is this: are you actually interested in doing the work necessary to craft a system? Only time will tell.
 
-## Lesson 2: If You Want to Sit At The Adults Table Act Like Adults
+## Lesson 2: If You Want to Sit At The Adults' Table Act Like Adults
 
 During my time in Somaliland I said the above more times than I could count. Mostly in response to idiotic stuff whatever Minister or other person of purported power who was sitting in some vaunted chair did. It would drive me crazy that Somalilanders in positions of power would drone on about how they were a "real state" but how they continued to fail to perform the most basic of governance functions. You can't have it both ways I would tell my friends. Either you need to do the work, make the sacrifices, and be your own state, or else you just need to shut up. More times than I currently care to count, I would watch the Somaliland government act as a rebel organization acts and then go on BBC Somali asking why the world wasn't treating them like a state. Most of the time the reason the "world" wasn't treating them like a state was because they weren't acting as a state acts.
 
@@ -51,7 +51,7 @@ I view the cryptocommunity through a similar lens. It talks -- **at nauseum** --
 
 But Bitcoiners, and the cryptocommunity more generally, should not somehow be free from the normal rules which apply. If those inside the cryptocommunity want cryptocurrencies to be treated *as* currency, then they must abide by the *normal* rules which attend to handling money.
 
-These rules *are* onerous, precisely because businesses which deal with folks' money are, well, dealing with folks' money. I do not understand why somehow cryptocurrencies businesses should somehow get a bye as to providing proper safeguards, as has been agreed in the relevant states are necessary.
+These rules *are* onerous, precisely because businesses which deal with folks' money are, well, dealing with folks' money. I do not understand why cryptocurrencies businesses should somehow get a bye as to providing proper safeguards, as has been agreed in the relevant states are necessary.
 
 ## Lesson 3: Real Systems Empower Professionals and Root Out Scammers
 
