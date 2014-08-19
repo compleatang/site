@@ -1,20 +1,28 @@
 {% include header.html %}
+{% include navigation.html %}
 {% unless page.no_header %}
-  <header>
-    <h1>{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
-  </header>
+  <div class="row">
+    <div class="col-xs-12">
+      <header>
+        <h1>{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+      </header>
+    </div>
+  </div>
 {% endunless %}
-<article class="content">
-  {{ content }}        
-  {% include meta.html %}
-</article>
+<div class="row">
+  <div class="col-xs-12 col-md-8 col-md-offset-2">
+    <article class="content">
+      {{ content }}
+      {% include meta.html %}
+    </article>
+  </div>
+</div>
 <br />
 {% if page.comments %}
   <div class="comments">
     {% include comments.html %}
   </div><!-- .comments -->
 {% endif %}
-{% include navigation.html %}
 {% include sidebar.html %}
 {% include footer.html %}
 {% include analytics.html %}

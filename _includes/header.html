@@ -3,7 +3,10 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href='https://fonts.googleapis.com/css?family=Habibi|PT+Mono|Happy+Monkey' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.styles_dir }}/stylesheet2.css" />
+    <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.styles_dir }}/stylesheet.css" media="screen" />
     <link rel="shortcut icon" href="{{ site.url }}{{ site.images_dir }}/favicon.ico">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.name }}" href="{{ site.url_plain }}/rss.xml" />
@@ -15,6 +18,7 @@
       {% endif %}
     </title>
     <script src="{{ site.url }}{{ site.scripts_dir }}/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script>
       $(document).ready(function(){
         $('nav a#categories').click(function(e) {
@@ -24,4 +28,4 @@
     </script>
   </head>
   <body>
-    <div class="container">
+    <div class="container-fluid">

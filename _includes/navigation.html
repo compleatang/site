@@ -1,12 +1,14 @@
-<nav>
+<nav class="navbar navbar-static-top" role="navigation">
   <ul class="main">
     <li><a href="{{ site.url }}{{ site.root }}index.html">Home</a></li>
     <li><a href="{{ site.url }}{{ site.root }}about.html">About</a></li>
     <li><a href="{{ site.url }}{{ site.root }}categories.html" id="categories">Categories</a>
-    <ul class="submenu">
-      {% for category in site.categories %}
-        <li><a href="{{ site.url }}{{ site.root }}{{ site.categories_path }}#{{ category[0] }}-ref">{{ category[0] }}</a></li>
-      {% endfor %}
-    </ul></li>
+      <ul class="submenu">
+        {% for category in site.categories %}
+          <li><a href="{{ site.url }}{{ site.root }}{{ site.categories_path }}#{{ category[0] }}-ref">{{ category[0] }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
   </ul>
 </nav>
+<div class="container">

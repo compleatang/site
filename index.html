@@ -2,19 +2,27 @@
 layout: default
 ---
 
-<header><h1 class="title">{{site.name}}</h1></header>
+<div class="row">
+  <div class="col-xs-12">
+    <header><h1 class="title">{{site.name}}</h1></header>
+  </div>
+</div>
 
 {% for post in paginator.posts %}
-  <article>
-    <div class="post-content">
-      <h2><a href="{{ site.url }}{{post.url}}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-      <p><a href="{{ site.url }}{{post.url}}" class="readmore">Read More &rarr;</a></p>
+  <div class="row">
+    <div class="col-xs-12 col-md-8 col-md-offset-2" role="content">
+      <article>
+        <div class="post-content">
+          <h2><a href="{{ site.url }}{{post.url}}">{{ post.title }}</a></h2>
+          {{ post.excerpt }}
+          <p><a href="{{ site.url }}{{post.url}}" class="readmore">Read More &rarr;</a></p>
+        </div>
+        <div class="post-meta">
+          <p>{{ post.date | date: "%d %h %Y" }}</p>
+        </div>
+      </article>
     </div>
-    <div class="post-meta">
-      <p>{{ post.date | date: "%d %h %Y" }}</p>
-    </div>
-  </article>
+  </div>
 {% endfor %}
 
 <!-- Pagination links -->
