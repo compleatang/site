@@ -6,15 +6,17 @@ name:        underWater desert Blogging
 url:         https://blog.caseykuhlman.com
 url_plain:   http://blog.caseykuhlman.com
 description: Processes and Thoughts on Lots of Matters
+
 author:
-  name:    Casey Kuhlman
-  email:   caseykuhlman@watershedlegal.com
-  github:  compleatang
-  tumblr:  compleatang
-  twitter: compleatang
-  lastfm:  compleatang
+  name:       Casey Kuhlman
+  email:      caseykuhlman@watershedlegal.com
+  github:     compleatang
+  tumblr:     compleatang
+  twitter:    compleatang
+  lastfm:     compleatang
   googleplus: CaseyKuhlman1976
-exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile", "_drats"]
+
+exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile", "_drafts"]
 
 subscribe_rss:  ./rss.xml
 rss_path:       ./rss.xml
