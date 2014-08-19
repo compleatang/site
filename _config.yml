@@ -18,8 +18,8 @@ author:
 
 exclude: [".gitignore", ".ruby-version", ".ruby-gemset", "README.md", "Rakefile", "_drafts"]
 
-subscribe_rss:  ./rss.xml
-rss_path:       ./rss.xml
+subscribe_rss:  http://blog.caseykuhlman.com/rss.xml
+rss_path:       http://blog.caseykuhlman.com/rss.xml
 
 # ----------------------- #
 #    Jekyll & Plugins     #
