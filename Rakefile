@@ -12,7 +12,7 @@ task :default => [:publish]
     system "git add ."
     system "git commit -m #{message.shellescape}"
     system "git push github master"
-    system "git push wsl master"
+    system "git push ei master"
     Jekyll::Site.new(Jekyll.configuration({
       "source"      => ".",
       "destination" => "_site/htdocs"
