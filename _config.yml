@@ -3,9 +3,8 @@
 # ----------------------- #
 
 name:        underWater desert Blogging
-# url:         /
-url:         "https://blog.caseykuhlman.com"
-description: "Processes and Thoughts on Lots of Matters"
+url:         https://blog.caseykuhlman.com
+description: Processes and Thoughts on Lots of Matters
 author:
   name:    Casey Kuhlman
   email:   caseykuhlman@watershedlegal.com
@@ -23,7 +22,6 @@ rss_path:       ./rss.xml
 #    Jekyll & Plugins     #
 # ----------------------- #
 
-# root:            "home/coda/sites/csk/udb/_site/htdocs/"
 root:            /
 destination:     "_site/htdocs"
 permalink:       "entries/:year/:title.html"
