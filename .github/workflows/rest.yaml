@@ -1,0 +1,31 @@
+name: Test Site Build
+
+on:
+  push:
+    branches-ignore:
+      - "production"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2.1.0
+        with:
+          submodules: true
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.62.2'
+          extended: true
+
+      - name: Build Site
+        run: |
+          hugo \
+            --baseURL=https://caseykuhlman.com/ \
+            --verbose \
+            --cleanDestinationDir \
+            --forceSyncStatic \
+            --minify \
+            --gc \

@@ -1,0 +1,39 @@
+name: Build and Publish Site
+
+on:
+  push:
+    branches:
+      - production
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2.1.0
+        with:
+          submodules: true
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.62.2'
+          extended: true
+
+      - name: Build Site
+        run: |
+          hugo \
+            --baseURL=https://caseykuhlman.com/ \
+            --verbose \
+            --cleanDestinationDir \
+            --forceSyncStatic \
+            --minify \
+            --gc \
+
+      - name: Deploy to GH Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          cname: caseykuhlman.com
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: master
+          publish_dir: ./public
