@@ -1,4 +1,3 @@
-# baseURL = "https://caseykuhlman.com"
 disablePathToLower = true
 baseurl = "/"
 languageCode = "en-us"
@@ -10,19 +9,15 @@ theme = "hello-friend-ng"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
-
   # Metadata mostly used in document's head
   description = "Casey Kuhlman's Blog"
   keywords = "legaltech,resilience"
   images = [""]
-
-  # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
-
-  # Default theme "light" or "dark"
   defaultTheme = "dark"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
 
 [languages]
   [languages.en]
@@ -49,3 +44,7 @@ theme = "hello-friend-ng"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
