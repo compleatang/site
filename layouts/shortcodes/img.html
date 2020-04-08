@@ -1,0 +1,4 @@
+{{- if .Get 0 }}
+{{- $location := printf "/img/%s/%s" ($.Page.Params.Date.Format "2006") (.Get 0) }}
+<img src="{{ $location | safeURL }}" class="center" />
+{{- end }}

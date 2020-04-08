@@ -1,7 +1,14 @@
 disablePathToLower = true
+enableGitInfo = true
 baseurl = "/"
-languageCode = "en-us"
+
+title = "underWater desert Blogging"
 theme = "hello-friend-ng"
+copyright = "<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">All Content Licensed CC BY-NC-SA 4.0</a>"
+languageCode = "en-us"
+
+[author]
+  name = "Casey Kuhlman"
 
 [params]
   dateform        = "2 Jan, 2006"
@@ -9,41 +16,57 @@ theme = "hello-friend-ng"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  # Metadata mostly used in document's head
-  description = "Casey Kuhlman's Blog"
-  keywords = "legaltech,resilience"
-  images = [""]
+  description = "A Site About Resilience and Authoritarianism"  
+  subtitle = "A Site About Resilience and Authoritarianism"
+  homeSubtitle = "A Site About Resilience and Authoritarianism"
+  keywords = "legaltech, resilience, authoritarianism"
+
   contentTypeName = "posts"
   defaultTheme = "dark"
-
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
+  readOtherPosts = "More good content ->"
 
-[languages]
-  [languages.en]
-    title = "underWater desert Blogging"
-    subtitle = "Casey Kuhlman's Site"
-    keywords = "legaltech,resilience"
-    copyright = "Casey Kuhlman"
-    readOtherPosts = "Read other posts"
+  gitUrl = "https://github.com/compleatang/site/commit/"
 
-    [languages.en.params.logo]
-      logoText = "cd home"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+  customJS = [
+    "/js/udb.js",
+    "//static.getclicky.com/js"
+  ]
 
-  # And you can even create generic menu
+  [params.logo]
+    logoText = "cd ~/"
+    logoHomeLink = "/"
+
+  [[params.social]]
+    name = "keybase"
+    url = "https://keybase.com/compleatang"
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/compleatang"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/compleatang/"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/compleatang/"
+
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Entries"
+    url        = "/posts"
+
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "Me, About"
     url        = "/about"
+
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+    identifier = "muniments"
+    name       = "Muniments"
+    url        = "/muniments"
 
 [taxonomies]
   tag      = "tags"
