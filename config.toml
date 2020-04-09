@@ -27,6 +27,9 @@ languageCode = "en-us"
   readOtherPosts = "More good content ->"
 
   gitUrl = "https://github.com/compleatang/site/commit/"
+  images = [
+    "img/udp.jpg"
+  ]
 
   customJS = [
     "/js/udb.js",
@@ -36,10 +39,6 @@ languageCode = "en-us"
   [params.logo]
     logoText = "cd ~/"
     logoHomeLink = "/"
-
-  [[params.social]]
-    name = "keybase"
-    url = "https://keybase.com/compleatang"
 
   [[params.social]]
     name = "twitter"
@@ -52,6 +51,10 @@ languageCode = "en-us"
   [[params.social]]
     name = "github"
     url = "https://github.com/compleatang/"
+
+  [[params.social]]
+    name = "keybase"
+    url = "https://keybase.io/compleatang"
 
   [[menu.main]]
     identifier = "posts"
