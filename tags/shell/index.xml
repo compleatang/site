@@ -1,1 +1,503 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>shell on underWater desert Blogging</title><link>https://caseykuhlman.com/tags/shell/</link><description>Recent content in shell on underWater desert Blogging</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>All Content Licensed CC BY-NC-SA 4.0</copyright><lastBuildDate>Tue, 04 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://caseykuhlman.com/tags/shell/index.xml" rel="self" type="application/rss+xml"/><item><title>Why Using Shells are Great</title><link>https://caseykuhlman.com/muniments/2014/2014-02-04-on-shells/</link><pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate><guid>https://caseykuhlman.com/muniments/2014/2014-02-04-on-shells/</guid><description>Using a shell in a terminal is fantastic &amp;ndash; like a glassbottom boat view into what your computer is actually doing. Here are some tips and a small tutorial of how I set up my terminal and shell to get you started.</description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>underWater desert Blogging</title><link>https://caseykuhlman.com/</link><description>A Site About Resilience and Authoritarianism</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>casey@caseykuhlman.com (Casey Kuhlman)</managingEditor><webMaster>casey@caseykuhlman.com (Casey Kuhlman)</webMaster><copyright>All Content Licensed CC BY-NC-SA 4.0</copyright><lastBuildDate>Tue, 04 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://caseykuhlman.com/tags/shell/index.xml" rel="self" type="application/rss+xml"/><item><title>Why Using Shells are Great</title><link>https://caseykuhlman.com/muniments/2014/2014-02-04-on-shells/</link><pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate><author>casey@caseykuhlman.com (Casey Kuhlman)</author><guid>https://caseykuhlman.com/muniments/2014/2014-02-04-on-shells/</guid><description>&lt;p>I love using the shell; however so many people do not. My argument to others to use your shell more is simply that you &lt;strong>see&lt;/strong> what is happening with your computer a lot easier than you can with a graphical user interface (GUI). Basically, your shell is somewhat like a glass bottom boat to see what your computer is actually doing. On linux, GUI's often have an option to pull up some of what your computer is doing, but for the most part they do not.&lt;/p>
+&lt;p>The other major argument for using your shell is that once you have it set up it is fast. Damn fast. I can do so much so quickly with my shell that takes me a lot longer with a GUI. This means that I spend last time on both billable and non-billable tasks &amp;ndash; leaving more time to do other things.&lt;/p>
+&lt;h2 id="setting-up-a-drop-down-terminal-in-ubuntu">Setting up a Drop Down Terminal in Ubuntu&lt;/h2>
+&lt;p>Every POSIX system has a shell terminal application which you can use. But the first time you open it, it usually looks super scary &amp;ndash; as in DOS scary. The best news is that once you get over that initial shock (perhaps by following this small tutorial) it can be a very pleasant experience. In Ubuntu you can get to your shell by typing &lt;code>ctrl+alt+t&lt;/code> (for terminal). I don't like the main Gnome terminal application not because it is bad, indeed it is perfectly fine. I just prefer &lt;a href="https://github.com/Guake/guake">Guake&lt;/a> because it is a terminal which stays hidden at the &amp;ldquo;top&amp;rdquo; of my screen completely out of sight. I start Guake on login, so it is &lt;em>always&lt;/em> available. All I have to do is to press &lt;code>F12&lt;/code> and I'm instantly in a terminal which drops down over my open program. I set Guake to take up about 45% of my screen real estate which allows me to see the rest of whatever application I need. There is a newer terminal application, &lt;a href="https://github.com/ozcanesen/terra-terminal">Terra Terminal&lt;/a>, which performs similarly in some respects but adds additional features, such as terminal splitting which I never used. Terra is still in development so after using it for a while I switched back to Guake which is more stable.&lt;/p>
+&lt;p>Installing Guake could not be more simple. Drop into a terminal and type:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">$ sudo apt-get install guake
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Once the installation finishes, Guake will be in your applications. The next thing you will want to do is to add Guake to your startup applications. Open your applications and search for startup. When the GUI opens, click &amp;ldquo;Add&amp;rdquo; then in the &amp;ldquo;Name&amp;rdquo; field type Guake and in the &amp;ldquo;Command&amp;rdquo; field type &lt;code>guake&lt;/code>. That's it. Next time you login Guake is ready for you. If you want to start guake without logging out and back in, go to your applications and search for guake and start guake terminal. Now you have your initial setup.&lt;/p>
+&lt;p>Guake and Gnome Terminal (what you get when you type &lt;code>ctrl+alt+t&lt;/code>) both are simply terminals. They are like a portal to your shell program. Your shell program is distinct from you terminal program. You can use a terminal to run almost any shell program that you like. Shell programs live &amp;ldquo;below&amp;rdquo; your terminal in the stack between your eyeballs and your computer's processor. So with the same terminal, you can use different shells.&lt;/p>
+&lt;h2 id="shell-programs">Shell Programs&lt;/h2>
+&lt;p>Ubuntu's default shell (and indeed many the default shell for many POSIX systems) is &lt;code>bash&lt;/code>. Bash is a good shell. Personally, I do not use it. I use &lt;code>zsh&lt;/code> mainly because its community has a ton of plugins and installation scripts which I have used to automate the installation of my luxurious shell setup. There is a long history of (ahem) discourse between the supporters of the two shells and you can google to find it. Of course, POSIX being POSIX there are numerous other options such as fish shell and other newer competitors to bash and zsh. My recommendation is to use the shell that works for you and lets you do what you need to do in the most efficient way possible.&lt;/p>
+&lt;p>Ubuntu tries to keep its install wizards small so it does not install zsh by default (OSX on the other hand does I'm fairly sure), so if you want to follow the rest of this tutorial then you'll want to install zsh with the following command:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">$ sudo apt-get install zsh
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>When the shell is installed then you need to tell Ubuntu that this is the shell you are interested in installing. You do this with two commands. The first command finds where the zsh binary is and the second tells Ubuntu to change your shell. You copy the output from the first command (&lt;code>ctrl+shift+c&lt;/code> when you're in terminal) and paste it into the second command (&lt;code>ctrl+shift+v&lt;/code> when you're in terminal).&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">$ which zsh
+$ chsh -s $OUTPUT $USER
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>In the above command $OUTPUT is the output you get from the first command and $USER is your user name on ubuntu. After that you are all set. What I do generally at this point is to close the terminal window (in Guake this is &lt;code>ctrl+shift+w&lt;/code> but that may be what I've set up to follow Chrome rather than the standard) and then open a new terminal window. Voila, you are all set up with zsh.&lt;/p>
+&lt;h2 id="making-your-shell-your-shell">Making Your Shell YOUR Shell&lt;/h2>
+&lt;p>Now we have all the basics setup with three simple commands in the terminal. You can easily put these into your install script to automate this process whenever you install or reinstall Linux on your machine. The next step is to make the shell YOUR shell by personalizing it.&lt;/p>
+&lt;p>The main file you will use to personalize the shell is your &lt;code>~/.zshrc&lt;/code>. This is the file that zsh will automatically load by default everytime a new instance of zsh is opened. You can use this file in turn to tell zsh to load other files as we will see. The reason why I like zsh is that there are a lot of plugin which you can use to make the shell your own in a very simple way. A while ago a framework for zsh was developed called &lt;a href="https://github.com/robbyrussell/oh-my-zsh">oh-my-zsh&lt;/a> which kicked off the frameworks in zsh in a big way. After a while this became complicated so another team developed a system which automated how this all works.&lt;/p>
+&lt;p>I use both of these systems. I use the automated install and updating system to install, remove, and update my zsh files and I use oh-my-zsh as the underlying framework (which I modify) to do much of the heavy lifting. If you want to follow along it will not be very painful I promise. The automatic installation and updater I use is called &lt;a href="https://github.com/zsh-users/antigen">antigen&lt;/a>. Here is how you set it up.&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">$ sudo apt-get install git
+$ git clone https://github.com/zsh-users/antigen.git $LOCATION
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>When you run the git clone command it will pull down antigen but you will want to put it in whatever location you like. I do not recommend putting it in &lt;code>~/.antigen&lt;/code> because when you run the script it is going to put a bunch of other files in that location and this could cause conflicts. I put it in my &lt;code>~/coding/antigen&lt;/code> folder for instance. Now, when that finished you need to edit your .zshrc file in your favorite text editor. Here's what my file looks like.&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">&lt;span style="color:#75715e">#!/usr/bin/env zsh
+&lt;/span>&lt;span style="color:#75715e">&lt;/span>&lt;span style="color:#75715e"># Antigen bundles&lt;/span>
+source ~/coding/antigen/antigen.zsh
+antigen use oh-my-zsh
+antigen bundles &lt;span style="color:#e6db74">&amp;lt;&amp;lt;EOBUNDLES
+&lt;/span>&lt;span style="color:#e6db74">bower
+&lt;/span>&lt;span style="color:#e6db74">colorize
+&lt;/span>&lt;span style="color:#e6db74">colored-man
+&lt;/span>&lt;span style="color:#e6db74">cp
+&lt;/span>&lt;span style="color:#e6db74">debian
+&lt;/span>&lt;span style="color:#e6db74">extract
+&lt;/span>&lt;span style="color:#e6db74">gem
+&lt;/span>&lt;span style="color:#e6db74">github
+&lt;/span>&lt;span style="color:#e6db74">heroku
+&lt;/span>&lt;span style="color:#e6db74">npm
+&lt;/span>&lt;span style="color:#e6db74">pip
+&lt;/span>&lt;span style="color:#e6db74">rails
+&lt;/span>&lt;span style="color:#e6db74">rsync
+&lt;/span>&lt;span style="color:#e6db74">ruby
+&lt;/span>&lt;span style="color:#e6db74">rvm
+&lt;/span>&lt;span style="color:#e6db74">sublime
+&lt;/span>&lt;span style="color:#e6db74">vundle
+&lt;/span>&lt;span style="color:#e6db74">zsh-users/zsh-syntax-highlighting
+&lt;/span>&lt;span style="color:#e6db74">zsh-users/zsh-completions src
+&lt;/span>&lt;span style="color:#e6db74">EOBUNDLES&lt;/span>
+&lt;span style="color:#75715e">#Now load the theme&lt;/span>
+antigen theme ~/Dropbox/Dot-Files/zsh-themes/csk-compact.zsh-theme
+antigen apply
+&lt;span style="color:#75715e">#Now load the custom files&lt;/span>
+source ~/Dropbox/Dot-Files/zsh-plugins/conf.zsh
+source ~/Dropbox/Dot-Files/zsh-plugins/git-csk.plugin.zsh
+source ~/Dropbox/Dot-Files/zsh-plugins/funcs.zsh
+source ~/Dropbox/Dot-Files/zsh-plugins/aliases.zsh
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>You can read more about how to use antigen bundles on their github page linked to above, but I'll walk through it. The first thing that the file does is it &lt;code>sources&lt;/code> (which in shell means load and use) the main antigen shell script. So point this to wherever you cloned their repo to. The next line tells antigen to use the oh-my-zsh framework (there are others which you could use and the github page shows how to do that). Then there is a long list of the bundles that I want to use. Bundles are simply plugins. At the end you will see a couple of non oh-my-zsh bundles sourced. Antigen knows that when you put a bundle that looks like &lt;code>user/plugin&lt;/code> to get it from the github repo. Of course, you can not use the github defaults and you can easily point it to other bundles that you may have on a private git repo.&lt;/p>
+&lt;p>After the bundles are loaded then the file tells antigen to use a specific theme. The last thing the file does is to tell zsh to load a bunch of custom files which I keep in my dropbox. That's it. The way that zsh works is that when you pass it one command and then pass it a second command that conflicts with the first then the second one always wins. This is why I source my own custom files after the framework files. This allows me to override small things that the framework does which I do not like.&lt;/p>
+&lt;p>You can look on oh-my-zsh page for a lot of different themes. Here's the theme I use.&lt;/p>
+&lt;p>My theme tells me my username, hostname, current working directory and then tells me which rvm I'm using and how my git repo is looking (the git repo turns red if it is &amp;lsquo;dirty&amp;rsquo; or green if it is not as you can see from the different repos). If you wanted to use my theme then here is the file:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">ZSH_THEME_GIT_PROMPT_PREFIX&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">%{&lt;/span>$reset_color&lt;span style="color:#e6db74">%}[%{&lt;/span>$fg&lt;span style="color:#e6db74">[magenta]%}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+ZSH_THEME_GIT_PROMPT_SUFFIX&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">%{&lt;/span>$reset_color&lt;span style="color:#e6db74">%}]&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+ZSH_THEME_GIT_PROMPT_DIRTY&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">%{&lt;/span>$fg&lt;span style="color:#e6db74">[red]%}☿☿☿&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+ZSH_THEME_GIT_PROMPT_CLEAN&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">%{&lt;/span>$fg&lt;span style="color:#e6db74">[green]%}☿☿☿&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+local whoami&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">%{&lt;/span>$fg&lt;span style="color:#e6db74">[magenta]%}%n%{&lt;/span>$reset_color&lt;span style="color:#e6db74">%}@%{&lt;/span>$fg&lt;span style="color:#e6db74">[green]%}%m%{&lt;/span>$reset_color&lt;span style="color:#e6db74">%}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+local whereami&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">:%{&lt;/span>$fg_bold&lt;span style="color:#e6db74">[blue]%}%~%{&lt;/span>$reset_color&lt;span style="color:#e6db74">%}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+local git_branch&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;\$(git_prompt_info)&amp;#34;&lt;/span>
+local rvm_ruby&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">[%{&lt;/span>$reset_color&lt;span style="color:#e6db74">%}%{&lt;/span>$fg&lt;span style="color:#e6db74">[cyan]%}\$(~/.rvm/bin/rvm-prompt v g)%{&lt;/span>$reset_color&lt;span style="color:#e6db74">%}]&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+PROMPT&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>whoami&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>whereami&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74"> &lt;/span>&lt;span style="color:#e6db74">${&lt;/span>rvm_ruby&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>git_branch&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74"> &amp;gt;&amp;gt; &lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+RPROMPT&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;%{$fg[yellow]%}[%*]%{$reset_color%}&amp;#39;&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>On my servers I do not typically install Ruby Version Manager (rvm) and the result is that this theme will throw an error which is annoying, so on my servers I use a very slightly modified theme which I would recommend if you do not use ruby a lot. One thing to note is that the colors in the server theme are bolded (this makes it easy for me to remember that I am probably ssh'ing into a server in a specific terminal and not on my computer if you did not want the bold them simply delete &amp;lsquo;_bold&amp;rsquo;).&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">ZSH_THEME_GIT_PROMPT_PREFIX&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">%{&lt;/span>$reset_color&lt;span style="color:#e6db74">%}[%{&lt;/span>$fg&lt;span style="color:#e6db74">[magenta]%}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+ZSH_THEME_GIT_PROMPT_SUFFIX&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">%{&lt;/span>$reset_color&lt;span style="color:#e6db74">%}]&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+ZSH_THEME_GIT_PROMPT_DIRTY&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">%{&lt;/span>$fg&lt;span style="color:#e6db74">[red]%}☿☿☿&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+ZSH_THEME_GIT_PROMPT_CLEAN&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">%{&lt;/span>$fg&lt;span style="color:#e6db74">[green]%}☿☿☿&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+local whoami&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">%{&lt;/span>$fg_bold&lt;span style="color:#e6db74">[green]%}%n%{&lt;/span>$reset_color&lt;span style="color:#e6db74">%}@%{&lt;/span>$fg_bold&lt;span style="color:#e6db74">[magenta]%}%m%{&lt;/span>$reset_color&lt;span style="color:#e6db74">%}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+local whereami&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">:%{&lt;/span>$fg_bold&lt;span style="color:#e6db74">[cyan]%}%~%{&lt;/span>$reset_color&lt;span style="color:#e6db74">%}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+local git_branch&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;\$(git_prompt_info)&amp;#34;&lt;/span>
+PROMPT&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>whoami&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>whereami&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74"> &lt;/span>&lt;span style="color:#e6db74">${&lt;/span>git_branch&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74"> &amp;gt;&amp;gt; &lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+RPROMPT&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;%{$fg[yellow]%}[%*]%{$reset_color%}&amp;#39;&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>The next custom file my &lt;code>.zshrc&lt;/code> file sources is my configuration file. This is full of a bunch of defaults I've found by stalking people's dot file repos on github. To be honest there is a lot of things in this file that I do not know what they do but solve specific problems for me. I recommend using one you find from repos and then googling as different problems arise and adding or deleting the specific parts of the config file to make it yours. That is more or less what I have done over the previous few years.&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">&lt;span style="color:#75715e"># Key bindings&lt;/span>
+bindkey -M viins &lt;span style="color:#e6db74">&amp;#39;^[OH&amp;#39;&lt;/span> vi-beginning-of-line &lt;span style="color:#75715e"># home key&lt;/span>
+bindkey -M viins &lt;span style="color:#e6db74">&amp;#39;^[OF&amp;#39;&lt;/span> vi-end-of-line &lt;span style="color:#75715e"># end key&lt;/span>
+bindkey -M viins &lt;span style="color:#e6db74">&amp;#39;\e[3~&amp;#39;&lt;/span> vi-delete-char &lt;span style="color:#75715e"># use delete as forward delete&lt;/span>
+bindkey -M viins &lt;span style="color:#e6db74">&amp;#39;^B&amp;#39;&lt;/span> push-line-or-edit &lt;span style="color:#75715e"># line buffer&lt;/span>
+bindkey &lt;span style="color:#e6db74">&amp;#39;^[^[[C&amp;#39;&lt;/span> forward-word
+bindkey &lt;span style="color:#e6db74">&amp;#39;^[^[[D&amp;#39;&lt;/span> backward-word
+&lt;span style="color:#75715e"># Shut up.&lt;/span>
+setopt NO_BEEP
+setopt nullglob
+&lt;span style="color:#75715e"># Changing Directories&lt;/span>
+setopt AUTO_CD
+setopt CDABLE_VARS
+setopt AUTO_PUSHD
+&lt;span style="color:#75715e"># History&lt;/span>
+setopt HIST_SAVE_NO_DUPS
+setopt HIST_VERIFY
+setopt HIST_IGNORE_ALL_DUPS
+setopt EXTENDED_HISTORY
+setopt HIST_REDUCE_BLANKS
+bindkey &lt;span style="color:#e6db74">&amp;#34;^R&amp;#34;&lt;/span> history-incremental-pattern-search-backward
+bindkey &lt;span style="color:#e6db74">&amp;#34;^S&amp;#34;&lt;/span> history-incremental-pattern-search-forward
+&lt;span style="color:#75715e"># Resume vim after ctrl+z accidentally (or intentionally!) from vim&lt;/span>
+&lt;span style="color:#75715e"># just ctrl+z again to resume&lt;/span>
+foreground-vi&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">{&lt;/span>
+fg %vi
+&lt;span style="color:#f92672">}&lt;/span>
+zle -N foreground-vi
+bindkey &lt;span style="color:#e6db74">&amp;#39;^Z&amp;#39;&lt;/span> foreground-vi
+&lt;span style="color:#75715e">#apt-pref&lt;/span>
+apt_pref&lt;span style="color:#f92672">=&lt;/span>apt-get
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>The next file sourced is a custom git alias file which I use. It is not terribly interesting but it makes things easier for me to remember because the oh-my-zsh git bundle kept changing for a while and I think of things slightly differently than they do so I just override a lot of their defaults which is fine.&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">&lt;span style="color:#75715e"># Aliases&lt;/span>
+alias git&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;hub&amp;#39;&lt;/span>
+alias g&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git&amp;#39;&lt;/span>
+compdef g&lt;span style="color:#f92672">=&lt;/span>git
+alias ga&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git add&amp;#39;&lt;/span>
+compdef _git ga&lt;span style="color:#f92672">=&lt;/span>git-add
+alias gaa&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git add -A&amp;#39;&lt;/span>
+compdef _git gaa&lt;span style="color:#f92672">=&lt;/span>git-add
+alias gai&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git add -i&amp;#39;&lt;/span>
+compdef _git gai&lt;span style="color:#f92672">=&lt;/span>git-add
+alias gb&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git branch&amp;#39;&lt;/span>
+compdef _git gb&lt;span style="color:#f92672">=&lt;/span>git-branch
+alias gba&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git branch -a&amp;#39;&lt;/span>
+compdef _git gba&lt;span style="color:#f92672">=&lt;/span>git-branch
+alias gbav&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git branch -a -vv&amp;#39;&lt;/span>
+compdef _git gbav&lt;span style="color:#f92672">=&lt;/span>git-branch
+alias gc&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git commit -v&amp;#39;&lt;/span>
+compdef _git gc&lt;span style="color:#f92672">=&lt;/span>git-commit
+alias gca&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git commit -v -a&amp;#39;&lt;/span>
+compdef _git gca&lt;span style="color:#f92672">=&lt;/span>git-commit
+alias gc!&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git commit -v --amend&amp;#39;&lt;/span>
+compdef _git gc!&lt;span style="color:#f92672">=&lt;/span>git-commit
+alias gcm&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git commit -m&amp;#39;&lt;/span>
+compdef _git gcam&lt;span style="color:#f92672">=&lt;/span>git-commit
+alias gco&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git checkout&amp;#39;&lt;/span>
+compdef _git gco&lt;span style="color:#f92672">=&lt;/span>git-checkout
+alias gcob&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git checkout -b&amp;#39;&lt;/span>
+compdef _git gcob&lt;span style="color:#f92672">=&lt;/span>git-checkout
+alias gcom&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git checkout master&amp;#39;&lt;/span>
+compdef _git gcom&lt;span style="color:#f92672">=&lt;/span>git-checkout
+alias gd&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git diff&amp;#39;&lt;/span>
+compdef _git gd&lt;span style="color:#f92672">=&lt;/span>git-diff
+alias gds&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git diff --cached&amp;#39;&lt;/span>
+compdef _git gds&lt;span style="color:#f92672">=&lt;/span>git-diff
+alias gdh&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git diff HEAD&amp;#39;&lt;/span>
+compdef _git gdh&lt;span style="color:#f92672">=&lt;/span>git-diff
+alias gdelcom&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git reset --hard HEAD~&amp;#39;&lt;/span>
+alias gl&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;git log --graph --pretty=format:&amp;#39;%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%an %cr)%Creset&amp;#39; --abbrev-commit --date=relative&amp;#34;&lt;/span>
+alias glp&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;gl -p&amp;#39;&lt;/span>
+alias gl1&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;gl --pretty=oneline --abbrev-commit --decorate&amp;#39;&lt;/span>
+alias glg&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git log --stat --max-count=5&amp;#39;&lt;/span>
+alias glt&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;gl | tig&amp;#39;&lt;/span>
+alias glu&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git ls-files --other --exclude-standard&amp;#39;&lt;/span>
+alias glud&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git ls-files --other --exclude-standard | xargs rm&amp;#39;&lt;/span>
+alias glua&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git ls-files --other --exclude-standard | xargs git add&amp;#39;&lt;/span>
+alias grma&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git ls-files --deleted | xargs git rm&amp;#39;&lt;/span>
+alias gcount&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git shortlog -sn&amp;#39;&lt;/span>
+alias gm&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git merge&amp;#39;&lt;/span>
+compdef _git gm&lt;span style="color:#f92672">=&lt;/span>git-merge
+alias gpl&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git pull --rebase&amp;#39;&lt;/span>
+compdef _git gpl&lt;span style="color:#f92672">=&lt;/span>git-pull
+alias gup&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git fetch &amp;amp;&amp;amp; git rebase&amp;#39;&lt;/span>
+compdef _git gup&lt;span style="color:#f92672">=&lt;/span>git-fetch
+alias gps&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git push&amp;#39;&lt;/span>
+compdef _git gps&lt;span style="color:#f92672">=&lt;/span>git-push
+alias gr&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git remote&amp;#39;&lt;/span>
+compdef _git gr&lt;span style="color:#f92672">=&lt;/span>git-remote
+alias grv&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git remote -v&amp;#39;&lt;/span>
+compdef _git grv&lt;span style="color:#f92672">=&lt;/span>git-remote
+alias grall&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git remote -v show -n&amp;#39;&lt;/span>
+compdef _git grall&lt;span style="color:#f92672">=&lt;/span>git-remote
+alias grset&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git remote set-url&amp;#39;&lt;/span>
+compdef _git grset&lt;span style="color:#f92672">=&lt;/span>git-remote
+alias grb&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git rebase&amp;#39;&lt;/span>
+compdef _git grb&lt;span style="color:#f92672">=&lt;/span>git-rebase
+alias grba&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git rebase --abort&amp;#39;&lt;/span>
+compdef _git grba&lt;span style="color:#f92672">=&lt;/span>git-rebase
+alias grbc&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git rebase --continue&amp;#39;&lt;/span>
+compdef _git grbc&lt;span style="color:#f92672">=&lt;/span>git-rebase
+alias grm&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;git status | grep deleted | awk &amp;#39;{\$1=\$2=\&amp;#34;\&amp;#34;; print \$0}&amp;#39; | \
+&lt;/span>&lt;span style="color:#e6db74"> perl -pe &amp;#39;s/^[ \t]*//&amp;#39; | sed &amp;#39;s/ /\\\\ /g&amp;#39; | xargs git rm&amp;#34;&lt;/span>
+alias grmd&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;git status | grep deleted | awk &amp;#39;{\$1=\$2=\&amp;#34;\&amp;#34;; print \$0}&amp;#39; | \
+&lt;/span>&lt;span style="color:#e6db74"> perl -pe &amp;#39;s/^[ \t]*//&amp;#39; | sed &amp;#39;s/ /\\\\ /g&amp;#39; | xargs git rm -rf&amp;#34;&lt;/span>
+alias gs&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git status&amp;#39;&lt;/span>
+compdef _git gs&lt;span style="color:#f92672">=&lt;/span>git-status
+alias gss&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git status -s&amp;#39;&lt;/span>
+compdef _git gss&lt;span style="color:#f92672">=&lt;/span>git-status
+alias gst&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git stash&amp;#39;&lt;/span>
+alias gsta&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;gst apply&amp;#39;&lt;/span>
+alias gundo&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git reset --soft HEAD^&amp;#39;&lt;/span>
+alias gundoh&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git reset HEAD&amp;#39;&lt;/span>
+alias gundohh&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git reset HEAD --hard&amp;#39;&lt;/span>
+alias gwtfl&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git wtf -l -a -A -r&amp;#39;&lt;/span>
+alias tigb&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;tig blame&amp;#39;&lt;/span>
+alias tigs&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;tig status&amp;#39;&lt;/span>
+&lt;span style="color:#75715e"># Will return the current branch name&lt;/span>
+&lt;span style="color:#75715e"># Usage example: git pull origin $(current_branch)&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> current_branch&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+ref&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>git symbolic-ref HEAD 2&amp;gt; /dev/null&lt;span style="color:#66d9ef">)&lt;/span> &lt;span style="color:#f92672">||&lt;/span> &lt;span style="color:#66d9ef">return&lt;/span>
+echo &lt;span style="color:#e6db74">${&lt;/span>ref#refs/heads/&lt;span style="color:#e6db74">}&lt;/span>
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> current_repository&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+ref&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>git symbolic-ref HEAD 2&amp;gt; /dev/null&lt;span style="color:#66d9ef">)&lt;/span> &lt;span style="color:#f92672">||&lt;/span> &lt;span style="color:#66d9ef">return&lt;/span>
+echo &lt;span style="color:#66d9ef">$(&lt;/span>git remote -v | cut -d&lt;span style="color:#e6db74">&amp;#39;:&amp;#39;&lt;/span> -f 2&lt;span style="color:#66d9ef">)&lt;/span>
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e"># these aliases take advantage of the previous function&lt;/span>
+alias push&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git push github $(current_branch) &amp;amp;&amp;amp; git push wsl $(current_branch)&amp;#39;&lt;/span>
+alias pushpriv&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git push wsl $(current_branch)&amp;#39;&lt;/span>
+alias pushprod&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git push gandi master&amp;#39;&lt;/span>
+alias pushroku&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;git push heroku master&amp;#39;&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> gtb&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">{&lt;/span>
+git checkout -b $1 --track $2/$1
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> gtrack&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">{&lt;/span>
+branch&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>git rev-parse --abbrev-ref HEAD&lt;span style="color:#66d9ef">)&lt;/span>
+git branch -u $1/$branch $branch
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> gnuke&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">{&lt;/span>
+&lt;span style="color:#66d9ef">if&lt;/span> &lt;span style="color:#f92672">[&lt;/span> ! -d .git &lt;span style="color:#f92672">]&lt;/span>; &lt;span style="color:#66d9ef">then&lt;/span>
+echo &lt;span style="color:#e6db74">&amp;#34;Error: must run this script from the root of a git repository&amp;#34;&lt;/span>
+exit &lt;span style="color:#ae81ff">1&lt;/span>
+&lt;span style="color:#66d9ef">fi&lt;/span>
+&lt;span style="color:#75715e"># remove all paths passed as arguments from the history of the repo&lt;/span>
+files&lt;span style="color:#f92672">=&lt;/span>$@
+git filter-branch --index-filter &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">git rm -rf --cached --ignore-unmatch &lt;/span>$files&lt;span style="color:#e6db74">&amp;#34;&lt;/span> HEAD
+&lt;span style="color:#75715e"># remove the temporary history git-filter-branch otherwise leaves behind for a long time&lt;/span>
+rm -rf .git/refs/original/ &lt;span style="color:#f92672">&amp;amp;&amp;amp;&lt;/span> git reflog expire --all &lt;span style="color:#f92672">&amp;amp;&amp;amp;&lt;/span> git gc --aggressive --prune
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>That file I've assembled over the years and to be honest I use maybe 60% of the aliases and functions in it, but the good thing is that when I'm trying to remember how to do something I just pull up that file and it is likely in there. It is probably overkill but it can be useful from time to time.&lt;/p>
+&lt;p>Next I source my custom functions files. This is a fun one that allows me to do a bit of coding in zsh and put these into my shell for easy use in the future. I use a lot fo these functions quite frequently.&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">&lt;span style="color:#75715e">## Process/System functions&lt;/span>
+&lt;span style="color:#75715e">##&lt;/span>
+&lt;span style="color:#75715e">#helper for pp&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> my_ps&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">{&lt;/span> ps $@ -u $USER -o pid,%cpu,%mem,bsdtime,command ; &lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#do i own this process?&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> pp&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">{&lt;/span> my_ps f | awk &lt;span style="color:#e6db74">&amp;#39;!/awk/ &amp;amp;&amp;amp; $0~var&amp;#39;&lt;/span> var&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>1&lt;span style="color:#66d9ef">:-&lt;/span>&lt;span style="color:#e6db74">&amp;#34;.*&amp;#34;&lt;/span>&lt;span style="color:#e6db74">}&lt;/span> ; &lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#install packages and log&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> install&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+packages&lt;span style="color:#f92672">=&lt;/span>$@
+sudo apt-get install &lt;span style="color:#e6db74">${&lt;/span>=packages&lt;span style="color:#e6db74">}&lt;/span> &lt;span style="color:#f92672">&amp;amp;&amp;amp;&lt;/span> echo &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$packages&lt;span style="color:#e6db74">&amp;#34;&lt;/span> &amp;gt;&amp;gt; ~/.installd
+&lt;span style="color:#f92672">}&lt;/span>
+apt_pref_compdef install &lt;span style="color:#e6db74">&amp;#34;install&amp;#34;&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> add-repo&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+repos&lt;span style="color:#f92672">=&lt;/span>$@
+sudo add-apt-repository -y ppa:&lt;span style="color:#e6db74">${&lt;/span>=repos&lt;span style="color:#e6db74">}&lt;/span> &lt;span style="color:#f92672">&amp;amp;&amp;amp;&lt;/span> echo &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">sudo add-apt-repository -y ppa:&lt;/span>$repos&lt;span style="color:#e6db74">&amp;#34;&lt;/span> &amp;gt;&amp;gt; ~/.installd
+sudo apt-get update
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#colorize man output ... http://www.cyberciti.biz/faq/linux-unix-colored-man-pages-with-less-command/&lt;/span>
+man&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">{&lt;/span>
+env &lt;span style="color:#ae81ff">\
+&lt;/span>&lt;span style="color:#ae81ff">&lt;/span> LESS_TERMCAP_mb&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>printf &lt;span style="color:#e6db74">&amp;#34;\e[1;31m&amp;#34;&lt;/span>&lt;span style="color:#66d9ef">)&lt;/span> &lt;span style="color:#ae81ff">\
+&lt;/span>&lt;span style="color:#ae81ff">&lt;/span> LESS_TERMCAP_md&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>printf &lt;span style="color:#e6db74">&amp;#34;\e[1;31m&amp;#34;&lt;/span>&lt;span style="color:#66d9ef">)&lt;/span> &lt;span style="color:#ae81ff">\
+&lt;/span>&lt;span style="color:#ae81ff">&lt;/span> LESS_TERMCAP_me&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>printf &lt;span style="color:#e6db74">&amp;#34;\e[0m&amp;#34;&lt;/span>&lt;span style="color:#66d9ef">)&lt;/span> &lt;span style="color:#ae81ff">\
+&lt;/span>&lt;span style="color:#ae81ff">&lt;/span> LESS_TERMCAP_se&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>printf &lt;span style="color:#e6db74">&amp;#34;\e[0m&amp;#34;&lt;/span>&lt;span style="color:#66d9ef">)&lt;/span> &lt;span style="color:#ae81ff">\
+&lt;/span>&lt;span style="color:#ae81ff">&lt;/span> LESS_TERMCAP_so&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>printf &lt;span style="color:#e6db74">&amp;#34;\e[1;44;33m&amp;#34;&lt;/span>&lt;span style="color:#66d9ef">)&lt;/span> &lt;span style="color:#ae81ff">\
+&lt;/span>&lt;span style="color:#ae81ff">&lt;/span> LESS_TERMCAP_ue&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>printf &lt;span style="color:#e6db74">&amp;#34;\e[0m&amp;#34;&lt;/span>&lt;span style="color:#66d9ef">)&lt;/span> &lt;span style="color:#ae81ff">\
+&lt;/span>&lt;span style="color:#ae81ff">&lt;/span> LESS_TERMCAP_us&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>printf &lt;span style="color:#e6db74">&amp;#34;\e[1;32m&amp;#34;&lt;/span>&lt;span style="color:#66d9ef">)&lt;/span> &lt;span style="color:#ae81ff">\
+&lt;/span>&lt;span style="color:#ae81ff">&lt;/span> man &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$@&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">## Networking functions&lt;/span>
+&lt;span style="color:#75715e">##&lt;/span>
+&lt;span style="color:#75715e">#get my ip&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> myip-local&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+IP&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">`&lt;/span>ifconfig | grep &lt;span style="color:#e6db74">&amp;#39;inet addr:&amp;#39;&lt;/span>| grep -v &lt;span style="color:#e6db74">&amp;#39;127.0.0.1&amp;#39;&lt;/span> | cut -d: -f2 | awk &lt;span style="color:#e6db74">&amp;#39;{ print $1}&amp;#39;&lt;/span>&lt;span style="color:#e6db74">`&lt;/span>;
+echo $IP
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> myip-global&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+dig +short myip.opendns.com @resolver1.opendns.com
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> myips&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+echo -e &lt;span style="color:#e6db74">&amp;#34;\nMy Local IPs:\n\033[1;32m`myip-local`\033[m&amp;#34;&lt;/span>
+echo -e &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">\nMy External IPs:\n\033[1;32m`myip-global`&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>NC&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">\033[m\n&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> funsa&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+sudo ifconfig eth0 down
+sudo macchanger -r eth0
+sudo ifconfig eth0 up
+sudo ifconfig wlan0 down
+sudo macchanger -r wlan0
+sudo ifconfig wlan0 up
+google-chrome &lt;span style="color:#e6db74">&amp;#34;file:///home/coda/Dropbox/Chrome-Extensions/Source%20Codes/funsa.html&amp;#34;&lt;/span>
+sudo service network-manager restart
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#summarize current network situation&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> ii&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+echo -e &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">\nYou are logged on &lt;/span>&lt;span style="color:#e6db74">${&lt;/span>BLUE&lt;span style="color:#e6db74">}&lt;/span>$HOSTNAME&lt;span style="color:#e6db74">${&lt;/span>NC&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+echo -e &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">\nAdditionnal information:&lt;/span>$NC&lt;span style="color:#e6db74"> &lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span> ; uname -a
+echo -e &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">\n&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>RED&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">Users logged on:&lt;/span>$NC&lt;span style="color:#e6db74"> &lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span> ; w -h
+echo -e &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">\n&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>RED&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">Current date :&lt;/span>$NC&lt;span style="color:#e6db74"> &lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span> ; date
+echo -e &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">\n&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>RED&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">Machine stats :&lt;/span>$NC&lt;span style="color:#e6db74"> &lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span> ; uptime
+echo -e &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">\n&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>RED&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">Memory stats :&lt;/span>$NC&lt;span style="color:#e6db74"> &lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span> ; free
+myip &amp;gt; /dev/null 2&amp;gt;&amp;amp;&lt;span style="color:#ae81ff">1&lt;/span>
+echo -e &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">\n&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>RED&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">Local IP Address :&lt;/span>$NC&lt;span style="color:#e6db74">&amp;#34;&lt;/span> ; echo &lt;span style="color:#e6db74">${&lt;/span>IP&lt;span style="color:#66d9ef">:-&lt;/span>&lt;span style="color:#e6db74">&amp;#34;Not connected&amp;#34;&lt;/span>&lt;span style="color:#e6db74">}&lt;/span>
+echo
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">## Files and Directories&lt;/span>
+&lt;span style="color:#75715e">##&lt;/span>
+&lt;span style="color:#75715e">#special file create&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> touch &lt;span style="color:#f92672">{&lt;/span>
+dir&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">`&lt;/span>expr &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$1&lt;span style="color:#e6db74">&amp;#34;&lt;/span> : &lt;span style="color:#e6db74">&amp;#39;\(.*\/\)&amp;#39;&lt;/span>&lt;span style="color:#e6db74">`&lt;/span>
+&lt;span style="color:#66d9ef">if&lt;/span> &lt;span style="color:#f92672">[&lt;/span> $dir &lt;span style="color:#f92672">]&lt;/span>
+&lt;span style="color:#66d9ef">then&lt;/span>
+mkdir -p $dir
+&lt;span style="color:#66d9ef">fi&lt;/span>
+/usr/bin/touch $1
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#home folder&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> h
+&lt;span style="color:#f92672">{&lt;/span>
+cd ~/$1;
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#find a file with the string in the name&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> ff&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">{&lt;/span> find . -name &lt;span style="color:#e6db74">&amp;#39;*&amp;#39;&lt;/span>$1&lt;span style="color:#e6db74">&amp;#39;*&amp;#39;&lt;/span> ; &lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#find a file with the string in the name and exec $2 on it&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> fe&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">{&lt;/span> find . -name &lt;span style="color:#e6db74">&amp;#39;*&amp;#39;&lt;/span>$1&lt;span style="color:#e6db74">&amp;#39;*&amp;#39;&lt;/span> -exec $2 &lt;span style="color:#f92672">{&lt;/span>&lt;span style="color:#f92672">}&lt;/span> &lt;span style="color:#ae81ff">\;&lt;/span> ; &lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#find a file ending in $2 and search for string $1 in it&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> fstr&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#75715e"># find a string in a set of files&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+&lt;span style="color:#66d9ef">if&lt;/span> &lt;span style="color:#f92672">[&lt;/span> $# -ne &lt;span style="color:#ae81ff">2&lt;/span> &lt;span style="color:#f92672">]&lt;/span>; &lt;span style="color:#66d9ef">then&lt;/span>
+echo &lt;span style="color:#e6db74">&amp;#34;Usage: fstr \&amp;#34;pattern\&amp;#34; [files] &amp;#34;&lt;/span>
+&lt;span style="color:#66d9ef">return&lt;/span>;
+&lt;span style="color:#66d9ef">fi&lt;/span>
+SMSO&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>tput smso&lt;span style="color:#66d9ef">)&lt;/span>
+RMSO&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>tput rmso&lt;span style="color:#66d9ef">)&lt;/span>
+find . -type f -name &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">*&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>2&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span> -print | xargs grep -sin &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$1&lt;span style="color:#e6db74">&amp;#34;&lt;/span> | &lt;span style="color:#ae81ff">\
+&lt;/span>&lt;span style="color:#ae81ff">&lt;/span> sed &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">s/&lt;/span>$1&lt;span style="color:#e6db74">/&lt;/span>$SMSO$1$RMSO&lt;span style="color:#e6db74">/gI&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#remove spaces from filename&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> nospace&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+mv &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$1&lt;span style="color:#e6db74">&amp;#34;&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">`echo &lt;/span>$1&lt;span style="color:#e6db74"> | tr &amp;#39; &amp;#39; &amp;#39;_&amp;#39;`&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#filenames to lowercase&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> lowercase&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+&lt;span style="color:#66d9ef">for&lt;/span> file ; &lt;span style="color:#66d9ef">do&lt;/span>
+filename&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>file##*/&lt;span style="color:#e6db74">}&lt;/span>
+&lt;span style="color:#66d9ef">case&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$filename&lt;span style="color:#e6db74">&amp;#34;&lt;/span> in
+*/*&lt;span style="color:#f92672">)&lt;/span> dirname&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>file%/*&lt;span style="color:#e6db74">}&lt;/span> ;;
+*&lt;span style="color:#f92672">)&lt;/span> dirname&lt;span style="color:#f92672">=&lt;/span>.;;
+&lt;span style="color:#66d9ef">esac&lt;/span>
+nf&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>echo $filename | tr A-Z a-z&lt;span style="color:#66d9ef">)&lt;/span>
+newname&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>dirname&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">/&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>nf&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+&lt;span style="color:#66d9ef">if&lt;/span> &lt;span style="color:#f92672">[&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$nf&lt;span style="color:#e6db74">&amp;#34;&lt;/span> !&lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$filename&lt;span style="color:#e6db74">&amp;#34;&lt;/span> &lt;span style="color:#f92672">]&lt;/span>; &lt;span style="color:#66d9ef">then&lt;/span>
+mv &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$file&lt;span style="color:#e6db74">&amp;#34;&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$newname&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+&lt;span style="color:#66d9ef">else&lt;/span>
+echo &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">lowercase: &lt;/span>$file&lt;span style="color:#e6db74"> not changed.&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+&lt;span style="color:#66d9ef">fi&lt;/span>
+&lt;span style="color:#66d9ef">done&lt;/span>
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">## Get the commands and aliases&lt;/span>
+&lt;span style="color:#75715e">##&lt;/span>
+&lt;span style="color:#75715e">#list all the aliases&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> list_aliases
+&lt;span style="color:#f92672">{&lt;/span>
+ALIASES&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">`&lt;/span>alias | cut -d &lt;span style="color:#e6db74">&amp;#39;=&amp;#39;&lt;/span> -f 1&lt;span style="color:#e6db74">`&lt;/span>
+echo &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$ALIASES&lt;span style="color:#e6db74">&amp;#34;&lt;/span> | sort -u
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#list all the commands&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> list_commands
+&lt;span style="color:#f92672">{&lt;/span>
+COMMANDS&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">`&lt;/span>echo -n $PATH | xargs -d : -I &lt;span style="color:#f92672">{&lt;/span>&lt;span style="color:#f92672">}&lt;/span> find &lt;span style="color:#f92672">{&lt;/span>&lt;span style="color:#f92672">}&lt;/span> -maxdepth &lt;span style="color:#ae81ff">1&lt;/span> &lt;span style="color:#ae81ff">\
+&lt;/span>&lt;span style="color:#ae81ff">&lt;/span> -executable -type f -printf &lt;span style="color:#e6db74">&amp;#39;%P\n&amp;#39;&lt;/span>&lt;span style="color:#e6db74">`&lt;/span>
+echo &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$COMMANDS&lt;span style="color:#e6db74">&amp;#34;&lt;/span> | sort -u
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#find an alias&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> lag
+&lt;span style="color:#f92672">{&lt;/span>
+&lt;span style="color:#66d9ef">for&lt;/span> a in &lt;span style="color:#66d9ef">$(&lt;/span>list_aliases | grep $1&lt;span style="color:#66d9ef">)&lt;/span>; &lt;span style="color:#66d9ef">do&lt;/span> which $a; &lt;span style="color:#66d9ef">done&lt;/span>
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#find a command&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> lcg
+&lt;span style="color:#f92672">{&lt;/span>
+&lt;span style="color:#66d9ef">for&lt;/span> c in &lt;span style="color:#66d9ef">$(&lt;/span>list_commands | grep $1&lt;span style="color:#66d9ef">)&lt;/span>; &lt;span style="color:#66d9ef">do&lt;/span> which $c; &lt;span style="color:#66d9ef">done&lt;/span>
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">## Git &amp;amp; Deployment&lt;/span>
+&lt;span style="color:#75715e">##&lt;/span>
+&lt;span style="color:#75715e">#ship the current branch&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> ship&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+CURRENT&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">`&lt;/span>git branch | grep &lt;span style="color:#e6db74">&amp;#39;\*&amp;#39;&lt;/span> | awk &lt;span style="color:#e6db74">&amp;#39;{print $2}&amp;#39;&lt;/span>&lt;span style="color:#e6db74">`&lt;/span>
+git checkout master
+git merge &lt;span style="color:#e6db74">${&lt;/span>CURRENT&lt;span style="color:#e6db74">}&lt;/span>
+git push github master
+git push wsl master
+git checkout &lt;span style="color:#e6db74">${&lt;/span>CURRENT&lt;span style="color:#e6db74">}&lt;/span>
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">## Application Specific&lt;/span>
+&lt;span style="color:#75715e">##&lt;/span>
+&lt;span style="color:#75715e">#use hub browser to get at the github and shut chrome up&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> gbrow&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+git browse $@ &amp;amp;&amp;gt;/dev/null;
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#cabal updater&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> cabal-upgrade&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+cabal update;
+cabal list --simple-output --installed | awk &lt;span style="color:#e6db74">&amp;#39;{print $1}&amp;#39;&lt;/span> | uniq | xargs -I &lt;span style="color:#f92672">{&lt;/span>&lt;span style="color:#f92672">}&lt;/span> cabal install &lt;span style="color:#f92672">{&lt;/span>&lt;span style="color:#f92672">}&lt;/span>;
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#75715e">#npm global installer&lt;/span>
+&lt;span style="color:#66d9ef">function&lt;/span> npmig&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">)&lt;/span>
+&lt;span style="color:#f92672">{&lt;/span>
+packages&lt;span style="color:#f92672">=&lt;/span>$@
+sudo npm install -g &lt;span style="color:#e6db74">${&lt;/span>=packages&lt;span style="color:#e6db74">}&lt;/span> &lt;span style="color:#f92672">&amp;amp;&amp;amp;&lt;/span> echo &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">npm &lt;/span>$packages&lt;span style="color:#e6db74">&amp;#34;&lt;/span> &amp;gt;&amp;gt; ~/.installd
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Some highlights of this file include an installation script which allows me to both install a package from apt-get and also to lot that in my install script so that I can then remember to reinstall it on a new system. I also have a collateral package for installing new ppas on my computer. I have built a bunch of network functions that I use every once in a while to figure out what the heck is happening. I also have built a f-u-nsa script which I run when I get to a new country. By changing my mac address and clearing all my cookies I think I can slightly reduce my chances of being flagged within NSA's systems &amp;ndash; this is important when you run a law firm and spend lots of time in the Horn of Africa. Also I have some functions that make working with files and modifying files easier as well as a few specific functions for assisting with different programs like npm (node package manager and cabal which is haskell's package manager and I use to keep on the bleeding edge of pandoc).&lt;/p>
+&lt;p>Lastly my &lt;code>.zshrc&lt;/code> file sources my aliases which are below and not terribly interesting.&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">&lt;span style="color:#75715e">#!/usr/bin/env zsh
+&lt;/span>&lt;span style="color:#75715e">&lt;/span>&lt;span style="color:#75715e"># zsh aliases&lt;/span>
+&lt;span style="color:#75715e"># included by .zshrc, this is for my custom aliases&lt;/span>
+&lt;span style="color:#75715e"># allow aliases to be sudoed&lt;/span>
+alias sudo&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;nocorrect sudo&amp;#39;&lt;/span>
+&lt;span style="color:#75715e"># Set Colors in Terms &amp;amp; Dumb Terms&lt;/span>
+eval &lt;span style="color:#66d9ef">$(&lt;/span>dircolors&lt;span style="color:#66d9ef">)&lt;/span>
+&lt;span style="color:#66d9ef">if&lt;/span> &lt;span style="color:#f92672">[&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$TERM&lt;span style="color:#e6db74">&amp;#34;&lt;/span> !&lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;dumb&amp;#34;&lt;/span> &lt;span style="color:#f92672">]&lt;/span>; &lt;span style="color:#66d9ef">then&lt;/span>
+eval &lt;span style="color:#e6db74">&amp;#34;`dircolors -b`&amp;#34;&lt;/span>
+alias ls&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;ls --color=always&amp;#39;&lt;/span>
+&lt;span style="color:#66d9ef">fi&lt;/span>
+&lt;span style="color:#75715e"># Directory &amp;amp; File Management&lt;/span>
+alias ll&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;ls -l&amp;#39;&lt;/span>
+alias la&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;ls -A&amp;#39;&lt;/span>
+alias l&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;ls -G&amp;#39;&lt;/span>
+alias lla&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;ls -la&amp;#39;&lt;/span>
+alias cat&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;colorize&amp;#39;&lt;/span>
+alias grep&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;grep --color&amp;#39;&lt;/span>
+alias grepi&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;grep --color -i&amp;#39;&lt;/span>
+alias mkdir&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;mkdir -p&amp;#39;&lt;/span>
+alias less&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;less --raw-control-chars&amp;#39;&lt;/span>
+&lt;span style="color:#75715e"># EDiTor &amp;amp; Clipboard stuff&lt;/span>
+alias e&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;vim&amp;#39;&lt;/span>
+alias se&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;sudo vim&amp;#39;&lt;/span>
+alias pbcopy&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;xclip -selection clipboard&amp;#39;&lt;/span>
+alias pbpaste&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;xclip -selection clipboard -o&amp;#39;&lt;/span>
+&lt;span style="color:#75715e"># show sorted directory sizes for all directories&lt;/span>
+alias duh&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;du -s ~/* | cut -f1 | spark &amp;amp;&amp;amp; du -sch ~/*&amp;#39;&lt;/span>
+alias duhere&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;du -s ./* | cut -f1 | spark &amp;amp;&amp;amp; du -sch ./*&amp;#39;&lt;/span>
+alias dua&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;du --max-depth=1 ~ | cut -f1 | spark &amp;amp;&amp;amp; du -ch --max-depth=1 ~&amp;#39;&lt;/span>
+alias dfh&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;df -h&amp;#39;&lt;/span>
+&lt;span style="color:#75715e"># system monitoring &amp;amp; updating&lt;/span>
+alias dpkgl&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;dpkg -l | grep&amp;#34;&lt;/span>
+alias psg&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;ps auxf | grep&amp;#39;&lt;/span>
+alias local_ports&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;sudo nmap -sT -O localhost&amp;#39;&lt;/span>
+alias traffic&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;sudo tcpdump -i wlan0 -n -s0 -e&amp;#34;&lt;/span>
+alias adga&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;adg &amp;amp;&amp;amp; sudo npm update -g &amp;amp;&amp;amp; antigen update &amp;amp;&amp;amp; vundle-update &amp;amp;&amp;amp; rvm use 2.0.0@global &amp;amp;&amp;amp; gemup &amp;amp;&amp;amp; gem cleanup &amp;amp;&amp;amp; cabal-upgrade&amp;#34;&lt;/span>
+alias acr&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">aac &amp;amp;&amp;amp; sudo &lt;/span>$apt_pref&lt;span style="color:#e6db74"> -y autoremove&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+alias aps&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;apt-cache search&amp;#34;&lt;/span>
+alias apsw&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;apt-cache show&amp;#34;&lt;/span>
+&lt;span style="color:#75715e"># Ruby&lt;/span>
+alias b&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;bundle exec&amp;#39;&lt;/span>
+alias bi&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;bundle install&amp;#39;&lt;/span>
+alias br&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;bundle exec rake&amp;#39;&lt;/span>
+alias birb&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;bundle exec irb&amp;#39;&lt;/span>
+alias lr&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;rake -T&amp;#39;&lt;/span>
+alias tests&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;bundle exec rake test&amp;#39;&lt;/span>
+alias gemi&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;gem install --no-rdoc --no-ri&amp;#39;&lt;/span>
+alias geml&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;gem list&amp;#39;&lt;/span>
+alias gemla&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;gem list -a&amp;#39;&lt;/span>
+alias gemun&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;gem uninstall&amp;#39;&lt;/span>
+compdef _gem_installed gemun&lt;span style="color:#f92672">=&lt;/span>installed_gems
+alias gemup&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;gem update --no-rdoc --no-ri&amp;#39;&lt;/span>
+compdef _gem_installed gemup&lt;span style="color:#f92672">=&lt;/span>installed_gems
+&lt;span style="color:#75715e"># Node&lt;/span>
+alias npmi&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;npm install --save&amp;#39;&lt;/span>
+alias npml&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;npm list&amp;#39;&lt;/span>
+alias npmla&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;npm list --global&amp;#39;&lt;/span>
+alias npms&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;npm search&amp;#39;&lt;/span>
+alias npmsw&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;npm show&amp;#39;&lt;/span>
+alias npmup&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;npm update&amp;#39;&lt;/span>
+alias npmun&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;npm uninstall --save&amp;#39;&lt;/span>
+alias bower&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;noglob bower&amp;#39;&lt;/span>
+alias bowi&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;bower install --save&amp;#39;&lt;/span>
+alias bowl&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;bower list&amp;#39;&lt;/span>
+alias bows&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;bower search&amp;#39;&lt;/span>
+alias bowsw&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;bower info&amp;#39;&lt;/span>
+alias bowup&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;bower update&amp;#39;&lt;/span>
+alias bowun&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;bower uninstall --save&amp;#39;&lt;/span>
+compdef _bower_installed_packages bowun
+alias nw&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;~/sites/desktop/node-webkit/nw&amp;#39;&lt;/span>
+&lt;span style="color:#75715e"># Environmental Establishment&lt;/span>
+alias cli&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;cd ~/Insync/caseykuhlman@watershedlegal.com/A.Clients&amp;#34;&lt;/span>
+alias clear!&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;cd ~/ &amp;amp;&amp;amp; source .zshrc &amp;amp;&amp;amp; clear&amp;#34;&lt;/span>
+alias reload!&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;source ~/.zshrc &amp;amp;&amp;amp; cd .. &amp;amp;&amp;amp; cd -&amp;#34;&lt;/span>
+&lt;span style="color:#75715e"># Command Line Tools&lt;/span>
+alias decrypter&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;ghostscript -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=unencrypted.pdf -c .setpdfwrite -f&amp;#34;&lt;/span>
+alias subl&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;/home/coda/.bin/sublime&amp;#34;&lt;/span>
+alias lt&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;/opt/LightTable/LightTable&amp;#34;&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>One thing which should be mentioned is the difference between functions and aliases. There is a subtle difference between the two. Basically an alias is like a contraction. It is just a shorthand thing for a specific other command. So there is not much you can do with it AFTER the alias. If you need to pass the function a variable (like a file or a folder or a switch) then you should use a function. If you do not need to pass a variable of any time then you can use aliases if you are not trying to do something terribly complex. If there are a lot of steps to what you are trying to accomplish then a function is usually the better way to go even if it does not require any variables. Those are my two cents, am sure others may feel differently.&lt;/p>
+&lt;p>And that is it. Type a few commands, copy and paste some files and you'll be good to go with a dynamic, fast, and totally beautiful and useable shell at the push of a button.&lt;/p>
+&lt;p>Happy Hacking!&lt;/p>
+&lt;p>~ # ~&lt;/p></description></item></channel></rss>

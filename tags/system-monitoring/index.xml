@@ -1,1 +1,124 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>system monitoring on underWater desert Blogging</title><link>https://caseykuhlman.com/tags/system-monitoring/</link><description>Recent content in system monitoring on underWater desert Blogging</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>All Content Licensed CC BY-NC-SA 4.0</copyright><lastBuildDate>Wed, 05 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://caseykuhlman.com/tags/system-monitoring/index.xml" rel="self" type="application/rss+xml"/><item><title>Conky -- Smooth Operations</title><link>https://caseykuhlman.com/muniments/2014/2014-02-05-on-conky/</link><pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate><guid>https://caseykuhlman.com/muniments/2014/2014-02-05-on-conky/</guid><description>Conky is a wonderful addition to your Linux desktop. It is a very lightweight system monitoring application which can be designed to look very different to fit your style. Here's my setup.</description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>underWater desert Blogging</title><link>https://caseykuhlman.com/</link><description>A Site About Resilience and Authoritarianism</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>casey@caseykuhlman.com (Casey Kuhlman)</managingEditor><webMaster>casey@caseykuhlman.com (Casey Kuhlman)</webMaster><copyright>All Content Licensed CC BY-NC-SA 4.0</copyright><lastBuildDate>Wed, 05 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://caseykuhlman.com/tags/system-monitoring/index.xml" rel="self" type="application/rss+xml"/><item><title>Conky -- Smooth Operations</title><link>https://caseykuhlman.com/muniments/2014/2014-02-05-on-conky/</link><pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate><author>casey@caseykuhlman.com (Casey Kuhlman)</author><guid>https://caseykuhlman.com/muniments/2014/2014-02-05-on-conky/</guid><description>&lt;p>&lt;a href="http://conky.sourceforge.net">Conky&lt;/a> is a tool I have used since about the time I started using Linux. It is a great piece of kit. When you first start using Conky it can be a bit overwhelming because it has a ton of options and configuring it is not terribly straight forward for those who do not like command line and editing files. But once you get over the initial hump it is amazing. It is a set and forget tool that I have used for years with very little modification once I had my initial set up. Here is what my current setup looks like:&lt;/p>
+&lt;p>I know what the different rings mean, but no one else does. So as a way of introduction the rings are as follows:&lt;/p>
+&lt;ol>
+&lt;li>Clock.&lt;/li>
+&lt;li>Processor load (I have an i9 processor with 8 cores so that is why there are eight half concentric rings layered into one ring).&lt;/li>
+&lt;li>Memory load (outside) | Battery charge (inside).&lt;/li>
+&lt;li>Network traffic (left side outer is outbound via ethernet, left inner is inbound via ethernet, right side outer is outbound via wireless, right side inner is inbound via wireless) | Network ports (deep inner).&lt;/li>
+&lt;li>Drives (percent used on various drives).&lt;/li>
+&lt;/ol>
+&lt;p>On &lt;a href="https://github.com/compleatang/Conky">this page&lt;/a> you can see how my conky looks with other wallpapers.&lt;/p>
+&lt;h2 id="setting-up-conky">Setting up Conky&lt;/h2>
+&lt;p>In Ubuntu, Conky is in the main repositories so it is very straight forward to install:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">$ sudo apt-get install conky
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>When the installation finishes you will be all set up. If you prefer a GUI to set up your conky with some pretty good looking initial themes, then I would encourage you to read this article over at &lt;a href="http://wsl.so/1gLQnQH">WebUPD8&lt;/a> and follow the instructions for installing conky manager.&lt;/p>
+&lt;p>I prefer to fork and modify other people's open source code and so that is what the rest of this tutorial will work towards. To get an idea of the different things that you can do with conky I would encourage you to glance at the above article first, and then go over to DeviantArt and look through the &lt;a href="http://wsl.so/1gLQJ9R">Conky galleries&lt;/a>. I originally did this but have heavily modified my theme which was originally based on &lt;a href="http://wsl.so/1gLR7Fv">work&lt;/a> by &lt;a href="http://wsl.so/1gLR8Jr">LondonAli at DeviantArt&lt;/a>. She has some beautiful conky themes she has built and her gallery is well worth pursuing.&lt;/p>
+&lt;p>If you find a theme which you like then you simply download the .zip file and extract it into your &lt;code>~/.conky&lt;/code> folder. Generally to do this, I right click on the Download link on the top of the right sidebar in DeviantArt, then Copy Link. After that, in terminal I type:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">$ cd ~/.conky
+$ wget -O conky.tgz $PASTE_LINK_WITH_CTRL_SHIFT_V
+$ tar -xzvf conky.tgz
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Or, if it is a zip download&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">$ cd ~/.conky
+$ wget -O conky.zip $PASTE_LINK_WITH_CTRL_SHIFT_V
+$ unzip conky
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Once the files are extracted into your conky folder then you will want to cd into that directory and look at what you actually have. If all the files extracted into their own directory, I generally will move them back to the normal conky directory. Now, you are ready to start conky. I use the command line when I'm testing conky because you will be wanting to stop and restart it as you make hacks along the way.&lt;/p>
+&lt;p>In the command line again, the command to start conky is simple:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">$ conky -c $CONKY_RC_FILE
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Then, when you want to stop it you simply type &lt;code>CTRL+C&lt;/code> when you are in your terminal. (By the by, ctrl+c in a terminal is cancel. This is why in terminal you need to type ctrl+SHIFT+c to copy something. This is a bit confusing and I've been thinking I need to change this default (which you can always do by modifying your shell config files) but haven't yet done it.)&lt;/p>
+&lt;p>When I was starting with Conky, I downloaded many conky configs from DeviantArt and then started conky with one, then stopped it and started it again with another, etc. until I found the one that I liked. So when you extract the archive you downloaded from DeviantArt usually you will want to see that the different conkyrc files have different names so that you can try different ones on your desktop.&lt;/p>
+&lt;p>On more sophisticated setups there are two files that conky will need, a conkyrc file which is the main file and a lua file which is used to draw cool shapes and sizes. Here is my conkyrc file. If you want to see my conky.lua file it is available &lt;a href="https://github.com/compleatang/Conky/blob/master/conky.lua">here&lt;/a>.&lt;/p>
+&lt;pre>&lt;code>#--- Conkyrc, Originally by londonali1010, modified by compleatang ---#
+background no
+net_avg_samples 2
+cpu_avg_samples 2
+no_buffers yes
+double_buffer yes
+update_interval 1.0
+default_color 467159
+own_window yes
+own_window_type normal
+own_window_class conky
+own_window_hints undecorated,skip_taskbar,skip_pager,sticky,below
+own_window_transparent no
+own_window_argb_visual yes
+own_window_argb_value 0
+border_inner_margin 0
+border_outer_margin 0
+default_outline_color white
+default_shade_color white
+draw_borders no
+draw_graph_borders yes
+stippled_borders 0
+draw_outline no
+draw_shades no
+draw_shadows no
+show_graph_scale no
+show_graph_range no
+use_xft yes
+xftfont Sawasdee:size=24
+xftalpha 0.8
+uppercase no
+minimum_size 1366 300
+maximum_width 1366
+use_spacer none
+alignment tm
+gap_x 0
+gap_y 50
+lua_load ~/.conky/conky.lua
+lua_draw_hook_pre conky_widgets
+TEXT
+${voffset 100}${alignc}${time %A, %d %B %Y}
+&lt;/code>&lt;/pre>&lt;p>Once you have those installed and modified to your liking you are more or less all set.&lt;/p>
+&lt;h2 id="take-your-conky-to-the-next-level-with-auto-colors">Take Your Conky to the Next Level with Auto-Colors&lt;/h2>
+&lt;p>I was interested in seeing if I could modify my conky to automatically pick colors that complement my wallpaper and I wanted it to run whenever I changed my wallpaper. This is a hack to be sure, but it works on Ubuntu at least. One of the things that Ubuntu (or Gnome, am not sure) does is when you tell it there is a new wallpaper but pick a file from a different location, it will copy that file into the ~/Wallpapers folder. I keep my wallpapers in my Dropbox so what I did was to set up a ruby process that watches the Wallpapers folder and when a new file is added, it modifies conky for me.&lt;/p>
+&lt;p>The ruby file is pretty straight forward, but to use it you will have to install two gems with &lt;code>gem install listen miro&lt;/code>. After installing those gems, you are set.&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-ruby" data-lang="ruby">&lt;span style="color:#75715e">#!/usr/bin/env ruby&lt;/span>
+require &lt;span style="color:#e6db74">&amp;#39;miro&amp;#39;&lt;/span>
+require &lt;span style="color:#e6db74">&amp;#39;listen&amp;#39;&lt;/span>
+&lt;span style="color:#75715e"># set defaults&lt;/span>
+@conky_rc_file &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#39;/home/coda/.conky/conkyrc&amp;#39;&lt;/span>
+@conky_lua_file &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#39;/home/coda/.conky/conky.lua&amp;#39;&lt;/span>
+watch_dir &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#39;/home/coda/Wallpapers&amp;#39;&lt;/span>
+&lt;span style="color:#75715e"># miro options&lt;/span>
+&lt;span style="color:#66d9ef">Miro&lt;/span>&lt;span style="color:#f92672">.&lt;/span>options&lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#e6db74">:color_count&lt;/span>&lt;span style="color:#f92672">]&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">6&lt;/span>
+&lt;span style="color:#f92672">&lt;/span>&lt;span style="color:#66d9ef">Miro&lt;/span>&lt;span style="color:#f92672">.&lt;/span>options&lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#e6db74">:resolution&lt;/span>&lt;span style="color:#f92672">]&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#39;1500x1500&amp;#39;&lt;/span>
+&lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">&lt;/span>&lt;span style="color:#f92672">&lt;/span>&lt;span style="color:#a6e22e">get_colors&lt;/span>(new_wallpaper)
+puts &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">getting colors for &lt;/span>&lt;span style="color:#e6db74">#{&lt;/span>new_wallpaper&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+colors &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">Miro&lt;/span>&lt;span style="color:#f92672">::&lt;/span>&lt;span style="color:#66d9ef">DominantColors&lt;/span>&lt;span style="color:#f92672">.&lt;/span>new(new_wallpaper)&lt;span style="color:#f92672">.&lt;/span>to_hex&lt;span style="color:#f92672">.&lt;/span>sort
+@conky_txt_color_default &lt;span style="color:#f92672">=&lt;/span> colors&lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>&lt;span style="color:#f92672">&lt;/span>&lt;span style="color:#f92672">]&lt;/span>&lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>&lt;span style="color:#f92672">&lt;/span>&lt;span style="color:#f92672">..&lt;/span>&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>&lt;span style="color:#f92672">&lt;/span>&lt;span style="color:#f92672">]&lt;/span>
+@conky_bg_color_default &lt;span style="color:#f92672">=&lt;/span> colors&lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#ae81ff">0&lt;/span>&lt;span style="color:#f92672">&lt;/span>&lt;span style="color:#f92672">]&lt;/span>&lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>&lt;span style="color:#f92672">&lt;/span>&lt;span style="color:#f92672">..&lt;/span>&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>&lt;span style="color:#f92672">&lt;/span>&lt;span style="color:#f92672">]&lt;/span>
+@conky_fg_color_default &lt;span style="color:#f92672">=&lt;/span> colors&lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#ae81ff">3&lt;/span>&lt;span style="color:#f92672">&lt;/span>&lt;span style="color:#f92672">]&lt;/span>&lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>&lt;span style="color:#f92672">&lt;/span>&lt;span style="color:#f92672">..&lt;/span>&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>&lt;span style="color:#f92672">&lt;/span>&lt;span style="color:#f92672">]&lt;/span>
+&lt;span style="color:#66d9ef">end&lt;/span>
+&lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">&lt;/span>&lt;span style="color:#f92672">&lt;/span>&lt;span style="color:#a6e22e">replace_colors_all&lt;/span> text, bg, fg
+system(&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">sed &amp;#39;-i&amp;#39; &amp;#39;s/default_color .*$/default_color &lt;/span>&lt;span style="color:#e6db74">#{&lt;/span>text&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">/&amp;#39; &lt;/span>&lt;span style="color:#e6db74">#{&lt;/span>@conky_rc_file&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>)
+system(&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">sed &amp;#39;-i&amp;#39; &amp;#39;s/color_bg .*$/color_bg = 0x&lt;/span>&lt;span style="color:#e6db74">#{&lt;/span>bg&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">/&amp;#39; &lt;/span>&lt;span style="color:#e6db74">#{&lt;/span>@conky_lua_file&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>)
+system(&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">sed &amp;#39;-i&amp;#39; &amp;#39;s/color_fg .*$/color_fg = 0x&lt;/span>&lt;span style="color:#e6db74">#{&lt;/span>fg&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">/&amp;#39; &lt;/span>&lt;span style="color:#e6db74">#{&lt;/span>@conky_lua_file&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>)
+&lt;span style="color:#66d9ef">end&lt;/span>
+listener &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">Listen&lt;/span>&lt;span style="color:#f92672">.&lt;/span>to(watch_dir) &lt;span style="color:#66d9ef">do&lt;/span> &lt;span style="color:#f92672">|&lt;/span>modified, added, removed&lt;span style="color:#f92672">|&lt;/span>
+&lt;span style="color:#66d9ef">if&lt;/span> added&lt;span style="color:#f92672">.&lt;/span>last
+get_colors(added&lt;span style="color:#f92672">.&lt;/span>last)
+replace_colors_all(@conky_txt_color_default, @conky_bg_color_default, @conky_fg_color_default)
+&lt;span style="color:#66d9ef">end&lt;/span>
+&lt;span style="color:#66d9ef">end&lt;/span>
+listener&lt;span style="color:#f92672">.&lt;/span>start
+sleep
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Since the conky deamon watches the conky files and will reload itself when the files are modified you do not have to add a restart command to restart conky. To make this run on startup and to stay running as a deamon in the background along with conky this is what I did. Another gem to install with &lt;code>gem install foreman&lt;/code>. Then add a Procfile to the ~/.conky folder that looks like this:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-ruby" data-lang="ruby">&lt;span style="color:#e6db74">conky_main&lt;/span>: &lt;span style="color:#e6db74">/&lt;/span>&lt;span style="color:#e6db74">usr&lt;/span>&lt;span style="color:#e6db74">/&lt;/span>bin&lt;span style="color:#f92672">/&lt;/span>conky &lt;span style="color:#f92672">-&lt;/span>c &lt;span style="color:#e6db74">/&lt;/span>&lt;span style="color:#e6db74">home&lt;/span>&lt;span style="color:#e6db74">/&lt;/span>coda&lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#f92672">.&lt;/span>conky&lt;span style="color:#f92672">/&lt;/span>conkyrc
+&lt;span style="color:#e6db74">conky_colors&lt;/span>: &lt;span style="color:#e6db74">/&lt;/span>&lt;span style="color:#e6db74">home&lt;/span>&lt;span style="color:#e6db74">/&lt;/span>coda&lt;span style="color:#f92672">/&lt;/span>&lt;span style="color:#f92672">.&lt;/span>conky&lt;span style="color:#f92672">/&lt;/span>conky_colorsd
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Lastly, I added a custom startup script:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">&lt;span style="color:#75715e">#!/usr/bin/env zsh
+&lt;/span>&lt;span style="color:#75715e">&lt;/span>source ~/.zshrc
+foreman start -f /home/coda/.conky/Procfile &amp;amp;
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Once you add the startup script, you will need to make sure you can execute it with &lt;code>chmod +x startup.sh&lt;/code> or whatever you call it. The final step is to call the startup script when you log into your computer by adding it to your Startup Applications. After that you are all set. The startup script will start foreman, which will start normal conky with the right conkyrc that you give to it and also the conky_colorsd deamon which will watch for wallpaper changes.&lt;/p>
+&lt;h2 id="further-customization">Further Customization&lt;/h2>
+&lt;p>The conky_colorsd daemon is OK. But sometimes it gets the colors wrong. Also if I used a Wallpaper from the ~/Wallpaper folder (one I've used before) or from the standard Ubuntu wallpapers, the daemon will not see those changes and will not run the modification script. So I also built a conky_colors which is executable. I symlink this into my ~/.bin folder so that I can always call &lt;code>conky_colors&lt;/code> from the command line. The process for conky_colors is roughly the same, it will look at the Wallpaper that currently is there, find its primary colors and then allow me to pick which colors I want to use for the text, ring forground and ring background.&lt;/p>
+&lt;p>There is one minor hiccup in the miro gem which does not do well parsing files that have spaces in them. So sometimes when you change to a wallpaper and nothing happens, it could be because of that, running the manual script should solve that process.&lt;/p>
+&lt;p>Voila! A completely wonderful system.&lt;/p>
+&lt;h2 id="want-to-just-copy-me">Want to Just Copy Me?&lt;/h2>
+&lt;p>No problem as long as you have ruby installed on your system. Two steps and you're set:&lt;/p>
+&lt;ol>
+&lt;li>&lt;code>cd ~ &amp;amp;&amp;amp; git clone https://github.com/compleatang/Conky.git .conky &amp;amp;&amp;amp; gem install listen miro foreman&lt;/code>&lt;/li>
+&lt;li>Add ~/.conky/startup.sh to your Startup Applications&lt;/li>
+&lt;/ol>
+&lt;p>Happy Hacking!&lt;/p>
+&lt;p>~ # ~&lt;/p></description></item></channel></rss>
