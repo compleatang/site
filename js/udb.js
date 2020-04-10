@@ -9,7 +9,6 @@ function showMailingPopUp() {
 };
 
 document.addEventListener("DOMContentLoaded", function (event) {
-  document.querySelector('[title="Email"]').style.border = "thick solid red";
   document.querySelector('[title="Email"]').addEventListener("click", function (event) {
     event.preventDefault();
     showMailingPopUp();
