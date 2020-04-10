@@ -33,13 +33,18 @@ languageCode = "en-us"
   ]
 
   customJS = [
-    "/js/udb.js",
-    "//static.getclicky.com/js"
+    "//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js",
+    "//static.getclicky.com/js",
+    "/js/udb.js"
   ]
 
   [params.logo]
     logoText = "cd ~/"
     logoHomeLink = "/"
+
+  [[params.social]]
+    name = "email"
+    url = "#"
 
   [[params.social]]
     name = "twitter"
