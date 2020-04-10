@@ -55,6 +55,8 @@ Social and political systems are now in a position where they could potentially 
 
 {{< tweet 1242954902541930499 >}}
 
-What stays on my mind these days in the quiet moments after my son and wife are in bed and before I fall asleep are the interplays between the rise of authoritarianism and the demise of resiliency. Please follow however you like to follow such things. More tomorrow; because, after all, other than run a business and parent and home school what do I really have to do?
+What stays on my mind these days in the quiet moments after my son and wife are in bed and before I fall asleep are the interplays between the rise of authoritarianism and the demise of resiliency. Please follow however you like to follow such things (the options for doing so are on the [home page](/)). 
+
+More tomorrow; because, after all, other than run a business and parent and home school what do I really have to do?
 
 {{< imagecredit >}}
