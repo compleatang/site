@@ -9,6 +9,7 @@ languageCode = "en-us"
 
 [author]
   name = "Casey Kuhlman"
+  email = "casey@caseykuhlman.com"
 
 [params]
   dateform        = "2 Jan, 2006"
