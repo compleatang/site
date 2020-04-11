@@ -60,3 +60,5 @@ What stays on my mind these days in the quiet moments after my son and wife are 
 More tomorrow; because, after all, other than run a business and parent and home school what do I really have to do?
 
 {{< imagecredit >}}
+
+{{< follow >}}
