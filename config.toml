@@ -32,10 +32,11 @@ languageCode = "en-us"
     "img/udp.jpg"
   ]
 
+  # NOTE - keep clicky last.
   customJS = [
     "//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js",
-    "//static.getclicky.com/js",
-    "/js/udb.js"
+    "/js/udb.js",
+    "//static.getclicky.com/js"
   ]
 
   [params.logo]
