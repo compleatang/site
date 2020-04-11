@@ -8,7 +8,7 @@ function showMailingPopUp() {
 };
 
 document.addEventListener("DOMContentLoaded", function (event) {
-  document.querySelector('[title="Email"]').addEventListener("click", function (event) {
+  document.querySelector('a[title="Email"]').addEventListener("click", function (event) {
     event.preventDefault();
     document.cookie = 'MCPopupClosed=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC;';
     document.cookie = 'MCPopupSubscribed=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC;';
