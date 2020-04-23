@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/compleatang
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://caseykuhlman.com
+  * I am compleatang (https://keybase.io/compleatang) on keybase.
+  * I have a public key ASCJnbk2WAF_lzBWdCy2DctCor1f7Vmtqk6XWFm7pMNnMQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b30c8ebadbed75c457384ef6145c80f8482f186193f64e9930f2a878f6f7b02f0a",
+      "host": "keybase.io",
+      "kid": "0120899db93658017f973056742cb60dcb42a2bd5fed59adaa4e975859bba4c367310a",
+      "uid": "957be1670c88298150035b7f16c17119",
+      "username": "compleatang"
+    },
+    "merkle_root": {
+      "ctime": 1587641229,
+      "hash": "ccc7f2e3510884058c202d17f13c9453623c1ed992bde450116c2ecda87376a1cbd4ed67048576d865c648a347a025a1589c783acaab9e2d6fa37a5a21d2fd4e",
+      "hash_meta": "d9cf7dceec851643598337e4f00436315de771d546d42676c3defeb84f04a3dc",
+      "seqno": 16024170
+    },
+    "service": {
+      "entropy": "vmWitiA3o3WqRFmp9lwUK5GK",
+      "hostname": "caseykuhlman.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.0"
+  },
+  "ctime": 1587641260,
+  "expire_in": 504576000,
+  "prev": "e17d6ec64f827af880feba42826919a83b3d8a032830b42ec8bb4b1040634a6c",
+  "seqno": 271,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiZ25NlgBf5cwVnQstg3LQqK9X+1ZrapOl1hZu6TDZzEKp3BheWxvYWTETJcCzQEPxCDhfW7GT4J6+ID+ukKCaRmoOz2KAygwtC7Iu0sQQGNKbMQgKZvFKgLXvhZA/E/OWmaYwO2ME9nYdP1E6AGL7Wa9b2cCAcKjc2lnxECsY4h8MCcpEO4CVuHsDHwrPIJHCK2u6iOoALcyAommPvkVu5DBjGxFOqhRRmuAUrsyz3EQTbdhyyfF9iyPLOcNqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg89pQDqEnk2uKq6mkJZmmHT/7pW9EneagWEtt4fLscJOjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/compleatang
+
+==================================================================
