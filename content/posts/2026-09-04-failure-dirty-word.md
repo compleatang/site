@@ -29,4 +29,6 @@ In the holidays of 2013 I went home to the US and was spending time with my fami
 
 Since that time I've had an astounding record of misses. Or near misses. Or learnings. Or, just failures.
 
-Just an utterly amazing record. Let's dive in.
+Just an utterly amazing record.
+
+Let's dive in.
