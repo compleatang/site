@@ -1,0 +1,11 @@
+<footer class="post-footer">
+    {% if page.image and page.extra.coverAttribution %}
+    <p class="cover-attribution">Cover photo by <a href="https://unsplash.com/{{ page.extra.coverAttribution.username }}" target="_blank" rel="noopener">{{ page.extra.coverAttribution.photog }}</a> on <a href="https://unsplash.com/" target="_blank" rel="noopener">Unsplash</a></p>
+    {% endif %}
+    <dl class="post-details">
+        {% if page.tags | length > 0 %}<div><dt>Tags</dt><dd>{% for tag in page.tags %}<a href="{{ lang_prefix }}/tags/{{ tag | slugify }}/">#{{ tag }}</a>{% if not loop.last %} {% endif %}{% endfor %}</dd></div>{% endif %}
+        <div><dt>Words</dt><dd>{{ page.word_count }} words</dd></div>
+        {% if page.date %}<div><dt>Published</dt><dd>{{ page.date }}</dd></div>{% endif %}
+        {% if page.updated %}<div><dt>Updated</dt><dd>{{ page.updated }}</dd></div>{% endif %}
+    </dl>
+</footer>

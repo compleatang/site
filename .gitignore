@@ -1,0 +1,8 @@
+.direnv
+.seite
+.cortexkit
+
+node_modules
+
+dist
+dist-subdomains

@@ -1,0 +1,14 @@
+<footer>
+    {% if data.footer %}{% if data.footer.links %}
+    <nav aria-label="Footer navigation">
+        {% for link in data.footer.links %}{% if link.external %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.title }}</a>{% else %}<a href="{{ lang_prefix }}{{ link.url }}">{{ link.title }}</a>{% endif %}{% if not loop.last %} &middot; {% endif %}{% endfor %}
+    </nav>
+    {% endif %}{% endif %}
+    {% if data.footer %}
+    <p class="site-copyright">
+        <span>&copy; {{ data.footer.year }}</span><span aria-hidden="true">&middot;</span><a href="{{ lang_prefix }}/">{{ data.footer.author }}</a><span aria-hidden="true">&middot;</span><a href="{{ data.footer.license_url }}" rel="license" target="_blank">{{ data.footer.license_text }}</a><span aria-hidden="true">&middot;</span><a href="{{ lang_prefix }}/feed.xml" aria-label="RSS feed"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 11a9 9 0 0 1 9 9M4 4a16 16 0 0 1 16 16"/><circle cx="4" cy="19" r="1"/></svg></a>
+    </p>
+    {% else %}
+    <p>&copy; {{ site.author }}</p>
+    {% endif %}
+</footer>

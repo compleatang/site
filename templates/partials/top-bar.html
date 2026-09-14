@@ -1,0 +1,8 @@
+<div class="site-top-bar">
+    <a class="terminal-mark" href="{{ lang_prefix }}/" aria-label="{{ site.title }} home"><span>&gt;</span> cd ~/<span class="terminal-cursor" aria-hidden="true"></span></a>
+    {% if data.nav %}
+    <nav class="landing-nav" aria-label="Main navigation">
+        {% for item in data.nav %}{% if item.external %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>{% else %}<a href="{{ lang_prefix }}{{ item.url }}">{{ item.title }}</a>{% endif %}{% endfor %}
+    </nav>
+    {% endif %}
+</div>

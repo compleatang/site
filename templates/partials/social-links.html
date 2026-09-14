@@ -1,0 +1,3 @@
+<nav class="social-links" aria-label="Social links">
+    {% for link in data.social %}{% if link.external %}<a href="{{ link.url }}" target="_blank" rel="noopener" aria-label="{{ link.title }}">{% else %}<a href="{{ link.url }}" aria-label="{{ link.title }}">{% endif %}<svg class="icon-tabler" viewBox="0 0 24 24" aria-hidden="true"><use href="/static/icons/social.svg#{{ link.icon }}"></use></svg></a>{% endfor %}
+</nav>

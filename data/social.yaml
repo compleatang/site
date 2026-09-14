@@ -1,0 +1,15 @@
+- title: Email
+  icon: mail
+  url: mailto:casey+blog@caseykuhlman.com
+- title: X
+  icon: x
+  url: https://twitter.com/compleatang
+  external: true
+- title: LinkedIn
+  icon: linkedin
+  url: https://www.linkedin.com/in/compleatang/
+  external: true
+- title: GitHub
+  icon: github
+  url: https://github.com/compleatang/
+  external: true
